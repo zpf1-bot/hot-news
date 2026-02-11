@@ -6,7 +6,7 @@ from datetime import datetime
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from news_fetcher import fetch_all_news
 
-OUTPUT_DIR = 'static/data'
+OUTPUT_DIR = 'data'
 CATEGORIES = {
     'tech': ['AI', 'LLM', 'GPT', 'GitHub', 'Product Hunt', '36kr', 'Hacker News'],
     'finance': ['股票', '加密货币', '华尔街见闻', 'Finance', 'Market', 'A股', '比特币'],
