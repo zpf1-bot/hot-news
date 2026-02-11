@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>分类新闻 - 每日热门新闻</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header class="header">
+        <a href="/" class="back-link">← 返回首页</a>
+        <h1 id="categoryTitle">分类新闻</h1>
+    </header>
+    
+    <nav class="category-nav">
+        <a href="/" class="nav-item" data-category="all">全部</a>
+        <a href="/category/tech" class="nav-item" data-category="tech">科技</a>
+        <a href="/category/finance" class="nav-item" data-category="finance">财经</a>
+        <a href="/category/social" class="nav-item" data-category="social">社会</a>
+    </nav>
+    
+    <main class="main-content">
+        <div class="news-header">
+            <span class="update-time" id="updateTime"></span>
+            <button class="refresh-btn" onclick="refreshNews()">🔄 刷新</button>
+        </div>
+        
+        <div class="news-list" id="newsList">
+            <div class="loading">加载中...</div>
+        </div>
+    </main>
+    
+    <div class="modal" id="newsModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <div class="modal-body" id="modalBody">
+            </div>
+        </div>
+    </div>
+    
+    <footer class="footer">
+        <p>数据来源：Hacker News · GitHub Trending · 微博 · 36氪 · Product Hunt · 腾讯新闻 · 华尔街见闻 · V2EX</p>
+    </footer>
+    
+    <script src="/static/js/main.js"></script>
+    <script>
+        const currentCategory = '{{ category }}';
+        document.addEventListener('DOMContentLoaded', () => {
+            loadNews(currentCategory);
+            document.querySelectorAll('.nav-item').forEach(item => {
+                item.classList.toggle('active', item.dataset.category === currentCategory);
+            });
+            const titles = {tech: '科技', finance: '财经', social: '社会', comprehensive: '综合'};
+            document.getElementById('categoryTitle').textContent = titles[currentCategory] || '分类新闻';
+        });
+    </script>
+</body>
+</html>

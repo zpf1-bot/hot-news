@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: hot-news-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.10"
+    disk:
+      path: /home/zpf/my_skills/hot-news-site/data
+      mountPath: /data
+      sizeGB: 1
+
+  - type: cron
+    name: hot-news-cron
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python cron_job.py
+    schedule: "0 0 * * *"  # 每天凌晨0点
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.10"
