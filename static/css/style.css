@@ -332,6 +332,11 @@ body {
     font-size: 0.8rem;
 }
 
+.auto-refresh-info {
+    margin-top: 10px;
+    color: #27ae60;
+}
+
 @media (max-width: 600px) {
     .header {
         padding: 15px;

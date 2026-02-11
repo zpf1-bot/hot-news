@@ -1,0 +1,41 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "微博热搜：春节档电影票房创新高",
+      "source": "微博热搜",
+      "url": "https://weibo.com",
+      "time": "2026-02-11T12:00:00",
+      "heat": 45600,
+      "category": "social"
+    },
+    {
+      "id": 2,
+      "title": "腾讯新闻：各地春节返程高峰",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com",
+      "time": "2026-02-11T11:00:00",
+      "heat": 38900,
+      "category": "social"
+    },
+    {
+      "id": 3,
+      "title": "春节假期结束，你的心情如何？",
+      "source": "微博热搜",
+      "url": "https://weibo.com",
+      "time": "2026-02-11T08:00:00",
+      "heat": 52100,
+      "category": "social"
+    },
+    {
+      "id": 4,
+      "title": "腾讯新闻：返程路上那些事",
+      "source": "腾讯新闻",
+      "url": "https://news.qq.com",
+      "time": "2026-02-11T10:00:00",
+      "heat": 34500,
+      "category": "social"
+    }
+  ],
+  "updated_at": "2026-02-11T10:00:00"
+}

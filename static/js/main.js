@@ -1,4 +1,12 @@
+const CATEGORIES = {
+    'all': 'data/all.json',
+    'tech': 'data/tech.json',
+    'finance': 'data/finance.json',
+    'social': 'data/social.json'
+};
+
 let currentCategory = 'all';
+let allNewsData = null;
 
 async function loadNews(category = 'all') {
     currentCategory = category;
@@ -6,8 +14,7 @@ async function loadNews(category = 'all') {
     newsList.innerHTML = '<div class="loading">加载中...</div>';
     
     try {
-        const url = category === 'all' ? '/api/news' : `/api/news?category=${category}`;
-        const response = await fetch(url);
+        const response = await fetch(CATEGORIES[category]);
         const data = await response.json();
         
         document.getElementById('updateTime').textContent = data.updated_at 
@@ -42,64 +49,37 @@ function renderNews(news) {
     `).join('');
 }
 
-async function openModal(index) {
-    const response = await fetch(`/api/news/${index}`);
-    const news = await response.json();
-    
-    if (news.error) {
-        alert('无法获取新闻详情');
-        return;
-    }
-    
-    const modal = document.getElementById('newsModal');
-    const modalBody = document.getElementById('modalBody');
-    
-    modalBody.innerHTML = `
-        <h2 class="modal-title">${escapeHtml(news.title)}</h2>
-        <div class="modal-meta">
-            <span>📰 ${news.source}</span>
-            <span>🕐 ${formatTime(news.time)}</span>
-            <span class="news-heat">🔥 ${formatHeat(news.heat)}</span>
-            <span>📂 ${getCategoryName(news.category)}</span>
-        </div>
-        <div class="modal-content-text">${escapeHtml(news.content || '暂无详细内容')}</div>
-        <a href="${news.url}" target="_blank" class="modal-link">🔗 阅读原文</a>
-    `;
-    
-    modal.classList.add('show');
-    document.body.style.overflow = 'hidden';
+function openModal(index) {
+    const response = fetch(CATEGORIES[currentCategory])
+        .then(res => res.json())
+        .then(data => {
+            const news = data.news[index];
+            if (!news) return;
+            
+            const modal = document.getElementById('newsModal');
+            const modalBody = document.getElementById('modalBody');
+            
+            modalBody.innerHTML = `
+                <h2 class="modal-title">${escapeHtml(news.title)}</h2>
+                <div class="modal-meta">
+                    <span>📰 ${news.source}</span>
+                    <span>🕐 ${formatTime(news.time)}</span>
+                    <span class="news-heat">🔥 ${formatHeat(news.heat)}</span>
+                    <span>📂 ${getCategoryName(news.category)}</span>
+                </div>
+                <div class="modal-content-text">${escapeHtml(news.content || '暂无详细内容')}</div>
+                <a href="${news.url}" target="_blank" class="modal-link">🔗 阅读原文</a>
+            `;
+            
+            modal.classList.add('show');
+            document.body.style.overflow = 'hidden';
+        });
 }
 
 function closeModal() {
     const modal = document.getElementById('newsModal');
     modal.classList.remove('show');
     document.body.style.overflow = '';
-}
-
-async function refreshNews() {
-    const btn = document.querySelector('.refresh-btn');
-    btn.classList.add('loading');
-    btn.textContent = '刷新中...';
-    
-    try {
-        const response = await fetch('/api/refresh', { method: 'POST' });
-        const data = await response.json();
-        
-        if (data.success) {
-            await loadNews(currentCategory);
-            btn.textContent = '✅ 已刷新';
-        } else {
-            alert('刷新失败: ' + (data.error || '未知错误'));
-        }
-    } catch (error) {
-        console.error('Error refreshing news:', error);
-        alert('刷新失败，请稍后重试');
-    }
-    
-    setTimeout(() => {
-        btn.classList.remove('loading');
-        btn.textContent = '🔄 刷新';
-    }, 2000);
 }
 
 function formatTime(time) {
@@ -143,13 +123,15 @@ function escapeHtml(text) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    loadNews('all');
+    const urlParams = new URLSearchParams(window.location.search);
+    const category = urlParams.get('category') || 'all';
+    loadNews(category);
     
     document.querySelectorAll('.nav-item').forEach(item => {
         item.addEventListener('click', (e) => {
             e.preventDefault();
-            const category = item.dataset.category;
-            window.location.href = category === 'all' ? '/' : `/category/${category}`;
+            const cat = item.dataset.category;
+            window.location.href = cat === 'all' ? 'index.html' : `category-${cat}.html`;
         });
     });
     
