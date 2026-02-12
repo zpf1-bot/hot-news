@@ -136,7 +136,11 @@ document.addEventListener('DOMContentLoaded', () => {
         item.addEventListener('click', (e) => {
             e.preventDefault();
             const cat = item.dataset.category;
-            window.location.href = cat === 'all' ? 'index.html' : `category-${cat}.html`;
+            currentCategory = cat;
+            loadNews(cat);
+            
+            document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
+            item.classList.add('active');
         });
     });
     
