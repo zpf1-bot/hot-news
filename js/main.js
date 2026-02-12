@@ -123,8 +123,13 @@ function escapeHtml(text) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const category = urlParams.get('category') || 'all';
+    const path = window.location.pathname;
+    let category = 'all';
+    
+    if (path.includes('category-tech.html')) category = 'tech';
+    else if (path.includes('category-finance.html')) category = 'finance';
+    else if (path.includes('category-social.html')) category = 'social';
+    
     loadNews(category);
     
     document.querySelectorAll('.nav-item').forEach(item => {
