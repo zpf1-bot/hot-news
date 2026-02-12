@@ -1,32 +1,29 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from urllib.request import urlopen, Request
-from urllib.error import URLError, HTTPError
 
-def fetch_url(url):
+def fetch(url):
     try:
         req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urlopen(req, timeout=10) as response:
-            return response.read().decode('utf-8')
-    except Exception as e:
-        print(f"Error: {e}")
+        return urlopen(req, timeout=8).read().decode('utf-8')
+    except:
         return None
 
-def parse_hacker_news():
-    json_data = fetch_url("https://hacker-news.firebaseio.com/v0/topstories.json")
-    if not json_data:
+def hacker_news():
+    data = fetch("https://hacker-news.firebaseio.com/v0/topstories.json")
+    if not data:
         return []
-    
-    ids = json.loads(json_data)[:10]
+    ids = json.loads(data)[:10]
     news = []
-    for i, story_id in enumerate(ids):
-        item = fetch_url(f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json")
+    for i, sid in enumerate(ids):
+        item = fetch(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json")
         if item:
-            data = json.loads(item)
+            d = json.loads(item)
+            url = d.get('url', f'https://news.ycombinator.com/item?id={sid}')
             news.append({
-                'title': data.get('title', ''),
-                'url': data.get('url', f'https://news.ycombinator.com/item?id={story_id}'),
+                'title': d.get('title', ''),
+                'url': url,
                 'source': 'Hacker News',
                 'time': datetime.now().isoformat(),
                 'heat': 1000 - i * 50,
@@ -34,23 +31,48 @@ def parse_hacker_news():
             })
     return news
 
-def fetch_all_news():
-    print("Fetching news...")
-    return parse_hacker_news()
+def github_trending():
+    yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+    data = fetch(f"https://api.github.com/search/repositories?q=created:>{yesterday}&sort=stars&order=desc")
+    if not data:
+        return []
+    try:
+        items = json.loads(data).get('items', [])[:10]
+        return [{
+            'title': i['full_name'],
+            'url': i['html_url'],
+            'source': 'GitHub',
+            'time': datetime.now().isoformat(),
+            'heat': i.get('stargazers_count', 0),
+            'category': 'tech'
+        } for i in items]
+    except:
+        return []
 
-def save_cache(news_data, cache_file='data/news_cache.json'):
-    os.makedirs(os.path.dirname(cache_file) if os.path.dirname(cache_file) else '.', exist_ok=True)
-    cache = {'news': news_data, 'updated_at': datetime.now().isoformat()}
-    with open(cache_file, 'w', encoding='utf-8') as f:
+def fetch_all():
+    news = []
+    news.extend(hacker_news())
+    print(f"HN: {len(news)}")
+    news.extend(github_trending())
+    print(f"GitHub: {len(news)}")
+    
+    seen = set()
+    unique = []
+    for n in news:
+        url = n.get('url', '')
+        if url and url not in seen:
+            seen.add(url)
+            unique.append(n)
+    
+    unique.sort(key=lambda x: x.get('heat', 0), reverse=True)
+    return unique
+
+def save(news):
+    cache = {'news': news, 'updated_at': datetime.now().isoformat()}
+    with open('data/news_cache.json', 'w', encoding='utf-8') as f:
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
-def load_cache(cache_file='data/news_cache.json'):
-    if os.path.exists(cache_file):
-        with open(cache_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return {'news': [], 'updated_at': None}
-
 if __name__ == '__main__':
-    news = fetch_all_news()
-    print(f"Got {len(news)} news items")
-    save_cache(news)
+    n = fetch_all()
+    print(f"Total: {len(n)}")
+    save(n)

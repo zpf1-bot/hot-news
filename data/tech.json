@@ -4,31 +4,23 @@
       "title": "Discord/Twitch/Snapchat age verification bypass",
       "url": "https://age-verifier.kibty.town/",
       "source": "Hacker News",
-      "time": "2026-02-12T08:33:04.359215",
+      "time": "2026-02-12T09:57:29.854916",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "url": "https://fluorite.game/",
+      "title": "\"Nothing\" is the secret to structuring your work",
+      "url": "https://www.vangemert.dev/blog/nothing",
       "source": "Hacker News",
-      "time": "2026-02-12T08:33:05.276879",
+      "time": "2026-02-12T09:57:38.598928",
       "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "source": "Hacker News",
-      "time": "2026-02-12T08:33:26.217812",
-      "heat": 900,
       "category": "tech"
     },
     {
       "title": "Text classification with Python 3.14's ZSTD module",
       "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
       "source": "Hacker News",
-      "time": "2026-02-12T08:33:26.936754",
+      "time": "2026-02-12T09:57:48.088576",
       "heat": 850,
       "category": "tech"
     },
@@ -36,31 +28,23 @@
       "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
       "url": "https://z.ai/blog/glm-5",
       "source": "Hacker News",
-      "time": "2026-02-12T08:33:27.674784",
+      "time": "2026-02-12T09:57:49.099032",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Reports of Telnet's Death Have Been Greatly Exaggerated",
-      "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+      "title": "Kanchipuram Saris and Thinking Machines",
+      "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
       "source": "Hacker News",
-      "time": "2026-02-12T08:33:38.404660",
+      "time": "2026-02-12T09:57:50.290192",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "\"Nothing\" is the secret to structuring your work",
-      "url": "https://www.vangemert.dev/blog/nothing",
+      "title": "Show HN: Double blind entropy using Drand for verifiably fair randomness",
+      "url": "https://blockrand.net/live.html",
       "source": "Hacker News",
-      "time": "2026-02-12T08:33:39.659633",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "NetNewsWire Turns 23",
-      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-      "source": "Hacker News",
-      "time": "2026-02-12T08:33:50.512737",
+      "time": "2026-02-12T09:58:07.832408",
       "heat": 650,
       "category": "tech"
     },
@@ -68,18 +52,34 @@
       "title": "Claude Code is being dumbed down?",
       "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
       "source": "Hacker News",
-      "time": "2026-02-12T08:34:11.329310",
-      "heat": 600,
+      "time": "2026-02-12T09:58:09.547757",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-      "source": "Hacker News",
-      "time": "2026-02-12T08:34:22.264686",
-      "heat": 550,
+      "title": "Sharukesh134/FITNESS-APP",
+      "url": "https://github.com/Sharukesh134/FITNESS-APP",
+      "source": "GitHub",
+      "time": "2026-02-12T09:58:10.804323",
+      "heat": 11,
+      "category": "tech"
+    },
+    {
+      "title": "AndresRJ18/AZURE-Weather",
+      "url": "https://github.com/AndresRJ18/AZURE-Weather",
+      "source": "GitHub",
+      "time": "2026-02-12T09:58:10.804340",
+      "heat": 4,
+      "category": "tech"
+    },
+    {
+      "title": "CyberSecurityUP/Mary-Poppins-Intelligence",
+      "url": "https://github.com/CyberSecurityUP/Mary-Poppins-Intelligence",
+      "source": "GitHub",
+      "time": "2026-02-12T09:58:10.804344",
+      "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-12T08:34:22.265550"
+  "updated_at": "2026-02-12T09:58:10.805192"
 }
