@@ -11,6 +11,9 @@ on:
       - 'generate_data.py'
       - 'news_fetcher.py'
 
+permissions:
+  contents: write
+
 jobs:
   refresh-news:
     runs-on: ubuntu-latest
