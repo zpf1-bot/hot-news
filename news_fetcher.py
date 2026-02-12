@@ -1,41 +1,97 @@
 import json
 import os
-import sys
-import subprocess
+import re
 from datetime import datetime
+from urllib.request import urlopen
+from urllib.request import Request
+from urllib.error import URLError, HTTPError
 
-SKILL_PATH = os.path.expanduser('~/.agents/skills/news-aggregator-skill')
-DATA_DIR = 'data'
-
-def run_skill_script(source, limit=10, keyword=None, deep=True):
-    cmd = [sys.executable, f'{SKILL_PATH}/scripts/fetch_news.py']
-    cmd.extend(['--source', source])
-    cmd.extend(['--limit', str(limit)])
-    if deep:
-        cmd.append('--deep')
-    if keyword:
-        cmd.extend(['--keyword', keyword])
-    
+def fetch_url(url, headers=None):
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, cwd=SKILL_PATH)
-        if result.returncode == 0:
-            return json.loads(result.stdout)
-    except Exception as e:
-        print(f"Error running skill script for {source}: {e}")
-    return []
+        req = Request(url, headers=headers or {'User-Agent': 'Mozilla/5.0'})
+        with urlopen(req, timeout=15) as response:
+            return response.read().decode('utf-8')
+    except (URLError, HTTPError, Exception) as e:
+        print(f"Error fetching {url}: {e}")
+        return None
+
+def parse_github_trending():
+    html = fetch_url("https://github.com/trending?since=daily")
+    if not html:
+        return []
+    
+    news = []
+    pattern = r'<a class="Link" href="([^"]+)"[^>]*>([^<]+)</a>'
+    for i, match in enumerate(re.finditer(pattern, html)):
+        news.append({
+            'title': match.group(2).strip(),
+            'url': 'https://github.com' + match.group(1),
+            'source': 'GitHub',
+            'time': datetime.now().isoformat(),
+            'heat': 1000 - i * 50,
+            'category': 'tech'
+        })
+        if i >= 9:
+            break
+    return news
+
+def parse_hacker_news():
+    json_data = fetch_url("https://hacker-news.firebaseio.com/v0/topstories.json")
+    if not json_data:
+        return []
+    
+    ids = json.loads(json_data)[:10]
+    news = []
+    for i, story_id in enumerate(ids):
+        item = fetch_url(f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json")
+        if item:
+            data = json.loads(item)
+            news.append({
+                'title': data.get('title', ''),
+                'url': data.get('url', f'https://news.ycombinator.com/item?id={story_id}'),
+                'source': 'Hacker News',
+                'time': datetime.now().isoformat(),
+                'heat': 1000 - i * 50,
+                'category': 'tech'
+            })
+    return news
+
+def parse_product_hunt():
+    html = fetch_url("https://www.producthunt.com/")
+    if not html:
+        return []
+    
+    news = []
+    pattern = r'<a[^>]*href="/posts/([^"]+)"[^>]*>([^<]+)</a>'
+    for i, match in enumerate(re.finditer(pattern, html)):
+        news.append({
+            'title': match.group(2).strip(),
+            'url': 'https://www.producthunt.com/posts/' + match.group(1),
+            'source': 'Product Hunt',
+            'time': datetime.now().isoformat(),
+            'heat': 1000 - i * 50,
+            'category': 'tech'
+        })
+        if i >= 9:
+            break
+    return news
 
 def fetch_all_news():
     all_news = []
-    sources = ['hackernews', 'github', 'weibo', '36kr', 'producthunt', 'tencent', 'wallstreetcn', 'v2ex']
+    sources = [
+        ('GitHub Trending', parse_github_trending),
+        ('Hacker News', parse_hacker_news),
+        ('Product Hunt', parse_product_hunt),
+    ]
     
-    for source in sources:
+    for name, fetcher in sources:
         try:
-            result = run_skill_script(source=source, limit=10, deep=True)
+            result = fetcher()
             if result:
                 all_news.extend(result)
-            print(f"Fetched {len(result) if result else 0} items from {source}")
+            print(f"Fetched {len(result)} items from {name}")
         except Exception as e:
-            print(f"Error fetching {source}: {e}")
+            print(f"Error fetching {name}: {e}")
     
     unique_news = []
     seen_urls = set()
