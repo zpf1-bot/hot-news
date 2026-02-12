@@ -1,4 +1,85 @@
 {
-  "news": [],
-  "updated_at": "2026-02-12T01:23:48.414277"
+  "news": [
+    {
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "url": "https://age-verifier.kibty.town/",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:04.359215",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "url": "https://fluorite.game/",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:05.276879",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:26.217812",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "Text classification with Python 3.14's ZSTD module",
+      "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:26.936754",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+      "url": "https://z.ai/blog/glm-5",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:27.674784",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "Reports of Telnet's Death Have Been Greatly Exaggerated",
+      "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:38.404660",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "\"Nothing\" is the secret to structuring your work",
+      "url": "https://www.vangemert.dev/blog/nothing",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:39.659633",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "NetNewsWire Turns 23",
+      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:33:50.512737",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Claude Code is being dumbed down?",
+      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:34:11.329310",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+      "source": "Hacker News",
+      "time": "2026-02-12T08:34:22.264686",
+      "heat": 550,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-12T08:34:22.265550"
 }
