@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "url": "https://fluorite.game/",
-      "source": "Hacker News",
-      "time": "2026-02-12T09:58:40.194892",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-      "source": "Hacker News",
-      "time": "2026-02-12T09:59:08.966082",
-      "heat": 600,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-02-12T09:59:11.128085"
+  "news": [],
+  "updated_at": "2026-02-13T02:56:36.357796"
 }

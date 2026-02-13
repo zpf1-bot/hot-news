@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Discord/Twitch/Snapchat age verification bypass",
-      "url": "https://age-verifier.kibty.town/",
+      "title": "Resizing windows on macOS Tahoe – the saga continues",
+      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
       "source": "Hacker News",
-      "time": "2026-02-12T09:58:38.650093",
+      "time": "2026-02-13T02:56:34.539035",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "\"Nothing\" is the secret to structuring your work",
-      "url": "https://www.vangemert.dev/blog/nothing",
+      "title": "GPT‑5.3‑Codex‑Spark",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "source": "Hacker News",
-      "time": "2026-02-12T09:58:39.388440",
+      "time": "2026-02-13T02:56:34.650873",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-      "url": "https://fluorite.game/",
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "url": "https://skipthe.tips/",
       "source": "Hacker News",
-      "time": "2026-02-12T09:58:40.194892",
+      "time": "2026-02-13T02:56:34.765290",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Text classification with Python 3.14's ZSTD module",
-      "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "title": "Gemini 3 Deep Think",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
       "source": "Hacker News",
-      "time": "2026-02-12T09:58:48.955517",
+      "time": "2026-02-13T02:56:34.879771",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-      "url": "https://z.ai/blog/glm-5",
+      "title": "AWS Adds support for nested virtualization",
+      "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
       "source": "Hacker News",
-      "time": "2026-02-12T09:58:49.683544",
+      "time": "2026-02-13T02:56:34.994132",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Kanchipuram Saris and Thinking Machines",
-      "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
       "source": "Hacker News",
-      "time": "2026-02-12T09:58:50.544187",
+      "time": "2026-02-13T02:56:35.105783",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "NetNewsWire Turns 23",
-      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+      "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
       "source": "Hacker News",
-      "time": "2026-02-12T09:59:07.329658",
+      "time": "2026-02-13T02:56:35.218642",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Double blind entropy using Drand for verifiably fair randomness",
-      "url": "https://blockrand.net/live.html",
+      "title": "Polis: Open-source platform for large-scale civic deliberation",
+      "url": "https://pol.is/home2",
       "source": "Hacker News",
-      "time": "2026-02-12T09:59:08.049721",
+      "time": "2026-02-13T02:56:35.331875",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "title": "How a Cat Debugged Stable Diffusion (2023)",
+      "url": "https://blog.dwac.dev/posts/cat-debugging/",
       "source": "Hacker News",
-      "time": "2026-02-12T09:59:08.966082",
+      "time": "2026-02-13T02:56:35.446508",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Claude Code is being dumbed down?",
-      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
       "source": "Hacker News",
-      "time": "2026-02-12T09:59:09.841245",
+      "time": "2026-02-13T02:56:35.559467",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-12T09:59:11.127003"
+  "updated_at": "2026-02-13T02:56:36.357161"
 }
