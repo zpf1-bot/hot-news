@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Resizing windows on macOS Tahoe – the saga continues",
-      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:34.539035",
+      "time": "2026-02-14T02:44:11.165251",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "GPT‑5.3‑Codex‑Spark",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "title": "Gradient.horse",
+      "url": "https://gradient.horse",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:34.650873",
+      "time": "2026-02-14T02:44:11.279776",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
-      "url": "https://skipthe.tips/",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:34.765290",
+      "time": "2026-02-14T02:44:11.382170",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Gemini 3 Deep Think",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:34.879771",
+      "time": "2026-02-14T02:44:11.479071",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "AWS Adds support for nested virtualization",
-      "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "title": "Building a TUI is easy now",
+      "url": "https://hatchet.run/blog/tuis-are-easy-now",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:34.994132",
+      "time": "2026-02-14T02:44:11.576194",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "An AI agent published a hit piece on me",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "title": "Font Rendering from First Principles",
+      "url": "https://mccloskeybr.com/articles/font_rendering.html",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:35.105783",
+      "time": "2026-02-14T02:44:11.672826",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
-      "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "url": "http://www.lisp-screenshots.org",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:35.218642",
+      "time": "2026-02-14T02:44:11.765231",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Polis: Open-source platform for large-scale civic deliberation",
-      "url": "https://pol.is/home2",
+      "title": "The EU moves to kill infinite scrolling",
+      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:35.331875",
+      "time": "2026-02-14T02:44:11.862486",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "How a Cat Debugged Stable Diffusion (2023)",
-      "url": "https://blog.dwac.dev/posts/cat-debugging/",
+      "title": "gRPC: From service definition to wire format",
+      "url": "https://kreya.app/blog/grpc-deep-dive/",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:35.446508",
+      "time": "2026-02-14T02:44:11.954790",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+      "url": "https://cloudrouter.dev/",
       "source": "Hacker News",
-      "time": "2026-02-13T02:56:35.559467",
+      "time": "2026-02-14T02:44:12.052898",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-13T02:56:36.357161"
+  "updated_at": "2026-02-14T02:44:12.550575"
 }
