@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
+      "url": "https://newpipe.net/",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.165251",
+      "time": "2026-02-15T03:13:35.287236",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Gradient.horse",
-      "url": "https://gradient.horse",
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.279776",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.382170",
+      "time": "2026-02-15T03:13:35.414864",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "title": "I love the work of the ArchWiki maintainers",
+      "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.479071",
+      "time": "2026-02-15T03:13:35.468802",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Building a TUI is easy now",
-      "url": "https://hatchet.run/blog/tuis-are-easy-now",
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.576194",
+      "time": "2026-02-15T03:13:35.521565",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Font Rendering from First Principles",
-      "url": "https://mccloskeybr.com/articles/font_rendering.html",
+      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+      "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.672826",
+      "time": "2026-02-15T03:13:35.578356",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Common Lisp Screenshots: today's CL applications in action",
-      "url": "http://www.lisp-screenshots.org",
+      "title": "Ooh.directory: a place to find good blogs that interest you",
+      "url": "https://ooh.directory/",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.765231",
+      "time": "2026-02-15T03:13:35.633271",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The EU moves to kill infinite scrolling",
-      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "title": "Zvec: A lightweight, fast, in-process vector database",
+      "url": "https://github.com/alibaba/zvec",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.862486",
+      "time": "2026-02-15T03:13:35.690989",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "gRPC: From service definition to wire format",
-      "url": "https://kreya.app/blog/grpc-deep-dive/",
+      "title": "Instagram's URL Blackhole",
+      "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:11.954790",
+      "time": "2026-02-15T03:13:35.750569",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
-      "url": "https://cloudrouter.dev/",
+      "title": "5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools",
+      "url": "https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/",
       "source": "Hacker News",
-      "time": "2026-02-14T02:44:12.052898",
+      "time": "2026-02-15T03:13:35.804722",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "PHTNCx64/Vertex",
+      "url": "https://github.com/PHTNCx64/Vertex",
+      "source": "GitHub",
+      "time": "2026-02-15T03:13:36.456879",
+      "heat": 3,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-14T02:44:12.550938"
+  "updated_at": "2026-02-15T03:13:36.457373"
 }

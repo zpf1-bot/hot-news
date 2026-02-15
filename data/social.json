@@ -1,4 +1,37 @@
 {
-  "news": [],
-  "updated_at": "2026-02-14T02:44:12.551380"
+  "news": [
+    {
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "source": "Hacker News",
+      "time": "2026-02-15T03:13:35.340748",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "longtho638-jpg/openclaw-worker",
+      "url": "https://github.com/longtho638-jpg/openclaw-worker",
+      "source": "GitHub",
+      "time": "2026-02-15T03:13:36.456868",
+      "heat": 8,
+      "category": "tech"
+    },
+    {
+      "title": "MrFadiAi/openclaw-one-click-installer",
+      "url": "https://github.com/MrFadiAi/openclaw-one-click-installer",
+      "source": "GitHub",
+      "time": "2026-02-15T03:13:36.456880",
+      "heat": 3,
+      "category": "tech"
+    },
+    {
+      "title": "next-open-ai/openclawx",
+      "url": "https://github.com/next-open-ai/openclawx",
+      "source": "GitHub",
+      "time": "2026-02-15T03:13:36.456886",
+      "heat": 2,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-15T03:13:36.457844"
 }
