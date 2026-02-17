@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-      "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.291838",
-      "heat": 950,
+      "title": "CoderofTheWest/openclaw-plugin-continuity",
+      "url": "https://github.com/CoderofTheWest/openclaw-plugin-continuity",
+      "source": "GitHub",
+      "time": "2026-02-17T02:49:38.560167",
+      "heat": 2,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-16T02:53:02.033201"
+  "updated_at": "2026-02-17T02:49:38.561092"
 }

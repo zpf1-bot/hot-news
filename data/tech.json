@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "I’m joining OpenAI",
-      "url": "https://steipete.me/posts/2026/openclaw",
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.178032",
+      "time": "2026-02-17T02:49:36.821967",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Pink noise reduces REM sleep and may harm sleep quality",
-      "url": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.402859",
+      "time": "2026-02-17T02:49:37.060378",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "url": "https://github.com/TechPaula/LT6502",
+      "title": "AI is destroying Open Source, and it's not even good yet",
+      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.518224",
+      "time": "2026-02-17T02:49:37.165994",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Error payloads in Zig",
-      "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+      "title": "Rise of the Triforce",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.633309",
+      "time": "2026-02-17T02:49:37.276790",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-      "url": "https://modern-css.com",
+      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+      "url": "https://github.com/zachlatta/freeflow",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.750955",
+      "time": "2026-02-17T02:49:37.391774",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
-      "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "url": "https://forestrydiary.com/",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.862860",
+      "time": "2026-02-17T02:49:37.501510",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Audio is the one area small labs are winning",
-      "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
+      "title": "What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]",
+      "url": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:00.974652",
+      "time": "2026-02-17T02:49:37.615259",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "I gave Claude access to my pen plotter",
-      "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
+      "title": "What your Bluetooth devices reveal",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:01.087589",
+      "time": "2026-02-17T02:49:37.724571",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "I fixed Windows native development",
-      "url": "https://marler8997.github.io/blog/fixed-windows/",
+      "title": "Visual Introduction to PyTorch",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
       "source": "Hacker News",
-      "time": "2026-02-16T02:53:01.200054",
+      "time": "2026-02-17T02:49:37.841558",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "shamantht4u-dot/V5-PIDCODE-99719Z",
-      "url": "https://github.com/shamantht4u-dot/V5-PIDCODE-99719Z",
+      "title": "vkhvorostov/quizslides",
+      "url": "https://github.com/vkhvorostov/quizslides",
       "source": "GitHub",
-      "time": "2026-02-16T02:53:02.032302",
+      "time": "2026-02-17T02:49:38.560153",
       "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-16T02:53:02.032748"
+  "updated_at": "2026-02-17T02:49:38.560651"
 }

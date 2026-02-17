@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-02-16T02:53:02.033036"
+  "news": [
+    {
+      "title": "Study: Self-generated Agent Skills are useless",
+      "url": "https://arxiv.org/abs/2602.12670",
+      "source": "Hacker News",
+      "time": "2026-02-17T02:49:36.954860",
+      "heat": 950,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-17T02:49:38.560911"
 }
