@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "title": "Claude Sonnet 4.6",
+      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:36.821967",
+      "time": "2026-02-18T02:52:41.052990",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "title": "Thank HN: You helped save 33k lives",
+      "url": "https://news.ycombinator.com/item?id=47049824",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.060378",
+      "time": "2026-02-18T02:52:41.150367",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "source": "Hacker News",
+      "time": "2026-02-18T02:52:41.247214",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "AI is destroying Open Source, and it's not even good yet",
-      "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.165994",
+      "time": "2026-02-18T02:52:41.341446",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Rise of the Triforce",
-      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+      "url": "https://asteroidos.org/news/2-0-release/index.html",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.276790",
+      "time": "2026-02-18T02:52:41.437806",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
-      "url": "https://github.com/zachlatta/freeflow",
+      "title": "I swear the UFO is coming any minute",
+      "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.391774",
+      "time": "2026-02-18T02:52:41.532714",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
-      "url": "https://forestrydiary.com/",
+      "title": "Google Public CA is down",
+      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.501510",
+      "time": "2026-02-18T02:52:41.631118",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "What every compiler writer should know about programmers (Anton Ertl, 2015) [pdf]",
-      "url": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
+      "title": "Gentoo on Codeberg",
+      "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.615259",
+      "time": "2026-02-18T02:52:41.728399",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "What your Bluetooth devices reveal",
-      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "title": "Using go fix to modernize Go code",
+      "url": "https://go.dev/blog/gofix",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.724571",
+      "time": "2026-02-18T02:52:41.822481",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Visual Introduction to PyTorch",
-      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "title": "Minimal x86 Kernel Zig",
+      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
       "source": "Hacker News",
-      "time": "2026-02-17T02:49:37.841558",
+      "time": "2026-02-18T02:52:41.922825",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "vkhvorostov/quizslides",
-      "url": "https://github.com/vkhvorostov/quizslides",
-      "source": "GitHub",
-      "time": "2026-02-17T02:49:38.560153",
-      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-17T02:49:38.560651"
+  "updated_at": "2026-02-18T02:52:42.461418"
 }
