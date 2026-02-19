@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Claude Sonnet 4.6",
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "title": "Sizing chaos",
+      "url": "https://pudding.cool/2026/02/womens-sizing/",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.052990",
+      "time": "2026-02-19T02:51:35.874546",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Thank HN: You helped save 33k lives",
-      "url": "https://news.ycombinator.com/item?id=47049824",
+      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.150367",
+      "time": "2026-02-19T02:51:35.929957",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "url": "https://github.com/Zaneham/BarraCUDA",
+      "title": "Cosmologically Unique IDs",
+      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.247214",
+      "time": "2026-02-19T02:51:35.984328",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-      "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.341446",
+      "time": "2026-02-19T02:51:36.046774",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
+      "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
+      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.437806",
+      "time": "2026-02-19T02:51:36.105446",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "I swear the UFO is coming any minute",
-      "url": "https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute",
+      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.532714",
+      "time": "2026-02-19T02:51:36.177459",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Google Public CA is down",
-      "url": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
+      "title": "Tailscale Peer Relays is now generally available",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.631118",
+      "time": "2026-02-19T02:51:36.232349",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Gentoo on Codeberg",
-      "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+      "title": "Minecraft Java is switching from OpenGL to Vulkan",
+      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.728399",
+      "time": "2026-02-19T02:51:36.285304",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Using go fix to modernize Go code",
-      "url": "https://go.dev/blog/gofix",
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.822481",
+      "time": "2026-02-19T02:51:36.338967",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Minimal x86 Kernel Zig",
-      "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+      "title": "Closing this as we are no longer pursuing Swift adoption",
+      "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
       "source": "Hacker News",
-      "time": "2026-02-18T02:52:41.922825",
+      "time": "2026-02-19T02:51:36.399135",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-18T02:52:42.461418"
+  "updated_at": "2026-02-19T02:51:37.136227"
 }
