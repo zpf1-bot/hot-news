@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-02-19T02:51:37.136705"
+  "news": [
+    {
+      "title": "Micropayments as a reality check for news sites",
+      "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+      "source": "Hacker News",
+      "time": "2026-02-20T02:46:40.803931",
+      "heat": 850,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-20T02:46:42.650373"
 }

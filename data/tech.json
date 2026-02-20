@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Sizing chaos",
-      "url": "https://pudding.cool/2026/02/womens-sizing/",
+      "title": "Gemini 3.1 Pro",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:35.874546",
+      "time": "2026-02-20T02:46:40.461182",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:35.929957",
+      "time": "2026-02-20T02:46:40.575752",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Cosmologically Unique IDs",
-      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "title": "Show HN: Micasa – track your house from the terminal",
+      "url": "https://micasa.dev",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:35.984328",
+      "time": "2026-02-20T02:46:40.686371",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:36.046774",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
-      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
-      "source": "Hacker News",
-      "time": "2026-02-19T02:51:36.105446",
+      "time": "2026-02-20T02:46:41.145853",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
+      "url": "https://github.com/tmustier/pi-for-excel",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:36.177459",
+      "time": "2026-02-20T02:46:41.264389",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Tailscale Peer Relays is now generally available",
-      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:36.232349",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Minecraft Java is switching from OpenGL to Vulkan",
-      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
-      "source": "Hacker News",
-      "time": "2026-02-19T02:51:36.285304",
+      "time": "2026-02-20T02:46:41.499425",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "url": "https://github.com/Veirt/weathr",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:36.338967",
+      "time": "2026-02-20T02:46:41.617120",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Closing this as we are no longer pursuing Swift adoption",
-      "url": "https://github.com/LadybirdBrowser/ladybird/issues/933",
+      "title": "Paged Out Issue #8 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
       "source": "Hacker News",
-      "time": "2026-02-19T02:51:36.399135",
+      "time": "2026-02-20T02:46:41.732918",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "cis2042/UX3-skill",
+      "url": "https://github.com/cis2042/UX3-skill",
+      "source": "GitHub",
+      "time": "2026-02-20T02:46:42.649527",
+      "heat": 5,
+      "category": "tech"
+    },
+    {
+      "title": "rodrigonbarreto/dry_params",
+      "url": "https://github.com/rodrigonbarreto/dry_params",
+      "source": "GitHub",
+      "time": "2026-02-20T02:46:42.649538",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-19T02:51:37.136227"
+  "updated_at": "2026-02-20T02:46:42.649999"
 }

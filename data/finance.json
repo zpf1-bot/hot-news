@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-02-19T02:51:37.136529"
+  "news": [
+    {
+      "title": "America vs. Singapore: You can't save your way out of economic shocks",
+      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "source": "Hacker News",
+      "time": "2026-02-20T02:46:41.382487",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-20T02:46:42.650223"
 }
