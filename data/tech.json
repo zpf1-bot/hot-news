@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Gemini 3.1 Pro",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:40.461182",
+      "time": "2026-02-21T02:40:22.995477",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
-      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+      "title": "Turn Dependabot Off",
+      "url": "https://words.filippo.io/dependabot/",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:40.575752",
+      "time": "2026-02-21T02:40:23.067933",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Micasa – track your house from the terminal",
-      "url": "https://micasa.dev",
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "url": "https://worldwideweb.cern.ch",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:40.686371",
+      "time": "2026-02-21T02:40:23.156551",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "url": "https://www.june.kim/cord",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:41.145853",
+      "time": "2026-02-21T02:40:23.293099",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
-      "url": "https://github.com/tmustier/pi-for-excel",
+      "title": "Facebook is cooked",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:41.264389",
+      "time": "2026-02-21T02:40:23.360039",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
-      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:41.499425",
+      "time": "2026-02-21T02:40:23.424076",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "source": "Hacker News",
+      "time": "2026-02-21T02:40:23.499921",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-      "url": "https://github.com/Veirt/weathr",
+      "title": "What Is OAuth?",
+      "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:41.617120",
+      "time": "2026-02-21T02:40:23.567636",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Paged Out Issue #8 [pdf]",
-      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "title": "OpenScan",
+      "url": "https://openscan.eu/pages/scan-gallery",
       "source": "Hacker News",
-      "time": "2026-02-20T02:46:41.732918",
+      "time": "2026-02-21T02:40:23.632730",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "cis2042/UX3-skill",
-      "url": "https://github.com/cis2042/UX3-skill",
+      "title": "Jane0908H/beautiful-react-auth-ui",
+      "url": "https://github.com/Jane0908H/beautiful-react-auth-ui",
       "source": "GitHub",
-      "time": "2026-02-20T02:46:42.649527",
-      "heat": 5,
-      "category": "tech"
-    },
-    {
-      "title": "rodrigonbarreto/dry_params",
-      "url": "https://github.com/rodrigonbarreto/dry_params",
-      "source": "GitHub",
-      "time": "2026-02-20T02:46:42.649538",
-      "heat": 5,
+      "time": "2026-02-21T02:40:24.141579",
+      "heat": 10,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-20T02:46:42.649999"
+  "updated_at": "2026-02-21T02:40:24.142136"
 }
