@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "I found a Vulnerability. They found a Lawyer",
-      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "url": "https://github.com/tnm/zclaw",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.226054",
-      "heat": 850,
+      "time": "2026-02-22T02:53:10.968554",
+      "heat": 750,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-21T02:40:24.142603"
+  "updated_at": "2026-02-22T02:53:11.765936"
 }

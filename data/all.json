@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Keep Android Open",
-      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:22.995477",
+      "time": "2026-02-22T02:53:10.647548",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Turn Dependabot Off",
-      "url": "https://words.filippo.io/dependabot/",
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "url": "https://github.com/xaskasdf/ntransformer",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.067933",
+      "time": "2026-02-22T02:53:10.709135",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "CERN rebuilt the original browser from 1989 (2019)",
-      "url": "https://worldwideweb.cern.ch",
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "url": "https://www.science.org/doi/10.1126/science.adq7188",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.156551",
+      "time": "2026-02-22T02:53:10.775260",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "I found a Vulnerability. They found a Lawyer",
-      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.226054",
+      "time": "2026-02-22T02:53:10.840193",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Cord: Coordinating Trees of AI Agents",
-      "url": "https://www.june.kim/cord",
+      "title": "How far back in time can you understand English?",
+      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.293099",
+      "time": "2026-02-22T02:53:10.906958",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Facebook is cooked",
-      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "url": "https://github.com/tnm/zclaw",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.360039",
+      "time": "2026-02-22T02:53:10.968554",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.424076",
+      "time": "2026-02-22T02:53:11.032438",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "title": "Scientists discover recent tectonic activity on the moon",
+      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.499921",
+      "time": "2026-02-22T02:53:11.096728",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "What Is OAuth?",
-      "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.koreaherald.com/article/10679206",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.567636",
+      "time": "2026-02-22T02:53:11.162506",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "OpenScan",
-      "url": "https://openscan.eu/pages/scan-gallery",
+      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "url": "https://www.eduke32.com/",
       "source": "Hacker News",
-      "time": "2026-02-21T02:40:23.632730",
+      "time": "2026-02-22T02:53:11.225306",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-21T02:40:24.141719"
+  "updated_at": "2026-02-22T02:53:11.765123"
 }

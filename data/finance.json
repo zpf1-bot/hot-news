@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-02-21T02:40:24.142420"
+  "news": [
+    {
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "source": "Hacker News",
+      "time": "2026-02-22T02:53:11.162506",
+      "heat": 600,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-22T02:53:11.765750"
 }
