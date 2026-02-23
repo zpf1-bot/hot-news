@@ -1,13 +1,29 @@
 {
   "news": [
     {
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "url": "https://github.com/tnm/zclaw",
+      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
+      "url": "https://cia-factbook-archive.fly.dev/",
       "source": "Hacker News",
-      "time": "2026-02-22T02:53:10.968554",
+      "time": "2026-02-23T02:53:15.225593",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+      "source": "Hacker News",
+      "time": "2026-02-23T02:53:15.333884",
       "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "JorgeOehrens/openclaw-pepper",
+      "url": "https://github.com/JorgeOehrens/openclaw-pepper",
+      "source": "GitHub",
+      "time": "2026-02-23T02:53:16.507287",
+      "heat": 1,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-22T02:53:11.765936"
+  "updated_at": "2026-02-23T02:53:16.508276"
 }

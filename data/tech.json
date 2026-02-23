@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "How I use Claude Code: Separation of planning and execution",
-      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "title": "I built Timeframe, our family e-paper dashboard",
+      "url": "https://hawksley.org/2026/02/17/timeframe.html",
       "source": "Hacker News",
-      "time": "2026-02-22T02:53:10.647548",
+      "time": "2026-02-23T02:53:14.789783",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "url": "https://github.com/xaskasdf/ntransformer",
+      "title": "The surprising power of daily rituals",
+      "url": "https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress",
       "source": "Hacker News",
-      "time": "2026-02-22T02:53:10.709135",
+      "time": "2026-02-23T02:53:14.900351",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-      "url": "https://www.science.org/doi/10.1126/science.adq7188",
+      "title": "Show HN: WARN Firehose – Every US layoff notice in one searchable database",
+      "url": "https://warnfirehose.com",
       "source": "Hacker News",
-      "time": "2026-02-22T02:53:10.775260",
+      "time": "2026-02-23T02:53:15.009096",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "title": "$30B for laptops yielded a generation less cognitively capable than parents",
+      "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
       "source": "Hacker News",
-      "time": "2026-02-22T02:53:10.840193",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "How far back in time can you understand English?",
-      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
-      "source": "Hacker News",
-      "time": "2026-02-22T02:53:10.906958",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "A Botnet Accidentally Destroyed I2P",
-      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-      "source": "Hacker News",
-      "time": "2026-02-22T02:53:11.032438",
+      "time": "2026-02-23T02:53:15.441067",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Scientists discover recent tectonic activity on the moon",
-      "url": "https://phys.org/news/2026-02-scientists-tectonic-moon.html",
+      "title": "Attention Media ≠ Social Networks",
+      "url": "https://susam.net/attention-media-vs-social-networks.html",
       "source": "Hacker News",
-      "time": "2026-02-22T02:53:11.096728",
+      "time": "2026-02-23T02:53:15.546529",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "url": "https://www.eduke32.com/",
+      "title": "Using the new bridges of FreeBSD 15",
+      "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
       "source": "Hacker News",
-      "time": "2026-02-22T02:53:11.225306",
+      "time": "2026-02-23T02:53:15.650249",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "Six Math Essentials",
+      "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+      "source": "Hacker News",
+      "time": "2026-02-23T02:53:15.756465",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "odaysec/ResearchHub",
-      "url": "https://github.com/odaysec/ResearchHub",
+      "title": "wapp1/wapp",
+      "url": "https://github.com/wapp1/wapp",
       "source": "GitHub",
-      "time": "2026-02-22T02:53:11.765006",
-      "heat": 23,
+      "time": "2026-02-23T02:53:16.507264",
+      "heat": 5,
       "category": "tech"
     },
     {
-      "title": "kaopanboonyuen/CP020001_ComputerProgramming_2026s1",
-      "url": "https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2026s1",
+      "title": "0xTriboulet/athena-reader",
+      "url": "https://github.com/0xTriboulet/athena-reader",
       "source": "GitHub",
-      "time": "2026-02-22T02:53:11.765012",
+      "time": "2026-02-23T02:53:16.507276",
       "heat": 4,
+      "category": "tech"
+    },
+    {
+      "title": "lukeslp/geepers-home",
+      "url": "https://github.com/lukeslp/geepers-home",
+      "source": "GitHub",
+      "time": "2026-02-23T02:53:16.507277",
+      "heat": 2,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-22T02:53:11.765467"
+  "updated_at": "2026-02-23T02:53:16.507812"
 }
