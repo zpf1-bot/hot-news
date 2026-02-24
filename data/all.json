@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "I built Timeframe, our family e-paper dashboard",
-      "url": "https://hawksley.org/2026/02/17/timeframe.html",
+      "title": "Shatner is making an album with 35 metal icons",
+      "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:14.789783",
+      "time": "2026-02-24T02:50:07.300614",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The surprising power of daily rituals",
-      "url": "https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress",
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:14.900351",
+      "time": "2026-02-24T02:50:07.390631",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: WARN Firehose – Every US layoff notice in one searchable database",
-      "url": "https://warnfirehose.com",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.009096",
+      "time": "2026-02-24T02:50:07.481839",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Loops is a federated, open-source TikTok",
-      "url": "https://joinloops.org/",
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+      "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.117858",
+      "time": "2026-02-24T02:50:07.567772",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
-      "url": "https://cia-factbook-archive.fly.dev/",
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.225593",
+      "time": "2026-02-24T02:50:07.655549",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.333884",
+      "time": "2026-02-24T02:50:07.743439",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "$30B for laptops yielded a generation less cognitively capable than parents",
-      "url": "https://www.yahoo.com/news/articles/u-spent-30-billion-ditch-110200869.html",
+      "title": "Ladybird adopts Rust",
+      "url": "https://ladybird.org/posts/adopting-rust/",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.441067",
+      "time": "2026-02-24T02:50:07.828257",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Attention Media ≠ Social Networks",
-      "url": "https://susam.net/attention-media-vs-social-networks.html",
+      "title": "Show HN: PgDog – Scale Postgres without changing the app",
+      "url": "https://github.com/pgdogdev/pgdog",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.546529",
+      "time": "2026-02-24T02:50:07.913968",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Using the new bridges of FreeBSD 15",
-      "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
+      "title": "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
+      "url": "https://jamesoswald.dev/posts/bigoinequality/",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.650249",
+      "time": "2026-02-24T02:50:07.997506",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Six Math Essentials",
-      "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+      "title": "\"Car Wash\" test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
       "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.756465",
+      "time": "2026-02-24T02:50:08.092725",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-23T02:53:16.507402"
+  "updated_at": "2026-02-24T02:50:08.498435"
 }

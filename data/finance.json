@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Loops is a federated, open-source TikTok",
-      "url": "https://joinloops.org/",
-      "source": "Hacker News",
-      "time": "2026-02-23T02:53:15.117858",
-      "heat": 850,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-02-23T02:53:16.508090"
+  "news": [],
+  "updated_at": "2026-02-24T02:50:08.499069"
 }
