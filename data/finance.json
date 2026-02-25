@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-02-24T02:50:08.499069"
+  "news": [
+    {
+      "title": "Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy",
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "source": "Hacker News",
+      "time": "2026-02-25T02:51:29.315013",
+      "heat": 600,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-25T02:51:29.857125"
 }

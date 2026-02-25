@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Shatner is making an album with 35 metal icons",
-      "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "title": "I'm helping my dog vibe code games",
+      "url": "https://www.calebleak.com/posts/dog-game/",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.300614",
+      "time": "2026-02-25T02:51:28.615884",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "I Ported Coreboot to the ThinkPad X270",
-      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+      "url": "https://github.com/moonshine-ai/moonshine",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.390631",
+      "time": "2026-02-25T02:51:28.700723",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
-      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.481839",
+      "time": "2026-02-25T02:51:28.785198",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
-      "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "title": "Justifying Text-Wrap: Pretty",
+      "url": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.567772",
+      "time": "2026-02-25T02:51:28.871063",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "url": "https://spectrum.ieee.org/age-verification",
+      "title": "Hacking an old Kindle to display bus arrival times",
+      "url": "https://www.mariannefeng.com/portfolio/kindle/",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.655549",
+      "time": "2026-02-25T02:51:28.957961",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
-      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "title": "Mac mini will be made at a new facility in Houston",
+      "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.743439",
+      "time": "2026-02-25T02:51:29.046765",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Ladybird adopts Rust",
-      "url": "https://ladybird.org/posts/adopting-rust/",
+      "title": "Nearby Glasses",
+      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.828257",
+      "time": "2026-02-25T02:51:29.134103",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: PgDog – Scale Postgres without changing the app",
-      "url": "https://github.com/pgdogdev/pgdog",
+      "title": "Pi – a minimal terminal coding harness",
+      "url": "https://pi.dev",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.913968",
+      "time": "2026-02-25T02:51:29.225522",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
-      "url": "https://jamesoswald.dev/posts/bigoinequality/",
+      "title": "Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy",
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:07.997506",
+      "time": "2026-02-25T02:51:29.315013",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "\"Car Wash\" test with 53 models",
-      "url": "https://opper.ai/blog/car-wash-test",
+      "title": "Corgi Labs (YC W23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
       "source": "Hacker News",
-      "time": "2026-02-24T02:50:08.092725",
+      "time": "2026-02-25T02:51:29.399012",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-24T02:50:08.498435"
+  "updated_at": "2026-02-25T02:51:29.856413"
 }
