@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "I'm helping my dog vibe code games",
-      "url": "https://www.calebleak.com/posts/dog-game/",
+      "title": "Jimi Hendrix was a systems engineer",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:28.615884",
+      "time": "2026-02-26T02:46:17.483965",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-      "url": "https://github.com/moonshine-ai/moonshine",
+      "title": "First Website (1992)",
+      "url": "https://info.cern.ch",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:28.700723",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "source": "Hacker News",
-      "time": "2026-02-25T02:51:28.785198",
+      "time": "2026-02-26T02:46:17.794964",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Justifying Text-Wrap: Pretty",
-      "url": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "title": "Making MCP cheaper via CLI",
+      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:28.871063",
+      "time": "2026-02-26T02:46:17.941784",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Hacking an old Kindle to display bus arrival times",
-      "url": "https://www.mariannefeng.com/portfolio/kindle/",
+      "title": "Artist who \"paints\" portraits on glass by hitting it with a hammer",
+      "url": "https://simonbergerart.com",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:28.957961",
+      "time": "2026-02-26T02:46:18.091402",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Mac mini will be made at a new facility in Houston",
-      "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+      "title": "Windows 11 Notepad to support Markdown",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:29.046765",
+      "time": "2026-02-26T02:46:18.240894",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Nearby Glasses",
-      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:29.134103",
+      "time": "2026-02-26T02:46:18.387737",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Pi – a minimal terminal coding harness",
-      "url": "https://pi.dev",
+      "title": "The Hydrogen Truck Problem Isn't the Truck",
+      "url": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:29.225522",
-      "heat": 650,
+      "time": "2026-02-26T02:46:18.687358",
+      "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Corgi Labs (YC W23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
+      "title": "Tech Companies Shouldn't Be Bullied into Doing Surveillance",
+      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
       "source": "Hacker News",
-      "time": "2026-02-25T02:51:29.399012",
+      "time": "2026-02-26T02:46:18.833855",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Emily2040/seedance-2.0-skill",
-      "url": "https://github.com/Emily2040/seedance-2.0-skill",
+      "title": "beerandcodeteam/workshop-crm",
+      "url": "https://github.com/beerandcodeteam/workshop-crm",
       "source": "GitHub",
-      "time": "2026-02-25T02:51:29.856295",
-      "heat": 6,
+      "time": "2026-02-26T02:46:19.748008",
+      "heat": 10,
+      "category": "tech"
+    },
+    {
+      "title": "NamikazeAsh/ytmpcli",
+      "url": "https://github.com/NamikazeAsh/ytmpcli",
+      "source": "GitHub",
+      "time": "2026-02-26T02:46:19.748017",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-25T02:51:29.856834"
+  "updated_at": "2026-02-26T02:46:19.748469"
 }
