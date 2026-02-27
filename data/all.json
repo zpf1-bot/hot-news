@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Jimi Hendrix was a systems engineer",
-      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:17.483965",
+      "time": "2026-02-27T02:44:47.650681",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Jane Street Hit with Terra $40B Insider Trading Suit",
-      "url": "https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/",
+      "title": "Layoffs at Block",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:17.647406",
+      "time": "2026-02-27T02:44:47.799179",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "First Website (1992)",
-      "url": "https://info.cern.ch",
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:17.794964",
+      "time": "2026-02-27T02:44:47.955256",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Making MCP cheaper via CLI",
-      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "title": "What Claude Code Chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:17.941784",
+      "time": "2026-02-27T02:44:48.114138",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Artist who \"paints\" portraits on glass by hitting it with a hammer",
-      "url": "https://simonbergerart.com",
+      "title": "Will vibe coding end like the maker movement?",
+      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:18.091402",
+      "time": "2026-02-27T02:44:48.271752",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Windows 11 Notepad to support Markdown",
-      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "title": "Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)",
+      "url": "https://coderush.me/hydroph0bia-part3/",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:18.240894",
+      "time": "2026-02-27T02:44:48.420441",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "url": "https://www.usecardboard.com/",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:18.387737",
+      "time": "2026-02-27T02:44:48.581016",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
-      "url": "https://respectify.org/",
+      "title": "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
+      "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:18.536857",
+      "time": "2026-02-27T02:44:48.732803",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The Hydrogen Truck Problem Isn't the Truck",
-      "url": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
+      "title": "LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity",
+      "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:18.687358",
+      "time": "2026-02-27T02:44:48.891603",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Tech Companies Shouldn't Be Bullied into Doing Surveillance",
-      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+      "title": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
       "source": "Hacker News",
-      "time": "2026-02-26T02:46:18.833855",
+      "time": "2026-02-27T02:44:49.044584",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-02-26T02:46:19.748133"
+  "updated_at": "2026-02-27T02:44:50.025233"
 }
