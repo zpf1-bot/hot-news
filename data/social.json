@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-02-27T02:44:50.026103"
+  "news": [
+    {
+      "title": "A new California law says all operating systems need to have age verification",
+      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "source": "Hacker News",
+      "time": "2026-02-28T02:33:13.470272",
+      "heat": 750,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-02-28T02:33:15.696472"
 }
