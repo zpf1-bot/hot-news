@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "title": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.051060",
+      "time": "2026-03-02T02:47:28.357652",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "title": "Tove Jansson's criticized illustrations of The Hobbit",
+      "url": "https://tovejansson.com/hobbit-tolkien/",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.169056",
+      "time": "2026-03-02T02:47:28.471441",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-      "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "title": "Ghostty – Terminal Emulator",
+      "url": "https://ghostty.org/docs",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.291382",
+      "time": "2026-03-02T02:47:28.577820",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Obsidian Sync now has a headless client",
-      "url": "https://help.obsidian.md/sync/headless",
+      "title": "Little Free Library",
+      "url": "https://littlefreelibrary.org/",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.407205",
+      "time": "2026-03-02T02:47:28.685815",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The happiest I've ever been",
-      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "url": "https://github.com/kossisoroyce/timber",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.525280",
+      "time": "2026-03-02T02:47:28.796453",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
-      "url": "https://github.com/jonwiggins/xmloxide",
+      "title": "If AI writes code, should the session be part of the commit?",
+      "url": "https://github.com/mandel-macaque/memento",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.642958",
+      "time": "2026-03-02T02:47:28.884291",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
-      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+      "title": "When does MCP make sense vs CLI?",
+      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.760729",
+      "time": "2026-03-02T02:47:28.984108",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Block the “Upgrade to Tahoe” Alerts",
-      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+      "title": "How Next-Gen Spacecraft Are Overwhelming Our Communication Networks",
+      "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.875609",
+      "time": "2026-03-02T02:47:29.112105",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Addressing Antigravity Bans and Reinstating Access",
-      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+      "title": "What Your DNA Reveals about the Sex Life of Neanderthals",
+      "url": "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:57.990366",
+      "time": "2026-03-02T02:47:29.199430",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-      "url": "https://github.com/ad-si/Woxi",
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "url": "https://mlu-explain.github.io/decision-tree/",
       "source": "Hacker News",
-      "time": "2026-03-01T03:16:58.111124",
+      "time": "2026-03-02T02:47:29.297942",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-01T03:16:58.828452"
+  "updated_at": "2026-03-02T02:47:30.103654"
 }
