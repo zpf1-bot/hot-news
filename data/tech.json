@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "WebMCP is available for early preview",
-      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "title": "The workers behind Meta’s smart glasses can see everything",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:28.357652",
+      "time": "2026-03-03T02:50:20.057820",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Tove Jansson's criticized illustrations of The Hobbit",
-      "url": "https://tovejansson.com/hobbit-tolkien/",
+      "title": "Zuckerberg's internal emails rendered as Facebook Messenger",
+      "url": "https://zuckmail.vercel.app/",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:28.471441",
+      "time": "2026-03-03T02:50:20.179483",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Ghostty – Terminal Emulator",
-      "url": "https://ghostty.org/docs",
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "url": "https://www.ntik.me/posts/voice-agent",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:28.577820",
+      "time": "2026-03-03T02:50:20.278676",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Little Free Library",
-      "url": "https://littlefreelibrary.org/",
+      "title": "Seed of Might Color Correction Process (2023) [pdf]",
+      "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:28.685815",
+      "time": "2026-03-03T02:50:20.383875",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
-      "url": "https://github.com/kossisoroyce/timber",
+      "title": "Closure of the Weatheradio Service in Canada",
+      "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:28.796453",
+      "time": "2026-03-03T02:50:20.490569",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "If AI writes code, should the session be part of the commit?",
-      "url": "https://github.com/mandel-macaque/memento",
+      "title": "What Are Your Guilty Displeasures?",
+      "url": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:28.884291",
+      "time": "2026-03-03T02:50:20.595634",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "When does MCP make sense vs CLI?",
-      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "title": "Welcome (back) to Macintosh",
+      "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:28.984108",
+      "time": "2026-03-03T02:50:20.701503",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "How Next-Gen Spacecraft Are Overwhelming Our Communication Networks",
-      "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
+      "title": "How to Build Your Own Quantum Computer",
+      "url": "https://physics.aps.org/articles/v19/24",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:29.112105",
+      "time": "2026-03-03T02:50:20.797660",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "What Your DNA Reveals about the Sex Life of Neanderthals",
-      "url": "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html",
+      "title": "British Columbia to end time changes, adopt year-round daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:29.199430",
+      "time": "2026-03-03T02:50:20.909723",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Decision trees – the unreasonable power of nested decision rules",
-      "url": "https://mlu-explain.github.io/decision-tree/",
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
       "source": "Hacker News",
-      "time": "2026-03-02T02:47:29.297942",
+      "time": "2026-03-03T02:50:21.017414",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-02T02:47:30.104035"
+  "updated_at": "2026-03-03T02:50:21.688724"
 }
