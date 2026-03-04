@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The workers behind Meta’s smart glasses can see everything",
-      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.057820",
+      "time": "2026-03-04T02:43:02.132021",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Zuckerberg's internal emails rendered as Facebook Messenger",
-      "url": "https://zuckmail.vercel.app/",
+      "title": "MacBook Pro with M5 Pro and M5 Max",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.179483",
+      "time": "2026-03-04T02:43:02.252118",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "url": "https://www.ntik.me/posts/voice-agent",
+      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.278676",
+      "time": "2026-03-04T02:43:02.363749",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Seed of Might Color Correction Process (2023) [pdf]",
-      "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+      "title": "Voxile: A ray-traced game made in its own engine and programming language",
+      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.383875",
+      "time": "2026-03-04T02:43:02.485235",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Closure of the Weatheradio Service in Canada",
-      "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
+      "title": "Claude's Cycles [pdf]",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.490569",
+      "time": "2026-03-04T02:43:02.601578",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "What Are Your Guilty Displeasures?",
-      "url": "https://www.hopefulmons.com/p/what-are-your-guilty-displeasures",
+      "title": "Textadept",
+      "url": "https://orbitalquark.github.io/textadept/",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.595634",
+      "time": "2026-03-04T02:43:02.720081",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Welcome (back) to Macintosh",
-      "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.701503",
+      "time": "2026-03-04T02:43:02.832146",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "How to Build Your Own Quantum Computer",
-      "url": "https://physics.aps.org/articles/v19/24",
+      "title": "The largest acidic geyser has been putting on quite a show",
+      "url": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.797660",
+      "time": "2026-03-04T02:43:02.945948",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "British Columbia to end time changes, adopt year-round daylight time",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "title": "GPT‑5.3 Instant",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:20.909723",
+      "time": "2026-03-04T02:43:03.058593",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "New iPad Air, powered by M4",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "title": "You can use newline characters in URLs",
+      "url": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
       "source": "Hacker News",
-      "time": "2026-03-03T02:50:21.017414",
+      "time": "2026-03-04T02:43:03.173759",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-03T02:50:21.688334"
+  "updated_at": "2026-03-04T02:43:03.983369"
 }

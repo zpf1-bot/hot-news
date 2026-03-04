@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-03-03T02:50:21.689014"
+  "news": [
+    {
+      "title": "egorfedorov/Soloboard",
+      "url": "https://github.com/egorfedorov/Soloboard",
+      "source": "GitHub",
+      "time": "2026-03-04T02:43:03.983251",
+      "heat": 3,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-04T02:43:03.984011"
 }
