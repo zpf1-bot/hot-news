@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-      "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+      "title": "Googleworkspace/CLI",
+      "url": "https://github.com/googleworkspace/cli",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.132021",
+      "time": "2026-03-05T02:46:00.421205",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "MacBook Pro with M5 Pro and M5 Max",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "title": "MacBook Neo",
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.252118",
+      "time": "2026-03-05T02:46:00.527863",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
-      "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+      "title": "Building a new Flash",
+      "url": "https://bill.newgrounds.com/news/post/1607118",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.363749",
+      "time": "2026-03-05T02:46:00.634443",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Voxile: A ray-traced game made in its own engine and programming language",
-      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.485235",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Claude's Cycles [pdf]",
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.601578",
+      "time": "2026-03-05T02:46:00.826059",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Textadept",
-      "url": "https://orbitalquark.github.io/textadept/",
+      "title": "Something is afoot in the land of Qwen",
+      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.720081",
+      "time": "2026-03-05T02:46:00.934161",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
+      "title": "Picking Up a Zillion Pieces of Litter",
+      "url": "https://www.sixstepstobetterhealth.com/litter.html",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.832146",
+      "time": "2026-03-05T02:46:01.026645",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The largest acidic geyser has been putting on quite a show",
-      "url": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
+      "title": "What's Driving Rising Business Costs?",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:02.945948",
+      "time": "2026-03-05T02:46:01.111156",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "GPT‑5.3 Instant",
-      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "title": "Humans 40k yrs ago developed a system of conventional signs",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:03.058593",
+      "time": "2026-03-05T02:46:01.220239",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "You can use newline characters in URLs",
-      "url": "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/",
+      "title": "Moss is a pixel canvas where every brush is a tiny program",
+      "url": "https://www.moss.town/",
       "source": "Hacker News",
-      "time": "2026-03-04T02:43:03.173759",
+      "time": "2026-03-05T02:46:01.306267",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "BocchiDaruko/WebcraftAI",
+      "url": "https://github.com/BocchiDaruko/WebcraftAI",
+      "source": "GitHub",
+      "time": "2026-03-05T02:46:01.923054",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-04T02:43:03.983758"
+  "updated_at": "2026-03-05T02:46:01.923552"
 }

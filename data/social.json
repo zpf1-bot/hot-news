@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-03-04T02:43:03.984180"
+  "news": [
+    {
+      "title": "Chaos and Dystopian news for the dead internet survivors",
+      "url": "https://www.fubardaily.com",
+      "source": "Hacker News",
+      "time": "2026-03-05T02:46:00.719303",
+      "heat": 850,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-05T02:46:01.923974"
 }
