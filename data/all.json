@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Googleworkspace/CLI",
-      "url": "https://github.com/googleworkspace/cli",
+      "title": "GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:00.421205",
+      "time": "2026-03-06T02:43:28.632721",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "MacBook Neo",
-      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+      "url": "https://charm.land/blog/v2/",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:00.527863",
+      "time": "2026-03-06T02:43:28.736027",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Building a new Flash",
-      "url": "https://bill.newgrounds.com/news/post/1607118",
+      "title": "Where things stand with the Department of War",
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:00.634443",
+      "time": "2026-03-06T02:43:28.842323",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Chaos and Dystopian news for the dead internet survivors",
-      "url": "https://www.fubardaily.com",
+      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+      "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:00.719303",
+      "time": "2026-03-06T02:43:28.942042",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "title": "The Brand Age",
+      "url": "https://paulgraham.com/brandage.html",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:00.826059",
+      "time": "2026-03-06T02:43:29.043316",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Something is afoot in the land of Qwen",
-      "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:00.934161",
+      "time": "2026-03-06T02:43:29.146409",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Picking Up a Zillion Pieces of Litter",
-      "url": "https://www.sixstepstobetterhealth.com/litter.html",
+      "title": "10% of Firefox crashes are caused by bitflips",
+      "url": "https://mas.to/@gabrielesvelto/116171750653898304",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:01.026645",
+      "time": "2026-03-06T02:43:29.246888",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "What's Driving Rising Business Costs?",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/",
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "url": "https://406.fail/",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:01.111156",
+      "time": "2026-03-06T02:43:29.348019",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Humans 40k yrs ago developed a system of conventional signs",
-      "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
+      "title": "Good software knows when to stop",
+      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:01.220239",
+      "time": "2026-03-06T02:43:29.447708",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Moss is a pixel canvas where every brush is a tiny program",
-      "url": "https://www.moss.town/",
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "url": "https://www.wikimediastatus.net",
       "source": "Hacker News",
-      "time": "2026-03-05T02:46:01.306267",
+      "time": "2026-03-06T02:43:29.548725",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-05T02:46:01.923169"
+  "updated_at": "2026-03-06T02:43:30.415438"
 }
