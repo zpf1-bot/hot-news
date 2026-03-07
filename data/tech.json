@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+      "url": "https://plasma-bigscreen.org",
       "source": "Hacker News",
-      "time": "2026-03-06T02:43:28.632721",
+      "time": "2026-03-07T02:36:17.865903",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
-      "url": "https://charm.land/blog/v2/",
+      "title": "this css proves me human",
+      "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
       "source": "Hacker News",
-      "time": "2026-03-06T02:43:28.736027",
+      "time": "2026-03-07T02:36:18.013049",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Where things stand with the Department of War",
-      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "title": "C# strings silently kill your SQL Server indexes in Dapper",
+      "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
       "source": "Hacker News",
-      "time": "2026-03-06T02:43:28.842323",
+      "time": "2026-03-07T02:36:18.161329",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "The Brand Age",
-      "url": "https://paulgraham.com/brandage.html",
+      "title": "LLMs work best when the user defines their acceptance criteria first",
+      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
       "source": "Hacker News",
-      "time": "2026-03-06T02:43:29.043316",
+      "time": "2026-03-07T02:36:18.306229",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Galileo's handwritten notes found in ancient astronomy text",
+      "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+      "source": "Hacker News",
+      "time": "2026-03-07T02:36:18.456811",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "10% of Firefox crashes are caused by bitflips",
-      "url": "https://mas.to/@gabrielesvelto/116171750653898304",
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
       "source": "Hacker News",
-      "time": "2026-03-06T02:43:29.246888",
-      "heat": 700,
+      "time": "2026-03-07T02:36:18.603954",
+      "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Good software knows when to stop",
-      "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+      "url": "https://github.com/moongate-community/moongatev2",
       "source": "Hacker News",
-      "time": "2026-03-06T02:43:29.447708",
+      "time": "2026-03-07T02:36:18.898396",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+      "url": "https://github.com/c0m4r/kula",
+      "source": "Hacker News",
+      "time": "2026-03-07T02:36:19.044065",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Wikipedia was in read-only mode following mass admin account compromise",
-      "url": "https://www.wikimediastatus.net",
+      "title": "What canceled my Go context?",
+      "url": "https://rednafi.com/go/context-cancellation-cause/",
       "source": "Hacker News",
-      "time": "2026-03-06T02:43:29.548725",
+      "time": "2026-03-07T02:36:19.196506",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "igofreely/firstRTS",
-      "url": "https://github.com/igofreely/firstRTS",
+      "title": "alexbckr/human-blinders",
+      "url": "https://github.com/alexbckr/human-blinders",
       "source": "GitHub",
-      "time": "2026-03-06T02:43:30.415336",
-      "heat": 8,
-      "category": "tech"
-    },
-    {
-      "title": "GasparMDQ/teams-chat-backup",
-      "url": "https://github.com/GasparMDQ/teams-chat-backup",
-      "source": "GitHub",
-      "time": "2026-03-06T02:43:30.415341",
-      "heat": 4,
-      "category": "tech"
-    },
-    {
-      "title": "liuwei283/RealWonder",
-      "url": "https://github.com/liuwei283/RealWonder",
-      "source": "GitHub",
-      "time": "2026-03-06T02:43:30.415343",
+      "time": "2026-03-07T02:36:19.892430",
       "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-06T02:43:30.415780"
+  "updated_at": "2026-03-07T02:36:19.892943"
 }

@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Labor market impacts of AI: A new measure and early evidence",
-      "url": "https://www.anthropic.com/research/labor-market-impacts",
-      "source": "Hacker News",
-      "time": "2026-03-06T02:43:29.146409",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "url": "https://406.fail/",
-      "source": "Hacker News",
-      "time": "2026-03-06T02:43:29.348019",
-      "heat": 650,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-03-06T02:43:30.416064"
+  "news": [],
+  "updated_at": "2026-03-07T02:36:19.893254"
 }
