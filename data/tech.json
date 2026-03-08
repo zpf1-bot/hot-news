@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
-      "url": "https://plasma-bigscreen.org",
+      "title": "CasNum",
+      "url": "https://github.com/0x0mer/CasNum",
       "source": "Hacker News",
-      "time": "2026-03-07T02:36:17.865903",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "this css proves me human",
-      "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-      "source": "Hacker News",
-      "time": "2026-03-07T02:36:18.013049",
+      "time": "2026-03-08T02:49:46.974295",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "C# strings silently kill your SQL Server indexes in Dapper",
-      "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+      "title": "A decade of Docker containers",
+      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
       "source": "Hacker News",
-      "time": "2026-03-07T02:36:18.161329",
+      "time": "2026-03-08T02:49:47.068931",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "LLMs work best when the user defines their acceptance criteria first",
-      "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
       "source": "Hacker News",
-      "time": "2026-03-07T02:36:18.306229",
+      "time": "2026-03-08T02:49:47.167857",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Galileo's handwritten notes found in ancient astronomy text",
-      "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+      "title": "Show HN: A weird thing that detects your pulse from the browser video",
+      "url": "https://pulsefeedback.io/",
       "source": "Hacker News",
-      "time": "2026-03-07T02:36:18.456811",
+      "time": "2026-03-08T02:49:47.274373",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "title": "The stagnancy of publishing and the disappearance of the midlist",
+      "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
       "source": "Hacker News",
-      "time": "2026-03-07T02:36:18.603954",
+      "time": "2026-03-08T02:49:47.374893",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-      "url": "https://github.com/moongate-community/moongatev2",
+      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "url": "https://github.com/karpathy/autoresearch",
       "source": "Hacker News",
-      "time": "2026-03-07T02:36:18.898396",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
-      "url": "https://github.com/c0m4r/kula",
-      "source": "Hacker News",
-      "time": "2026-03-07T02:36:19.044065",
+      "time": "2026-03-08T02:49:47.666052",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "What canceled my Go context?",
-      "url": "https://rednafi.com/go/context-cancellation-cause/",
+      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
       "source": "Hacker News",
-      "time": "2026-03-07T02:36:19.196506",
+      "time": "2026-03-08T02:49:47.762507",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "alexbckr/human-blinders",
-      "url": "https://github.com/alexbckr/human-blinders",
+      "title": "orange2ai/Flash-Translate",
+      "url": "https://github.com/orange2ai/Flash-Translate",
       "source": "GitHub",
-      "time": "2026-03-07T02:36:19.892430",
-      "heat": 4,
+      "time": "2026-03-08T02:49:48.205086",
+      "heat": 8,
+      "category": "tech"
+    },
+    {
+      "title": "jwolberg/volscan",
+      "url": "https://github.com/jwolberg/volscan",
+      "source": "GitHub",
+      "time": "2026-03-08T02:49:48.205097",
+      "heat": 5,
+      "category": "tech"
+    },
+    {
+      "title": "akitaonrails/easy-ffmpeg",
+      "url": "https://github.com/akitaonrails/easy-ffmpeg",
+      "source": "GitHub",
+      "time": "2026-03-08T02:49:48.205099",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-07T02:36:19.892943"
+  "updated_at": "2026-03-08T02:49:48.205581"
 }
