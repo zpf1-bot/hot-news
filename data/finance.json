@@ -1,29 +1,13 @@
 {
   "news": [
     {
-      "title": "Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers",
-      "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+      "title": "We should revisit literate programming in the agent era",
+      "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
       "source": "Hacker News",
-      "time": "2026-03-08T02:49:46.879125",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "Effort to prevent government officials from engaging in prediction markets",
-      "url": "https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/",
-      "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.467226",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Ki Editor - an editor that operates on the AST",
-      "url": "https://ki-editor.org/",
-      "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.559811",
-      "heat": 650,
+      "time": "2026-03-09T02:51:03.096921",
+      "heat": 800,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-08T02:49:48.205854"
+  "updated_at": "2026-03-09T02:51:03.971939"
 }

@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "CasNum",
-      "url": "https://github.com/0x0mer/CasNum",
+      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+      "url": "https://agent-safehouse.dev/",
       "source": "Hacker News",
-      "time": "2026-03-08T02:49:46.974295",
+      "time": "2026-03-09T02:51:02.750097",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "Microscopes can see video on a laserdisc",
+      "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+      "source": "Hacker News",
+      "time": "2026-03-09T02:51:02.835693",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "A decade of Docker containers",
-      "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+      "title": "PCB devboard the size of a USB-C plug",
+      "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
       "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.068931",
+      "time": "2026-03-09T02:51:02.923144",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
-      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "title": "Ask HN: What Are You Working On? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47303111",
       "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.167857",
+      "time": "2026-03-09T02:51:03.011532",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: A weird thing that detects your pulse from the browser video",
-      "url": "https://pulsefeedback.io/",
+      "title": "Blacksky AppView",
+      "url": "https://github.com/blacksky-algorithms/atproto",
       "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.274373",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "The stagnancy of publishing and the disappearance of the midlist",
-      "url": "https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul",
-      "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.374893",
+      "time": "2026-03-09T02:51:03.184757",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-      "url": "https://github.com/karpathy/autoresearch",
+      "title": "Every single board computer I tested in 2025",
+      "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
       "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.666052",
+      "time": "2026-03-09T02:51:03.274078",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "FrameBook",
+      "url": "https://fb.edoo.gg",
+      "source": "Hacker News",
+      "time": "2026-03-09T02:51:03.359034",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+      "url": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+      "source": "Hacker News",
+      "time": "2026-03-09T02:51:03.445964",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
+      "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+      "url": "https://github.com/Rabrg/artificial-life",
       "source": "Hacker News",
-      "time": "2026-03-08T02:49:47.762507",
+      "time": "2026-03-09T02:51:03.529127",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "orange2ai/Flash-Translate",
-      "url": "https://github.com/orange2ai/Flash-Translate",
+      "title": "steipete/triage",
+      "url": "https://github.com/steipete/triage",
       "source": "GitHub",
-      "time": "2026-03-08T02:49:48.205086",
-      "heat": 8,
-      "category": "tech"
-    },
-    {
-      "title": "jwolberg/volscan",
-      "url": "https://github.com/jwolberg/volscan",
-      "source": "GitHub",
-      "time": "2026-03-08T02:49:48.205097",
-      "heat": 5,
-      "category": "tech"
-    },
-    {
-      "title": "akitaonrails/easy-ffmpeg",
-      "url": "https://github.com/akitaonrails/easy-ffmpeg",
-      "source": "GitHub",
-      "time": "2026-03-08T02:49:48.205099",
-      "heat": 5,
+      "time": "2026-03-09T02:51:03.971073",
+      "heat": 7,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-08T02:49:48.205581"
+  "updated_at": "2026-03-09T02:51:03.971627"
 }
