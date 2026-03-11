@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
-      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+      "title": "Tony Hoare has died",
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:31.590319",
+      "time": "2026-03-11T02:41:52.330361",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
+      "title": "U+237C ⍼ Is Azimuth",
+      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:31.740911",
+      "time": "2026-03-11T02:41:52.450852",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Remotely use my guitar tuner",
-      "url": "https://realtuner.online/",
+      "title": "Cloudflare crawl endpoint",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:31.889287",
+      "time": "2026-03-11T02:41:52.560947",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "JSLinux Now Supports x86_64",
-      "url": "https://bellard.org/jslinux/",
+      "title": "Agents that run while I sleep",
+      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:32.037921",
+      "time": "2026-03-11T02:41:52.672618",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The “JVG algorithm” only wins on tiny numbers",
-      "url": "https://scottaaronson.blog/?p=9615",
+      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:32.188379",
+      "time": "2026-03-11T02:41:52.784315",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "title": "SSH Secret Menu",
+      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:32.340535",
+      "time": "2026-03-11T02:41:52.898486",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Darkrealms BBS",
-      "url": "http://www.darkrealms.ca/",
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "url": "https://github.com/RunanywhereAI/rcli",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:32.485724",
+      "time": "2026-03-11T02:41:53.011018",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The first airplane fatality",
-      "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+      "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
+      "url": "https://github.com/torlando-tech/columba",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:32.634430",
+      "time": "2026-03-11T02:41:53.122388",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-      "url": "https://news.ycombinator.com/item?id=47311657",
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:32.781951",
+      "time": "2026-03-11T02:41:53.234379",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: The Mog Programming Language",
-      "url": "https://moglang.org",
+      "title": "Universal vaccine against respiratory infections and allergens",
+      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
       "source": "Hacker News",
-      "time": "2026-03-10T02:42:32.931734",
+      "time": "2026-03-11T02:41:53.346778",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-10T02:42:33.900712"
+  "updated_at": "2026-03-11T02:41:54.182471"
 }
