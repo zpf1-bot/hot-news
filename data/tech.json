@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Tony Hoare has died",
-      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "title": "Show HN: s@: decentralized social networking over static sites",
+      "url": "http://satproto.org/",
       "source": "Hacker News",
-      "time": "2026-03-11T02:41:52.330361",
+      "time": "2026-03-12T02:47:32.578051",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "U+237C ⍼ Is Azimuth",
-      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "title": "Temporal: A nine-year journey to fix time in JavaScript",
+      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
       "source": "Hacker News",
-      "time": "2026-03-11T02:41:52.450852",
+      "time": "2026-03-12T02:47:32.682219",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Cloudflare crawl endpoint",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
       "source": "Hacker News",
-      "time": "2026-03-11T02:41:52.560947",
+      "time": "2026-03-12T02:47:32.787477",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Agents that run while I sleep",
-      "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+      "title": "Making WebAssembly a first-class language on the Web",
+      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
       "source": "Hacker News",
-      "time": "2026-03-11T02:41:52.672618",
-      "heat": 850,
+      "time": "2026-03-12T02:47:32.985934",
+      "heat": 800,
       "category": "tech"
     },
     {
-      "title": "SSH Secret Menu",
-      "url": "https://twitter.com/rebane2001/status/2031037389347406054",
+      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
       "source": "Hacker News",
-      "time": "2026-03-11T02:41:52.898486",
+      "time": "2026-03-12T02:47:33.088615",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "url": "https://github.com/RunanywhereAI/rcli",
+      "title": "I was interviewed by an AI bot for a job",
+      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
       "source": "Hacker News",
-      "time": "2026-03-11T02:41:53.011018",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "url": "https://github.com/torlando-tech/columba",
-      "source": "Hacker News",
-      "time": "2026-03-11T02:41:53.122388",
+      "time": "2026-03-12T02:47:33.288463",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "RightNow-AI/autokernel",
-      "url": "https://github.com/RightNow-AI/autokernel",
-      "source": "GitHub",
-      "time": "2026-03-11T02:41:54.182330",
-      "heat": 6,
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "url": "https://sitespy.app",
+      "source": "Hacker News",
+      "time": "2026-03-12T02:47:33.393942",
+      "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Joangeldelarosa/pxlkit",
-      "url": "https://github.com/Joangeldelarosa/pxlkit",
+      "title": "Google closes deal to acquire Wiz",
+      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "source": "Hacker News",
+      "time": "2026-03-12T02:47:33.510623",
+      "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "V1ki/zero",
+      "url": "https://github.com/V1ki/zero",
       "source": "GitHub",
-      "time": "2026-03-11T02:41:54.182342",
+      "time": "2026-03-12T02:47:34.076556",
+      "heat": 8,
+      "category": "tech"
+    },
+    {
+      "title": "suriarasai/SA62",
+      "url": "https://github.com/suriarasai/SA62",
+      "source": "GitHub",
+      "time": "2026-03-12T02:47:34.076582",
       "heat": 4,
-      "category": "tech"
-    },
-    {
-      "title": "alibaba/tron-one-agent",
-      "url": "https://github.com/alibaba/tron-one-agent",
-      "source": "GitHub",
-      "time": "2026-03-11T02:41:54.182343",
-      "heat": 3,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-11T02:41:54.182886"
+  "updated_at": "2026-03-12T02:47:34.077074"
 }

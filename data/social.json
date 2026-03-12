@@ -1,21 +1,21 @@
 {
   "news": [
     {
-      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-      "source": "Hacker News",
-      "time": "2026-03-11T02:41:52.784315",
-      "heat": 800,
+      "title": "tw93/claude-health",
+      "url": "https://github.com/tw93/claude-health",
+      "source": "GitHub",
+      "time": "2026-03-12T02:47:34.076580",
+      "heat": 5,
       "category": "tech"
     },
     {
-      "title": "Universal vaccine against respiratory infections and allergens",
-      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-      "source": "Hacker News",
-      "time": "2026-03-11T02:41:53.346778",
-      "heat": 550,
+      "title": "BetaStreetOmnis/news-driven-trader",
+      "url": "https://github.com/BetaStreetOmnis/news-driven-trader",
+      "source": "GitHub",
+      "time": "2026-03-12T02:47:34.076588",
+      "heat": 2,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-11T02:41:54.183324"
+  "updated_at": "2026-03-12T02:47:34.077550"
 }

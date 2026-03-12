@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "Debian decides not to decide on AI-generated contributions",
-      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "source": "Hacker News",
-      "time": "2026-03-11T02:41:53.234379",
-      "heat": 600,
+      "time": "2026-03-12T02:47:32.885285",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Urea prices",
+      "url": "https://tradingeconomics.com/commodity/urea",
+      "source": "Hacker News",
+      "time": "2026-03-12T02:47:33.187743",
+      "heat": 700,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-11T02:41:54.183154"
+  "updated_at": "2026-03-12T02:47:34.077359"
 }
