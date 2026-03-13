@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: s@: decentralized social networking over static sites",
-      "url": "http://satproto.org/",
+      "title": "Shall I implement it? No",
+      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:32.578051",
+      "time": "2026-03-13T02:45:21.428003",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Temporal: A nine-year journey to fix time in JavaScript",
-      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "title": "Malus – Clean Room as a Service",
+      "url": "https://malus.sh",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:32.682219",
+      "time": "2026-03-13T02:45:21.540057",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "title": "Bubble Sorted Amen Break",
+      "url": "https://parametricavocado.itch.io/amen-sorting",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:32.787477",
+      "time": "2026-03-13T02:45:21.664198",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "title": "Reversing memory loss via gut-brain communication",
+      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:32.885285",
+      "time": "2026-03-13T02:45:21.775312",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Making WebAssembly a first-class language on the Web",
-      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+      "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:32.985934",
+      "time": "2026-03-13T02:45:21.892471",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "url": "https://aminrj.com/posts/rag-document-poisoning/",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:33.088615",
+      "time": "2026-03-13T02:45:22.008974",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Urea prices",
-      "url": "https://tradingeconomics.com/commodity/urea",
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
+      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:33.187743",
+      "time": "2026-03-13T02:45:22.126792",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "I was interviewed by an AI bot for a job",
-      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "title": "Understanding the Go Runtime: The Scheduler",
+      "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:33.288463",
+      "time": "2026-03-13T02:45:22.239841",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "url": "https://sitespy.app",
+      "title": "\"This Is Not the Computer for You\"",
+      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:33.393942",
+      "time": "2026-03-13T02:45:22.353562",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Google closes deal to acquire Wiz",
-      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:33.510623",
+      "time": "2026-03-13T02:45:22.464425",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-12T02:47:34.076683"
+  "updated_at": "2026-03-13T02:45:23.151682"
 }

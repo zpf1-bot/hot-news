@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+      "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
       "source": "Hacker News",
-      "time": "2026-03-12T02:47:32.885285",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Urea prices",
-      "url": "https://tradingeconomics.com/commodity/urea",
-      "source": "Hacker News",
-      "time": "2026-03-12T02:47:33.187743",
-      "heat": 700,
+      "time": "2026-03-13T02:45:21.892471",
+      "heat": 800,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-12T02:47:34.077359"
+  "updated_at": "2026-03-13T02:45:23.152337"
 }

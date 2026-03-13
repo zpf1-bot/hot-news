@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "tw93/claude-health",
-      "url": "https://github.com/tw93/claude-health",
-      "source": "GitHub",
-      "time": "2026-03-12T02:47:34.076580",
-      "heat": 5,
-      "category": "tech"
-    },
-    {
-      "title": "BetaStreetOmnis/news-driven-trader",
-      "url": "https://github.com/BetaStreetOmnis/news-driven-trader",
-      "source": "GitHub",
-      "time": "2026-03-12T02:47:34.076588",
-      "heat": 2,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-03-12T02:47:34.077550"
+  "news": [],
+  "updated_at": "2026-03-13T02:45:23.152544"
 }
