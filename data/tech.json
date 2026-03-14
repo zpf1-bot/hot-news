@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Shall I implement it? No",
-      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:21.428003",
+      "time": "2026-03-14T02:43:44.272156",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Malus – Clean Room as a Service",
-      "url": "https://malus.sh",
+      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:21.540057",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "Bubble Sorted Amen Break",
-      "url": "https://parametricavocado.itch.io/amen-sorting",
-      "source": "Hacker News",
-      "time": "2026-03-13T02:45:21.664198",
+      "time": "2026-03-14T02:43:45.196058",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Reversing memory loss via gut-brain communication",
-      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "title": "Can I run AI locally?",
+      "url": "https://www.canirun.ai/",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:21.775312",
+      "time": "2026-03-14T02:43:45.281442",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
-      "url": "https://aminrj.com/posts/rag-document-poisoning/",
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "url": "https://channelsurfer.tv",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:22.008974",
+      "time": "2026-03-14T02:43:45.366514",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
+      "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+      "source": "Hacker News",
+      "time": "2026-03-14T02:43:45.454749",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The Met releases high-def 3D scans of 140 famous art objects",
-      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "title": "Coding My Handwriting",
+      "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:22.126792",
+      "time": "2026-03-14T02:43:45.542232",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Understanding the Go Runtime: The Scheduler",
-      "url": "https://internals-for-interns.com/posts/go-runtime-scheduler/",
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "url": "https://github.com/TomBadash/MouseControl",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:22.239841",
+      "time": "2026-03-14T02:43:45.629650",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "\"This Is Not the Computer for You\"",
-      "url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:22.353562",
+      "time": "2026-03-14T02:43:45.719254",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "title": "Hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
       "source": "Hacker News",
-      "time": "2026-03-13T02:45:22.464425",
+      "time": "2026-03-14T02:43:45.811624",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "imdap/ruoyi-plus-vben5",
-      "url": "https://github.com/imdap/ruoyi-plus-vben5",
+      "title": "nakatucuta/electiva_bigdata",
+      "url": "https://github.com/nakatucuta/electiva_bigdata",
       "source": "GitHub",
-      "time": "2026-03-13T02:45:23.151560",
-      "heat": 16,
+      "time": "2026-03-14T02:43:46.457610",
+      "heat": 13,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-13T02:45:23.152044"
+  "updated_at": "2026-03-14T02:43:46.458137"
 }
