@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "An investigation of the forces behind the age-verification bills",
-      "url": "https://lwn.net/Articles/1062779/",
-      "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.103221",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "dhatfieldai/trading-assist",
-      "url": "https://github.com/dhatfieldai/trading-assist",
-      "source": "GitHub",
-      "time": "2026-03-14T02:43:46.457625",
-      "heat": 5,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-03-14T02:43:46.458398"
+  "news": [],
+  "updated_at": "2026-03-15T03:22:48.879788"
 }

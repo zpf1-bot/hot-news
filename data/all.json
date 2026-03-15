@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-      "url": "https://claude.com/blog/1m-context-ga",
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "url": "https://agelesslinux.org/",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:44.272156",
+      "time": "2026-03-15T03:22:46.819625",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "An investigation of the forces behind the age-verification bills",
-      "url": "https://lwn.net/Articles/1062779/",
+      "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.103221",
+      "time": "2026-03-15T03:22:46.939082",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
-      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "title": "Airbus is preparing two uncrewed combat aircraft",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.196058",
+      "time": "2026-03-15T03:22:47.057645",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Can I run AI locally?",
-      "url": "https://www.canirun.ai/",
+      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.281442",
+      "time": "2026-03-15T03:22:47.174502",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "url": "https://channelsurfer.tv",
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.366514",
+      "time": "2026-03-15T03:22:47.287902",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
-      "url": "https://www.bbc.com/news/articles/cge84xqjg5lo",
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.454749",
+      "time": "2026-03-15T03:22:47.402224",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Coding My Handwriting",
-      "url": "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript",
+      "title": "SBCL Fibers – Lightweight Cooperative Threads",
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.542232",
+      "time": "2026-03-15T03:22:47.518579",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
+      "title": "Bumblebee queens breathe underwater to survive drowning",
+      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.629650",
+      "time": "2026-03-15T03:22:47.641070",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "title": "Mathematics Distillation Challenge – Equational Theories",
+      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.719254",
+      "time": "2026-03-15T03:22:47.753553",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "title": "From Braun T3 to Apple's iPod",
+      "url": "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod",
       "source": "Hacker News",
-      "time": "2026-03-14T02:43:45.811624",
+      "time": "2026-03-15T03:22:47.871579",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-14T02:43:46.457744"
+  "updated_at": "2026-03-15T03:22:48.879138"
 }
