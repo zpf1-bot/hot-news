@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Ageless Linux – Software for humans of indeterminate age",
-      "url": "https://agelesslinux.org/",
+      "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:46.819625",
+      "time": "2026-03-16T03:25:16.149319",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+      "title": "Chrome DevTools MCP",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:46.939082",
+      "time": "2026-03-16T03:25:16.262696",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Airbus is preparing two uncrewed combat aircraft",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "title": "The 49MB web page",
+      "url": "https://thatshubham.com/blog/news-audit",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.057645",
+      "time": "2026-03-16T03:25:16.376323",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+      "title": "What Is Agentic Engineering?",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.174502",
+      "time": "2026-03-16T03:25:16.490921",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Tree Search Distillation for Language Models Using PPO",
-      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "title": "LLMs can be exhausting",
+      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.287902",
+      "time": "2026-03-16T03:25:16.604333",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Han – A Korean programming language written in Rust",
-      "url": "https://github.com/xodn348/han",
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.402224",
+      "time": "2026-03-16T03:25:16.724711",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "SBCL Fibers – Lightweight Cooperative Threads",
-      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.518579",
+      "time": "2026-03-16T03:25:16.839481",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Bumblebee queens breathe underwater to survive drowning",
-      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+      "title": "//go:fix inline and the source-level inliner",
+      "url": "https://go.dev/blog/inliner",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.641070",
+      "time": "2026-03-16T03:25:16.954093",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Mathematics Distillation Challenge – Equational Theories",
-      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+      "title": "The Linux Programming Interface as a university course text",
+      "url": "https://man7.org/tlpi/academic/index.html",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.753553",
+      "time": "2026-03-16T03:25:17.074754",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "From Braun T3 to Apple's iPod",
-      "url": "https://drams.framer.website/journal/from-braun-t3-to-apples-ipod",
+      "title": "Separating the Wayland compositor and window manager",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
       "source": "Hacker News",
-      "time": "2026-03-15T03:22:47.871579",
+      "time": "2026-03-16T03:25:17.195823",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-15T03:22:48.879529"
+  "updated_at": "2026-03-16T03:25:18.183445"
 }
