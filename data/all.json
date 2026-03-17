@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
-      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.149319",
+      "time": "2026-03-17T02:47:46.586707",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Chrome DevTools MCP",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "url": "https://mistral.ai/news/leanstral",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.262696",
+      "time": "2026-03-17T02:47:46.685253",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The 49MB web page",
-      "url": "https://thatshubham.com/blog/news-audit",
+      "title": "Meta’s renewed commitment to jemalloc",
+      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.376323",
+      "time": "2026-03-17T02:47:46.775733",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "What Is Agentic Engineering?",
-      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+      "title": "The American Healthcare Conundrum",
+      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.490921",
+      "time": "2026-03-17T02:47:46.868455",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "LLMs can be exhausting",
-      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+      "title": "The “small web” is bigger than you might think",
+      "url": "https://kevinboone.me/small_web_is_big.html",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.604333",
+      "time": "2026-03-17T02:47:46.969224",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "LLM Architecture Gallery",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
+      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.724711",
+      "time": "2026-03-17T02:47:47.061496",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-      "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+      "title": "In space, no one can hear you kernel panic (2020)",
+      "url": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.839481",
+      "time": "2026-03-17T02:47:47.157616",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "//go:fix inline and the source-level inliner",
-      "url": "https://go.dev/blog/inliner",
+      "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+      "url": "https://github.com/mr-fatalyst/oxyde",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:16.954093",
+      "time": "2026-03-17T02:47:47.247069",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The Linux Programming Interface as a university course text",
-      "url": "https://man7.org/tlpi/academic/index.html",
+      "title": "Canopy Height Maps v2",
+      "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:17.074754",
+      "time": "2026-03-17T02:47:47.341097",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Separating the Wayland compositor and window manager",
-      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "title": "Show HN: GitClassic.com, a fast, lightweight GitHub thin client (pages <14KB)",
+      "url": "https://gitclassic.com",
       "source": "Hacker News",
-      "time": "2026-03-16T03:25:17.195823",
+      "time": "2026-03-17T02:47:47.434627",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-16T03:25:18.183100"
+  "updated_at": "2026-03-17T02:47:48.130040"
 }
