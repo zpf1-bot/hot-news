@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:46.586707",
+      "time": "2026-03-18T02:54:08.014993",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
+      "title": "Python 3.15's JIT is now back on track",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:46.685253",
+      "time": "2026-03-18T02:54:08.141201",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:46.775733",
+      "time": "2026-03-18T02:54:08.245130",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "url": "https://github.com/adammiribyan/zeroboot",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:46.969224",
+      "time": "2026-03-18T02:54:08.345152",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "source": "Hacker News",
+      "time": "2026-03-18T02:54:08.449307",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "url": "https://github.com/gsd-build/get-shit-done",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:47.061496",
+      "time": "2026-03-18T02:54:08.550298",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "In space, no one can hear you kernel panic (2020)",
-      "url": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
+      "title": "More than 135 open hardware devices flashable with your own firmware",
+      "url": "https://openhardware.directory",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:47.157616",
+      "time": "2026-03-18T02:54:08.650103",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
-      "url": "https://github.com/mr-fatalyst/oxyde",
+      "title": "The Pleasures of Poor Product Design",
+      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:47.247069",
+      "time": "2026-03-18T02:54:08.747575",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Canopy Height Maps v2",
-      "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1",
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:47.341097",
+      "time": "2026-03-18T02:54:08.854689",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: GitClassic.com, a fast, lightweight GitHub thin client (pages <14KB)",
-      "url": "https://gitclassic.com",
+      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
       "source": "Hacker News",
-      "time": "2026-03-17T02:47:47.434627",
+      "time": "2026-03-18T02:54:08.955547",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "liuhaoduoduo/git-hook",
-      "url": "https://github.com/liuhaoduoduo/git-hook",
-      "source": "GitHub",
-      "time": "2026-03-17T02:47:48.129931",
-      "heat": 6,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-17T02:47:48.130439"
+  "updated_at": "2026-03-18T02:54:09.668682"
 }

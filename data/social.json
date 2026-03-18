@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "The American Healthcare Conundrum",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "source": "Hacker News",
-      "time": "2026-03-17T02:47:46.868455",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "No-Country-simulation/s03-26-e21-wad-crm",
-      "url": "https://github.com/No-Country-simulation/s03-26-e21-wad-crm",
+      "title": "yiningliu610-prog/MediCloud-AWS-Secure-Architecture-for-Healthcare",
+      "url": "https://github.com/yiningliu610-prog/MediCloud-AWS-Secure-Architecture-for-Healthcare",
       "source": "GitHub",
-      "time": "2026-03-17T02:47:48.129955",
+      "time": "2026-03-18T02:54:09.668201",
       "heat": 2,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-17T02:47:48.130897"
+  "updated_at": "2026-03-18T02:54:09.669163"
 }
