@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "yiningliu610-prog/MediCloud-AWS-Secure-Architecture-for-Healthcare",
-      "url": "https://github.com/yiningliu610-prog/MediCloud-AWS-Secure-Architecture-for-Healthcare",
+      "title": "nolanaechan/VehiClaw",
+      "url": "https://github.com/nolanaechan/VehiClaw",
       "source": "GitHub",
-      "time": "2026-03-18T02:54:09.668201",
-      "heat": 2,
+      "time": "2026-03-19T02:55:49.338921",
+      "heat": 44,
+      "category": "tech"
+    },
+    {
+      "title": "open-gitagent/clawless",
+      "url": "https://github.com/open-gitagent/clawless",
+      "source": "GitHub",
+      "time": "2026-03-19T02:55:49.338939",
+      "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-18T02:54:09.669163"
+  "updated_at": "2026-03-19T02:55:49.339955"
 }
