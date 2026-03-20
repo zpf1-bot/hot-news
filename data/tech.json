@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "title": "Push events into a running session with channels",
+      "url": "https://code.claude.com/docs/en/channels",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:47.373062",
+      "time": "2026-03-20T02:46:31.232811",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Autoresearch for SAT Solvers",
-      "url": "https://github.com/iliazintchenko/agent-sat",
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:47.477300",
+      "time": "2026-03-20T02:46:31.318932",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:47.681475",
+      "time": "2026-03-20T02:46:31.409260",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "source": "Hacker News",
+      "time": "2026-03-20T02:46:31.513291",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "OpenRocket",
-      "url": "https://openrocket.info/",
+      "title": "Drugwars for the TI-82/83/83 Calculators",
+      "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:47.783467",
+      "time": "2026-03-20T02:46:31.610709",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Rob Pike’s Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:47.954953",
+      "time": "2026-03-20T02:46:31.715333",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
+      "title": "How the Turner twins are mythbusting modern technical apparel",
+      "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:48.116841",
+      "time": "2026-03-20T02:46:31.819399",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Wander – A tiny, decentralised tool to explore the small web",
-      "url": "https://susam.net/wander/",
+      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:48.272019",
+      "time": "2026-03-20T02:46:31.926210",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The math that explains why bell curves are everywhere",
-      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:48.409921",
+      "time": "2026-03-20T02:46:32.029469",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Cook: A simple CLI for orchestrating Claude Code",
-      "url": "https://rjcorwin.github.io/cook/",
+      "title": "How many branches can your CPU predict?",
+      "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
       "source": "Hacker News",
-      "time": "2026-03-19T02:55:48.539556",
+      "time": "2026-03-20T02:46:32.137682",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "flyhunterl/det_v1",
-      "url": "https://github.com/flyhunterl/det_v1",
-      "source": "GitHub",
-      "time": "2026-03-19T02:55:49.338933",
-      "heat": 12,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-19T02:55:49.339424"
+  "updated_at": "2026-03-20T02:46:32.956277"
 }

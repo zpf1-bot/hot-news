@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "nolanaechan/VehiClaw",
-      "url": "https://github.com/nolanaechan/VehiClaw",
-      "source": "GitHub",
-      "time": "2026-03-19T02:55:49.338921",
-      "heat": 44,
-      "category": "tech"
-    },
-    {
-      "title": "open-gitagent/clawless",
-      "url": "https://github.com/open-gitagent/clawless",
-      "source": "GitHub",
-      "time": "2026-03-19T02:55:49.338939",
-      "heat": 4,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-03-19T02:55:49.339955"
+  "news": [],
+  "updated_at": "2026-03-20T02:46:32.956686"
 }
