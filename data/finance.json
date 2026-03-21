@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-03-20T02:46:32.956519"
+  "news": [
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "source": "Hacker News",
+      "time": "2026-03-21T02:39:57.872093",
+      "heat": 850,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-21T02:39:58.856426"
 }
