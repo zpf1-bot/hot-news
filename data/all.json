@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Tinybox – Offline AI device 120B parameters",
-      "url": "https://tinygrad.org/#tinybox",
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.235929",
+      "time": "2026-03-23T02:56:12.371179",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The Three Pillars of JavaScript Bloat",
-      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.342451",
+      "time": "2026-03-23T02:56:12.466072",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Chest Fridge",
-      "url": "https://mtbest.net/chest-fridge/",
+      "title": "Intuitions for Tranformer Circuits",
+      "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.436315",
+      "time": "2026-03-23T02:56:12.561917",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "url": "https://tooscut.app/",
+      "title": "The future of version control",
+      "url": "https://bramcohen.com/p/manyana",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.550422",
+      "time": "2026-03-23T02:56:12.657262",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Some things just take time",
-      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "title": "Reports of code's death are greatly exaggerated",
+      "url": "https://stevekrouse.com/precision",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.647425",
+      "time": "2026-03-23T02:56:12.751612",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Why craft-lovers are losing their craft",
-      "url": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/",
+      "title": "The hottest new phone is Tin Can, a 'landline' for kids",
+      "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.752095",
+      "time": "2026-03-23T02:56:12.848939",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Boomloom: Think with your hands",
-      "url": "https://www.theboomloom.com",
+      "title": "Why I love NixOS",
+      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.838671",
+      "time": "2026-03-23T02:56:12.952021",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "url": "https://news.dyne.org/child-protection-is-not-access-control/",
+      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:19.943893",
+      "time": "2026-03-23T02:56:13.048783",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Trivy ecosystem supply chain briefly compromised",
-      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "url": "https://www.projectnomad.us",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:20.038144",
+      "time": "2026-03-23T02:56:13.141790",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Bayesian statistics for confused data scientists",
-      "url": "https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/",
+      "title": "They're Vibe-Coding Spam Now",
+      "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
       "source": "Hacker News",
-      "time": "2026-03-22T02:56:20.142746",
+      "time": "2026-03-23T02:56:13.243054",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-22T02:56:20.716537"
+  "updated_at": "2026-03-23T02:56:13.737624"
 }

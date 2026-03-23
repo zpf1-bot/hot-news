@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-03-22T02:56:20.717364"
+  "news": [
+    {
+      "title": "AI45Lab/ClawSentry",
+      "url": "https://github.com/AI45Lab/ClawSentry",
+      "source": "GitHub",
+      "time": "2026-03-23T02:56:13.737530",
+      "heat": 3,
+      "category": "tech"
+    },
+    {
+      "title": "shufu-yes/anyclaw",
+      "url": "https://github.com/shufu-yes/anyclaw",
+      "source": "GitHub",
+      "time": "2026-03-23T02:56:13.737537",
+      "heat": 2,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-23T02:56:13.738565"
 }

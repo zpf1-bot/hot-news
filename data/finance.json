@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-03-22T02:56:20.717188"
+  "news": [
+    {
+      "title": "Reports of code's death are greatly exaggerated",
+      "url": "https://stevekrouse.com/precision",
+      "source": "Hacker News",
+      "time": "2026-03-23T02:56:12.751612",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "source": "Hacker News",
+      "time": "2026-03-23T02:56:13.048783",
+      "heat": 650,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-23T02:56:13.738354"
 }
