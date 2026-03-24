@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:12.371179",
+      "time": "2026-03-24T02:48:25.916167",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+      "title": "Autoresearch on an old research idea",
+      "url": "https://ykumar.me/blog/eclip-autoresearch/",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:12.466072",
+      "time": "2026-03-24T02:48:25.980701",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Intuitions for Tranformer Circuits",
-      "url": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:12.561917",
+      "time": "2026-03-24T02:48:26.048413",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "The future of version control",
-      "url": "https://bramcohen.com/p/manyana",
+      "title": "Ju Ci: The Art of Repairing Porcelain",
+      "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:12.657262",
-      "heat": 850,
+      "time": "2026-03-24T02:48:26.188314",
+      "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The hottest new phone is Tin Can, a 'landline' for kids",
-      "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
+      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
+      "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:12.848939",
+      "time": "2026-03-24T02:48:26.274705",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Why I love NixOS",
-      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:12.952021",
+      "time": "2026-03-24T02:48:26.339610",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Project Nomad – Knowledge That Never Goes Offline",
-      "url": "https://www.projectnomad.us",
+      "title": "Abusing Customizable Selects",
+      "url": "https://css-tricks.com/abusing-customizable-selects/",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:13.141790",
+      "time": "2026-03-24T02:48:26.408817",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
+      "url": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
+      "source": "Hacker News",
+      "time": "2026-03-24T02:48:26.478817",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "They're Vibe-Coding Spam Now",
-      "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
+      "title": "Finding all regex matches has always been O(n²)",
+      "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:13.243054",
+      "time": "2026-03-24T02:48:26.546155",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "gurafborna/myskill",
-      "url": "https://github.com/gurafborna/myskill",
+      "title": "stuudev/bagsy",
+      "url": "https://github.com/stuudev/bagsy",
       "source": "GitHub",
-      "time": "2026-03-23T02:56:13.737516",
-      "heat": 4,
-      "category": "tech"
-    },
-    {
-      "title": "natedemoss/Claude-Code-Wrapped-Skill",
-      "url": "https://github.com/natedemoss/Claude-Code-Wrapped-Skill",
-      "source": "GitHub",
-      "time": "2026-03-23T02:56:13.737527",
-      "heat": 3,
+      "time": "2026-03-24T02:48:27.215290",
+      "heat": 9,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-23T02:56:13.738069"
+  "updated_at": "2026-03-24T02:48:27.215860"
 }

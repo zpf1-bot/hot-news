@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "Reports of code's death are greatly exaggerated",
-      "url": "https://stevekrouse.com/precision",
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
       "source": "Hacker News",
-      "time": "2026-03-23T02:56:12.751612",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
-      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
-      "source": "Hacker News",
-      "time": "2026-03-23T02:56:13.048783",
-      "heat": 650,
+      "time": "2026-03-24T02:48:26.116892",
+      "heat": 850,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-23T02:56:13.738354"
+  "updated_at": "2026-03-24T02:48:27.216125"
 }
