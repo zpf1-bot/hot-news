@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-03-24T02:48:27.216294"
+  "news": [
+    {
+      "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
+      "url": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
+      "source": "Hacker News",
+      "time": "2026-03-25T02:53:15.110424",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "dawangcoding/ClawUI",
+      "url": "https://github.com/dawangcoding/ClawUI",
+      "source": "GitHub",
+      "time": "2026-03-25T02:53:16.030960",
+      "heat": 8,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-25T02:53:16.031901"
 }

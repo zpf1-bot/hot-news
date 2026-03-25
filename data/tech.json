@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Windows 3.1 tiled background .bmp archive",
-      "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "url": "https://spectrum.ieee.org/data-center-dc",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:25.916167",
+      "time": "2026-03-25T02:53:14.248358",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Autoresearch on an old research idea",
-      "url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:25.980701",
+      "time": "2026-03-25T02:53:14.362555",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
-      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:26.048413",
+      "time": "2026-03-25T02:53:14.496039",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Ju Ci: The Art of Repairing Porcelain",
-      "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:26.188314",
+      "time": "2026-03-25T02:53:14.600503",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "source": "Hacker News",
+      "time": "2026-03-25T02:53:14.699622",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-      "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
+      "title": "Apple Business",
+      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:26.274705",
+      "time": "2026-03-25T02:53:14.802891",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "title": "Arm AGI CPU",
+      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:26.339610",
+      "time": "2026-03-25T02:53:14.903972",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Abusing Customizable Selects",
-      "url": "https://css-tricks.com/abusing-customizable-selects/",
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:26.408817",
+      "time": "2026-03-25T02:53:15.007800",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
-      "url": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
+      "title": "Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types",
+      "url": "https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/",
       "source": "Hacker News",
-      "time": "2026-03-24T02:48:26.478817",
-      "heat": 600,
-      "category": "tech"
-    },
-    {
-      "title": "Finding all regex matches has always been O(n²)",
-      "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-      "source": "Hacker News",
-      "time": "2026-03-24T02:48:26.546155",
+      "time": "2026-03-25T02:53:15.212519",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "stuudev/bagsy",
-      "url": "https://github.com/stuudev/bagsy",
+      "title": "ChamHerry/AutoDroid",
+      "url": "https://github.com/ChamHerry/AutoDroid",
       "source": "GitHub",
-      "time": "2026-03-24T02:48:27.215290",
-      "heat": 9,
+      "time": "2026-03-25T02:53:16.030966",
+      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-24T02:48:27.215860"
+  "updated_at": "2026-03-25T02:53:16.031441"
 }
