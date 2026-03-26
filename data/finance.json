@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-03-25T02:53:16.031722"
+  "news": [
+    {
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
+      "source": "Hacker News",
+      "time": "2026-03-26T03:18:01.277368",
+      "heat": 550,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-26T03:18:02.210420"
 }

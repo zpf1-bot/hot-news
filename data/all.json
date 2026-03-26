@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
-      "url": "https://spectrum.ieee.org/data-center-dc",
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:14.248358",
+      "time": "2026-03-26T03:18:00.194621",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
+      "title": "False claims in a widely-cited paper. No corrections. No consequences",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:14.362555",
+      "time": "2026-03-26T03:18:00.333646",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Goodbye to Sora",
-      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:14.496039",
+      "time": "2026-03-26T03:18:00.437149",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+      "title": "Two Studies in Compiler Optimisations",
+      "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:14.600503",
+      "time": "2026-03-26T03:18:00.545966",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+      "title": "My astrophotography in the movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:14.699622",
+      "time": "2026-03-26T03:18:00.676343",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:14.802891",
+      "time": "2026-03-26T03:18:00.780797",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Arm AGI CPU",
-      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:14.903972",
+      "time": "2026-03-26T03:18:00.884041",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:15.007800",
+      "time": "2026-03-26T03:18:01.061885",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "An Aural Companion for Decades, CBS News Radio Crackles to a Close",
-      "url": "https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html",
+      "title": "My DIY FPGA board can run Quake II",
+      "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:15.110424",
+      "time": "2026-03-26T03:18:01.171066",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types",
-      "url": "https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/",
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
       "source": "Hacker News",
-      "time": "2026-03-25T02:53:15.212519",
+      "time": "2026-03-26T03:18:01.277368",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-25T02:53:16.031057"
+  "updated_at": "2026-03-26T03:18:02.209799"
 }
