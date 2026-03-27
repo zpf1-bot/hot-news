@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-03-26T03:18:02.210585"
+  "news": [
+    {
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "source": "Hacker News",
+      "time": "2026-03-27T03:21:30.549136",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-27T03:21:31.308984"
 }

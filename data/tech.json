@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:00.194621",
+      "time": "2026-03-27T03:21:30.034993",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "False claims in a widely-cited paper. No corrections. No consequences",
-      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259",
+      "title": "Why so many control rooms were seafoam green (2025)",
+      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:00.333646",
+      "time": "2026-03-27T03:21:30.121806",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "ARC-AGI-3",
-      "url": "https://arcprize.org/arc-agi/3",
+      "title": "Apple discontinues the Mac Pro",
+      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:00.437149",
+      "time": "2026-03-27T03:21:30.208005",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Two Studies in Compiler Optimisations",
-      "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
+      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
+      "url": "https://www.symbolica.ai/blog/arc-agi-3",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:00.545966",
+      "time": "2026-03-27T03:21:30.295064",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "url": "https://rpastro.square.site/s/stories/phm",
+      "title": "Agent-to-Agent Pair Programming",
+      "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:00.676343",
+      "time": "2026-03-27T03:21:30.380394",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:00.780797",
+      "time": "2026-03-27T03:21:30.463714",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The EU still wants to scan  your private messages and photos",
-      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+      "url": "https://www.trychroma.com/research/context-1",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:00.884041",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-      "url": "https://www.claudescode.dev/?window=since_launch",
-      "source": "Hacker News",
-      "time": "2026-03-26T03:18:01.061885",
+      "time": "2026-03-27T03:21:30.631929",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "My DIY FPGA board can run Quake II",
-      "url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+      "title": "Dobase – Your workspace, your server",
+      "url": "https://dobase.co/",
       "source": "Hacker News",
-      "time": "2026-03-26T03:18:01.171066",
+      "time": "2026-03-27T03:21:30.714761",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "TinTinLLM/TinTinLLM",
-      "url": "https://github.com/TinTinLLM/TinTinLLM",
+      "title": "DOOM Over DNS",
+      "url": "https://github.com/resumex/doom-over-dns",
+      "source": "Hacker News",
+      "time": "2026-03-27T03:21:30.800485",
+      "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "yinsn/sortify-resources",
+      "url": "https://github.com/yinsn/sortify-resources",
       "source": "GitHub",
-      "time": "2026-03-26T03:18:02.209673",
-      "heat": 15,
+      "time": "2026-03-27T03:21:31.308000",
+      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-26T03:18:02.210149"
+  "updated_at": "2026-03-27T03:21:31.308492"
 }
