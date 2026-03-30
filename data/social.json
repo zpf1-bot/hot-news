@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-03-29T03:26:19.232262"
+  "news": [
+    {
+      "title": "Philly courts will ban all smart eyeglasses starting next week",
+      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "source": "Hacker News",
+      "time": "2026-03-30T03:29:12.832992",
+      "heat": 900,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-03-30T03:29:14.675935"
 }
