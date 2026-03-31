@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
-      "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
+      "title": "Universal Claude.md – cut Claude output tokens by 63%",
+      "url": "https://github.com/drona23/claude-token-efficient",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:12.592619",
+      "time": "2026-03-31T03:20:25.176441",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The Cognitive Dark Forest",
-      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:12.711247",
+      "time": "2026-03-31T03:20:25.297485",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Philly courts will ban all smart eyeglasses starting next week",
-      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:12.832992",
+      "time": "2026-03-31T03:20:25.389152",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-      "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:12.947368",
+      "time": "2026-03-31T03:20:25.501608",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:13.061888",
+      "time": "2026-03-31T03:20:25.602514",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "DoesItAgeVerify: The age verification status of Open Source Operating Systems",
-      "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+      "title": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:13.175114",
+      "time": "2026-03-31T03:20:25.695074",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "15 Years of Forking",
-      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+      "title": "How to turn anything into a router",
+      "url": "https://nbailey.ca/post/router/",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:13.287279",
+      "time": "2026-03-31T03:20:25.782142",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Interview: Nobonoko, Master of the Minimal Sequencer",
-      "url": "https://fi-le.net/nobo/",
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:13.405785",
+      "time": "2026-03-31T03:20:25.869418",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
-      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
+      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:13.521750",
+      "time": "2026-03-31T03:20:25.955011",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Pretext: TypeScript library for multiline text measurement and layout",
-      "url": "https://github.com/chenglou/pretext",
+      "title": "Agents of Chaos",
+      "url": "https://agentsofchaos.baulab.info/report.html",
       "source": "Hacker News",
-      "time": "2026-03-30T03:29:13.636057",
+      "time": "2026-03-31T03:20:26.040345",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-30T03:29:14.661284"
+  "updated_at": "2026-03-31T03:20:26.698325"
 }
