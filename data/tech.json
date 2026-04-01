@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Universal Claude.md – cut Claude output tokens by 63%",
-      "url": "https://github.com/drona23/claude-token-efficient",
+      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.176441",
+      "time": "2026-04-01T03:33:23.424220",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Android Developer Verification",
-      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.389152",
+      "time": "2026-04-01T03:33:23.518047",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "source": "Hacker News",
+      "time": "2026-04-01T03:33:23.615106",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "title": "TruffleRuby",
+      "url": "https://chrisseaton.com/truffleruby/",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.501608",
+      "time": "2026-04-01T03:33:23.714667",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.602514",
+      "time": "2026-04-01T03:33:23.807122",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.695074",
+      "time": "2026-04-01T03:33:23.907283",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "How to turn anything into a router",
-      "url": "https://nbailey.ca/post/router/",
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.782142",
+      "time": "2026-04-01T03:33:24.000235",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Learn Claude Code by doing, not reading",
-      "url": "https://claude.nagdy.me/",
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.869418",
+      "time": "2026-04-01T03:33:24.104150",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Incident March 30th, 2026 – Accidental CDN Caching",
-      "url": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
+      "title": "Neanderthals survived on a knife's edge for 350k years",
+      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.955011",
+      "time": "2026-04-01T03:33:24.197790",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Agents of Chaos",
-      "url": "https://agentsofchaos.baulab.info/report.html",
-      "source": "Hacker News",
-      "time": "2026-03-31T03:20:26.040345",
-      "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "Sanjay2731/Todolist",
-      "url": "https://github.com/Sanjay2731/Todolist",
+      "title": "code-yeongyu/not-claude-code-emulator",
+      "url": "https://github.com/code-yeongyu/not-claude-code-emulator",
       "source": "GitHub",
-      "time": "2026-03-31T03:20:26.698230",
-      "heat": 11,
+      "time": "2026-04-01T03:33:25.066175",
+      "heat": 107,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-31T03:20:26.698638"
+  "updated_at": "2026-04-01T03:33:25.066684"
 }

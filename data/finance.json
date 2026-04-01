@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
       "source": "Hacker News",
-      "time": "2026-03-31T03:20:25.297485",
-      "heat": 950,
+      "time": "2026-04-01T03:33:24.299854",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-03-31T03:20:26.698929"
+  "updated_at": "2026-04-01T03:33:25.066984"
 }
