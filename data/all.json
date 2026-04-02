@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
-      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+      "title": "Live: Artemis II Launch Day Updates",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:23.424220",
+      "time": "2026-04-02T03:15:59.788285",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "title": "A new C++ back end for ocamlc",
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:23.518047",
+      "time": "2026-04-02T03:15:59.907209",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "url": "https://arxiv.org/abs/2602.04118",
+      "title": "Quantum computing bombshells that are not April Fools",
+      "url": "https://scottaaronson.blog/?p=9665",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:23.615106",
+      "time": "2026-04-02T03:16:00.021597",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "TruffleRuby",
-      "url": "https://chrisseaton.com/truffleruby/",
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:23.714667",
+      "time": "2026-04-02T03:16:00.139746",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:23.807122",
+      "time": "2026-04-02T03:16:00.256913",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "url": "https://prismml.com/",
+      "title": "Fast and Gorgeous Erosion Filter",
+      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:23.907283",
+      "time": "2026-04-02T03:16:00.370026",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Ministack (Replacement for LocalStack)",
-      "url": "https://ministack.org/",
+      "title": "Set the Line Before It's Crossed",
+      "url": "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:24.000235",
+      "time": "2026-04-02T03:16:00.497056",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "A dot a day keeps the clutter away",
-      "url": "https://scottlawsonbc.com/post/dot-system",
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "url": "https://github.com/hauntsaninja/git_bayesect",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:24.104150",
+      "time": "2026-04-02T03:16:00.615728",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Neanderthals survived on a knife's edge for 350k years",
-      "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+      "title": "AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:24.197790",
+      "time": "2026-04-02T03:16:00.769836",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "title": "Trinity Large Thinking",
+      "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:24.299854",
+      "time": "2026-04-02T03:16:00.980660",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-01T03:33:25.066284"
+  "updated_at": "2026-04-02T03:16:01.890828"
 }

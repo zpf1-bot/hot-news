@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
       "source": "Hacker News",
-      "time": "2026-04-01T03:33:24.299854",
-      "heat": 550,
+      "time": "2026-04-02T03:16:00.139746",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "apropro1/polymarket-trading-bot",
+      "url": "https://github.com/apropro1/polymarket-trading-bot",
+      "source": "GitHub",
+      "time": "2026-04-02T03:16:01.890711",
+      "heat": 13,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-01T03:33:25.066984"
+  "updated_at": "2026-04-02T03:16:01.891524"
 }
