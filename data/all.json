@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Live: Artemis II Launch Day Updates",
-      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
       "source": "Hacker News",
-      "time": "2026-04-02T03:15:59.788285",
+      "time": "2026-04-03T03:18:07.535852",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "A new C++ back end for ocamlc",
-      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
       "source": "Hacker News",
-      "time": "2026-04-02T03:15:59.907209",
+      "time": "2026-04-03T03:18:07.676025",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Quantum computing bombshells that are not April Fools",
-      "url": "https://scottaaronson.blog/?p=9665",
+      "title": "Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.021597",
+      "time": "2026-04-03T03:18:07.813585",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "DRAM pricing is killing the hobbyist SBC market",
-      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.139746",
+      "time": "2026-04-03T03:18:07.953464",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.256913",
+      "time": "2026-04-03T03:18:08.093396",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Fast and Gorgeous Erosion Filter",
-      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+      "title": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.370026",
+      "time": "2026-04-03T03:18:08.239303",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Set the Line Before It's Crossed",
-      "url": "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed",
+      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.497056",
+      "time": "2026-04-03T03:18:08.379363",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
-      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.615728",
+      "time": "2026-04-03T03:18:08.529413",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "AI for American-produced cement and concrete",
-      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "title": "Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.769836",
+      "time": "2026-04-03T03:18:08.678327",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Trinity Large Thinking",
-      "url": "https://openrouter.ai/arcee-ai/trinity-large-thinking",
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
       "source": "Hacker News",
-      "time": "2026-04-02T03:16:00.980660",
+      "time": "2026-04-03T03:18:08.826292",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-02T03:16:01.890828"
+  "updated_at": "2026-04-03T03:18:09.569671"
 }

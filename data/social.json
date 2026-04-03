@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-04-02T03:16:01.891725"
+  "news": [
+    {
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "source": "Hacker News",
+      "time": "2026-04-03T03:18:08.529413",
+      "heat": 650,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-03T03:18:09.570527"
 }
