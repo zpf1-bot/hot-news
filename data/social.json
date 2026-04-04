@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:08.529413",
-      "heat": 650,
+      "time": "2026-04-04T02:50:40.189989",
+      "heat": 1000,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-03T03:18:09.570527"
+  "updated_at": "2026-04-04T02:50:42.249443"
 }

@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Google releases Gemma 4 open models",
-      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:07.535852",
+      "time": "2026-04-04T02:50:40.189989",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "title": "Artemis II crew take “spectacular” image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:07.676025",
+      "time": "2026-04-04T02:50:40.335409",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Tailscale's new macOS home",
-      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:07.813585",
+      "time": "2026-04-04T02:50:40.484728",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:07.953464",
+      "time": "2026-04-04T02:50:40.634805",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "title": "Herbie: Automatically improve imprecise floating point formulas",
+      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:08.093396",
+      "time": "2026-04-04T02:50:40.785919",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Cursor 3",
-      "url": "https://cursor.com/blog/cursor-3",
+      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+      "url": "https://github.com/cmc-labo/tinyos-rtos",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:08.239303",
+      "time": "2026-04-04T02:50:40.935322",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "title": "What changes when you turn a Linux box into a router",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:08.379363",
+      "time": "2026-04-04T02:50:41.084517",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "url": "https://text.blogosphere.app/",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:08.529413",
+      "time": "2026-04-04T02:50:41.235681",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Post Mortem: axios NPM supply chain compromise",
-      "url": "https://github.com/axios/axios/issues/10636",
+      "title": "Fake Fans",
+      "url": "https://www.wordsfromeliza.com/p/fake-fans",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:08.678327",
+      "time": "2026-04-04T02:50:41.383815",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
+      "title": "The house is a work of art: Frank Lloyd Wright",
+      "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
       "source": "Hacker News",
-      "time": "2026-04-03T03:18:08.826292",
+      "time": "2026-04-04T02:50:41.535620",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-03T03:18:09.569671"
+  "updated_at": "2026-04-04T02:50:42.248629"
 }
