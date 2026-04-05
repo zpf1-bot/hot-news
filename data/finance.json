@@ -1,4 +1,77 @@
 {
-  "news": [],
-  "updated_at": "2026-04-04T02:50:42.249278"
+  "news": [
+    {
+      "title": "YRaseUp/Polymarket-Copytrading-Bot",
+      "url": "https://github.com/YRaseUp/Polymarket-Copytrading-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041612",
+      "heat": 17,
+      "category": "tech"
+    },
+    {
+      "title": "PolyTopTrend/Polymarket-Copytrading-Bot",
+      "url": "https://github.com/PolyTopTrend/Polymarket-Copytrading-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041624",
+      "heat": 15,
+      "category": "tech"
+    },
+    {
+      "title": "PolyTrend/Polymarket-Copytrading-Bot",
+      "url": "https://github.com/PolyTrend/Polymarket-Copytrading-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041626",
+      "heat": 15,
+      "category": "tech"
+    },
+    {
+      "title": "TradeOp/Polymarket-Market-Maker-Bot",
+      "url": "https://github.com/TradeOp/Polymarket-Market-Maker-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041627",
+      "heat": 15,
+      "category": "tech"
+    },
+    {
+      "title": "YRaseUp/Polymarket-Market-Maker-Bot",
+      "url": "https://github.com/YRaseUp/Polymarket-Market-Maker-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041628",
+      "heat": 13,
+      "category": "tech"
+    },
+    {
+      "title": "PolyTrend/Polymarket-Market-Maker-Bot",
+      "url": "https://github.com/PolyTrend/Polymarket-Market-Maker-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041632",
+      "heat": 12,
+      "category": "tech"
+    },
+    {
+      "title": "PolyTopTrend/Polymarket-Market-Maker-Bot",
+      "url": "https://github.com/PolyTopTrend/Polymarket-Market-Maker-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041633",
+      "heat": 11,
+      "category": "tech"
+    },
+    {
+      "title": "PolyTrend/Polymarket-Trading-Bot",
+      "url": "https://github.com/PolyTrend/Polymarket-Trading-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041634",
+      "heat": 11,
+      "category": "tech"
+    },
+    {
+      "title": "PolyTopTrend/Polymarket-Trading-Bot",
+      "url": "https://github.com/PolyTopTrend/Polymarket-Trading-Bot",
+      "source": "GitHub",
+      "time": "2026-04-05T03:28:21.041635",
+      "heat": 10,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-05T03:28:21.042348"
 }

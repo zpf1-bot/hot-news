@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "url": "https://news.ycombinator.com/item?id=47633396",
+      "title": "Introduction to Computer Music [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:40.189989",
+      "time": "2026-04-05T03:28:18.773268",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:40.335409",
+      "time": "2026-04-05T03:28:18.903755",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "url": "https://github.com/siddharthvaddem/openscreen",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:40.484728",
+      "time": "2026-04-05T03:28:19.029448",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "iNaturalist",
-      "url": "https://www.inaturalist.org/",
+      "title": "Advice to Young People, the Lies I Tell Myself (2024)",
+      "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:40.634805",
+      "time": "2026-04-05T03:28:19.156731",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Herbie: Automatically improve imprecise floating point formulas",
-      "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
+      "title": "A case study in testing with 100+ Claude agents in parallel",
+      "url": "https://imbue.com/product/mngr_part_2/",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:40.785919",
+      "time": "2026-04-05T03:28:19.313992",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
-      "url": "https://github.com/cmc-labo/tinyos-rtos",
+      "title": "AGI Is Here",
+      "url": "https://breaking-changes.blog/agi-is-here/",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:40.935322",
+      "time": "2026-04-05T03:28:19.444099",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "What changes when you turn a Linux box into a router",
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:41.084517",
+      "time": "2026-04-05T03:28:19.570823",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: I built a frontpage for personal blogs",
-      "url": "https://text.blogosphere.app/",
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:41.235681",
+      "time": "2026-04-05T03:28:19.697497",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Fake Fans",
-      "url": "https://www.wordsfromeliza.com/p/fake-fans",
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:41.383815",
+      "time": "2026-04-05T03:28:19.811762",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The house is a work of art: Frank Lloyd Wright",
-      "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
+      "title": "AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",
+      "url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
       "source": "Hacker News",
-      "time": "2026-04-04T02:50:41.535620",
+      "time": "2026-04-05T03:28:19.925527",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-04T02:50:42.248629"
+  "updated_at": "2026-04-05T03:28:21.041718"
 }
