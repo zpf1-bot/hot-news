@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "url": "https://words.filippo.io/crqc-timeline/",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:22.042848",
-      "heat": 750,
+      "time": "2026-04-07T03:21:06.839077",
+      "heat": 800,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-06T03:31:23.543239"
+  "updated_at": "2026-04-07T03:21:07.860740"
 }

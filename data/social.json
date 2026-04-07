@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-04-06T03:31:23.543354"
+  "news": [
+    {
+      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "source": "Hacker News",
+      "time": "2026-04-07T03:21:06.902078",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: GovAuctions lets you browse government auctions at once",
+      "url": "https://www.govauctions.app/",
+      "source": "Hacker News",
+      "time": "2026-04-07T03:21:07.026356",
+      "heat": 650,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-07T03:21:07.860944"
 }

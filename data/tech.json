@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
+      "title": "VOID: Video Object and Interaction Deletion",
+      "url": "https://github.com/Netflix/void-model",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:21.443408",
+      "time": "2026-04-07T03:21:06.561736",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Gemma 4 on iPhone",
-      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "url": "https://github.com/matthartman/ghost-pepper",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:21.575235",
+      "time": "2026-04-07T03:21:06.628496",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
-      "url": "https://playlists.at/youtube/search/",
+      "title": "Solod – A Subset of Go That Translates to C",
+      "url": "https://github.com/solod-dev/solod",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:21.712079",
+      "time": "2026-04-07T03:21:06.696336",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "LÖVE: 2D Game Framework for Lua",
-      "url": "https://github.com/love2d/love",
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "url": "https://www.freestyle.sh/",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:21.846054",
+      "time": "2026-04-07T03:21:06.768942",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
-      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:21.944955",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "source": "Hacker News",
-      "time": "2026-04-06T03:31:22.175840",
+      "time": "2026-04-07T03:21:06.964348",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Eight years of wanting, three months of building with AI",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:22.318258",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Endian wars and anti-portability: this again?",
-      "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
-      "source": "Hacker News",
-      "time": "2026-04-06T03:31:22.415251",
+      "time": "2026-04-07T03:21:07.094770",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-      "url": "https://github.com/kessler/gemma-gem",
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
       "source": "Hacker News",
-      "time": "2026-04-06T03:31:22.549729",
+      "time": "2026-04-07T03:21:07.160712",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "h5htrs4t95-alt/skill-engineering-hub",
-      "url": "https://github.com/h5htrs4t95-alt/skill-engineering-hub",
+      "title": "Toneuaboost71/starred-0562a51",
+      "url": "https://github.com/Toneuaboost71/starred-0562a51",
       "source": "GitHub",
-      "time": "2026-04-06T03:31:23.542597",
-      "heat": 5,
+      "time": "2026-04-07T03:21:07.859908",
+      "heat": 209,
+      "category": "tech"
+    },
+    {
+      "title": "CivilDukeHunt/starred-077842e",
+      "url": "https://github.com/CivilDukeHunt/starred-077842e",
+      "source": "GitHub",
+      "time": "2026-04-07T03:21:07.859918",
+      "heat": 209,
+      "category": "tech"
+    },
+    {
+      "title": "WarlordProvide/starred-be27b8c",
+      "url": "https://github.com/WarlordProvide/starred-be27b8c",
+      "source": "GitHub",
+      "time": "2026-04-07T03:21:07.859920",
+      "heat": 209,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-06T03:31:23.543039"
+  "updated_at": "2026-04-07T03:21:07.860439"
 }
