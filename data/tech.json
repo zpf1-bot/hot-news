@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "VOID: Video Object and Interaction Deletion",
-      "url": "https://github.com/Netflix/void-model",
+      "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+      "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
       "source": "Hacker News",
-      "time": "2026-04-07T03:21:06.561736",
+      "time": "2026-04-08T03:23:39.248049",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
+      "title": "US and Iran agree to provisional ceasefire",
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
       "source": "Hacker News",
-      "time": "2026-04-07T03:21:06.628496",
+      "time": "2026-04-08T03:23:39.342755",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Solod – A Subset of Go That Translates to C",
-      "url": "https://github.com/solod-dev/solod",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "url": "https://www.anthropic.com/glasswing",
       "source": "Hacker News",
-      "time": "2026-04-07T03:21:06.696336",
+      "time": "2026-04-08T03:23:39.439066",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
+      "title": "Lunar Flyby",
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
       "source": "Hacker News",
-      "time": "2026-04-07T03:21:06.768942",
+      "time": "2026-04-08T03:23:39.533163",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
       "source": "Hacker News",
-      "time": "2026-04-07T03:21:06.964348",
+      "time": "2026-04-08T03:23:39.627888",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://z.ai/blog/glm-5.1",
+      "source": "Hacker News",
+      "time": "2026-04-08T03:23:39.728367",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "How to get better at guitar",
+      "url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+      "source": "Hacker News",
+      "time": "2026-04-08T03:23:39.831201",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "title": "Binary obfuscation used in AAA Games",
+      "url": "https://blog.farzon.org/2026/04/binary-obfuscation-that-doesnt-kill-lto.html",
       "source": "Hacker News",
-      "time": "2026-04-07T03:21:07.094770",
+      "time": "2026-04-08T03:23:39.926712",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Cambodia unveils statue to honour famous landmine-sniffing rat",
+      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
+      "source": "Hacker News",
+      "time": "2026-04-08T03:23:40.026355",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "title": "S3 Files",
+      "url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
       "source": "Hacker News",
-      "time": "2026-04-07T03:21:07.160712",
+      "time": "2026-04-08T03:23:40.146095",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "Toneuaboost71/starred-0562a51",
-      "url": "https://github.com/Toneuaboost71/starred-0562a51",
-      "source": "GitHub",
-      "time": "2026-04-07T03:21:07.859908",
-      "heat": 209,
-      "category": "tech"
-    },
-    {
-      "title": "CivilDukeHunt/starred-077842e",
-      "url": "https://github.com/CivilDukeHunt/starred-077842e",
-      "source": "GitHub",
-      "time": "2026-04-07T03:21:07.859918",
-      "heat": 209,
-      "category": "tech"
-    },
-    {
-      "title": "WarlordProvide/starred-be27b8c",
-      "url": "https://github.com/WarlordProvide/starred-be27b8c",
-      "source": "GitHub",
-      "time": "2026-04-07T03:21:07.859920",
-      "heat": 209,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-07T03:21:07.860439"
+  "updated_at": "2026-04-08T03:23:40.789064"
 }

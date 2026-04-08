@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "url": "https://words.filippo.io/crqc-timeline/",
-      "source": "Hacker News",
-      "time": "2026-04-07T03:21:06.839077",
-      "heat": 800,
+      "title": "haz3z/Crypto-Flasher-Tool-2026",
+      "url": "https://github.com/haz3z/Crypto-Flasher-Tool-2026",
+      "source": "GitHub",
+      "time": "2026-04-08T03:23:40.788597",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "Snow-Ouyang/Market-Regime-Clustering",
+      "url": "https://github.com/Snow-Ouyang/Market-Regime-Clustering",
+      "source": "GitHub",
+      "time": "2026-04-08T03:23:40.788607",
+      "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-07T03:21:07.860740"
+  "updated_at": "2026-04-08T03:23:40.789370"
 }
