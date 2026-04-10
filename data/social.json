@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-04-09T03:17:42.319184"
+  "news": [
+    {
+      "title": "RAM Has a Design Flaw from 1966. I Bypassed It [video]",
+      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+      "source": "Hacker News",
+      "time": "2026-04-10T03:31:38.125365",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "mijjjj/MoviePilot-Plugins-WeChat-ClawBot",
+      "url": "https://github.com/mijjjj/MoviePilot-Plugins-WeChat-ClawBot",
+      "source": "GitHub",
+      "time": "2026-04-10T03:31:39.071568",
+      "heat": 2,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-10T03:31:39.072512"
 }

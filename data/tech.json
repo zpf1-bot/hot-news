@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "LittleSnitch for Linux",
-      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:40.993356",
+      "time": "2026-04-10T03:31:37.446232",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.062073",
+      "time": "2026-04-10T03:31:37.532852",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+      "title": "Generative art over the years",
+      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.126115",
+      "time": "2026-04-10T03:31:37.617144",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
+      "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
+      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.194101",
+      "time": "2026-04-10T03:31:37.706286",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "They're made out of meat (1991)",
-      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "url": "https://charcuterie.elastiq.ch/",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.266776",
+      "time": "2026-04-10T03:31:37.791057",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Six (and a half) intuitions for KL divergence",
-      "url": "https://www.perfectlynormal.co.uk/blog-kl-divergence",
+      "title": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.336671",
+      "time": "2026-04-10T03:31:37.875567",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The Importance of Being Idle",
-      "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "url": "https://eaw.app/picoz80/",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.402676",
+      "time": "2026-04-10T03:31:37.957022",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Muse Spark: Scaling towards personal superintelligence",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "url": "https://github.com/aloshdenny/reverse-SynthID",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.469827",
+      "time": "2026-04-10T03:31:38.040619",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "ML promises to be profoundly weird",
-      "url": "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess",
+      "title": "Will I ever own a zettaflop?",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html",
       "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.546865",
-      "heat": 600,
+      "time": "2026-04-10T03:31:38.207286",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Git commands I run before reading any code",
-      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "source": "Hacker News",
-      "time": "2026-04-09T03:17:41.611547",
-      "heat": 550,
+      "title": "chiyou-debug/MyCV",
+      "url": "https://github.com/chiyou-debug/MyCV",
+      "source": "GitHub",
+      "time": "2026-04-10T03:31:39.071543",
+      "heat": 10,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-09T03:17:42.318724"
+  "updated_at": "2026-04-10T03:31:39.072093"
 }
