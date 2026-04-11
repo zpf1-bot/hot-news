@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-04-10T03:31:39.072357"
+  "news": [
+    {
+      "title": "Investigating Split Locks on x86-64",
+      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
+      "source": "Hacker News",
+      "time": "2026-04-11T02:54:54.267774",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-11T02:54:55.304483"
 }

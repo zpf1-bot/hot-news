@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "How NASA built Artemis II’s fault-tolerant computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:37.446232",
+      "time": "2026-04-11T02:54:53.584274",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:37.532852",
+      "time": "2026-04-11T02:54:53.688189",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Generative art over the years",
-      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:37.617144",
+      "time": "2026-04-11T02:54:53.783988",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Apple's New iPhone Update Is Restricting Internet Freedom in the UK",
-      "url": "https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/",
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:37.706286",
+      "time": "2026-04-11T02:54:53.883742",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Charcuterie – Visual similarity Unicode explorer",
-      "url": "https://charcuterie.elastiq.ch/",
+      "title": "Installing Every* Firefox Extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:37.791057",
+      "time": "2026-04-11T02:54:53.977823",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "I still prefer MCP over skills",
-      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:37.875567",
+      "time": "2026-04-11T02:54:54.086542",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "PicoZ80 – Drop-In Z80 Replacement",
-      "url": "https://eaw.app/picoz80/",
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:37.957022",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Reverse engineering Gemini's SynthID detection",
-      "url": "https://github.com/aloshdenny/reverse-SynthID",
-      "source": "Hacker News",
-      "time": "2026-04-10T03:31:38.040619",
+      "time": "2026-04-11T02:54:54.382834",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Will I ever own a zettaflop?",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html",
+      "title": "Bevy game development tutorials and in-depth resources",
+      "url": "https://taintedcoders.com/",
       "source": "Hacker News",
-      "time": "2026-04-10T03:31:38.207286",
+      "time": "2026-04-11T02:54:54.501134",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "source": "Hacker News",
+      "time": "2026-04-11T02:54:54.607776",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "chiyou-debug/MyCV",
-      "url": "https://github.com/chiyou-debug/MyCV",
+      "title": "Hona/temple-oc",
+      "url": "https://github.com/Hona/temple-oc",
       "source": "GitHub",
-      "time": "2026-04-10T03:31:39.071543",
-      "heat": 10,
+      "time": "2026-04-11T02:54:55.303733",
+      "heat": 9,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-10T03:31:39.072093"
+  "updated_at": "2026-04-11T02:54:55.304208"
 }
