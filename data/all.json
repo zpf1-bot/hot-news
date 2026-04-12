@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:53.584274",
+      "time": "2026-04-12T03:35:36.091107",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "title": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:53.688189",
+      "time": "2026-04-12T03:35:36.156075",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:53.783988",
+      "time": "2026-04-12T03:35:36.220195",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:53.883742",
+      "time": "2026-04-12T03:35:36.288324",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Installing Every* Firefox Extension",
-      "url": "https://jack.cab/blog/every-firefox-extension",
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:53.977823",
+      "time": "2026-04-12T03:35:36.356374",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:54.086542",
+      "time": "2026-04-12T03:35:36.504201",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Investigating Split Locks on x86-64",
-      "url": "https://chipsandcheese.com/p/investigating-split-locks-on-x86",
+      "title": "How Complex is my Code?",
+      "url": "https://philodev.one/posts/2026-04-code-complexity/",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:54.267774",
+      "time": "2026-04-12T03:35:36.571120",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Industrial design files for Keychron keyboards and mice",
-      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:54.382834",
+      "time": "2026-04-12T03:35:36.637721",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Bevy game development tutorials and in-depth resources",
-      "url": "https://taintedcoders.com/",
+      "title": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:54.501134",
+      "time": "2026-04-12T03:35:36.705725",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "AI assistance when contributing to the Linux kernel",
-      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
       "source": "Hacker News",
-      "time": "2026-04-11T02:54:54.607776",
+      "time": "2026-04-12T03:35:36.775982",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-11T02:54:55.303849"
+  "updated_at": "2026-04-12T03:35:37.596107"
 }
