@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
-      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.091107",
+      "time": "2026-04-13T03:41:45.293173",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The End of Eleventy",
-      "url": "https://brennan.day/the-end-of-eleventy/",
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.156075",
+      "time": "2026-04-13T03:41:45.378326",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.220195",
+      "time": "2026-04-13T03:41:45.462727",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "url": "https://arxiv.org/abs/2604.07902",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.288324",
+      "time": "2026-04-13T03:41:45.549723",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.356374",
+      "time": "2026-04-13T03:41:45.643792",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.504201",
+      "time": "2026-04-13T03:41:45.734961",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "How Complex is my Code?",
-      "url": "https://philodev.one/posts/2026-04-code-complexity/",
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.571120",
+      "time": "2026-04-13T03:41:45.819371",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Dark Castle",
-      "url": "https://darkcastle.co.uk/",
+      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.637721",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Pijul a FOSS distributed version control system",
-      "url": "https://pijul.org/",
-      "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.705725",
+      "time": "2026-04-13T03:41:45.990391",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "title": "A Perfectable Programming Language",
+      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
       "source": "Hacker News",
-      "time": "2026-04-12T03:35:36.775982",
+      "time": "2026-04-13T03:41:46.078815",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio",
+      "url": "https://github.com/0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio",
+      "source": "GitHub",
+      "time": "2026-04-13T03:41:46.821058",
+      "heat": 11,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-12T03:35:37.596514"
+  "updated_at": "2026-04-13T03:41:46.821672"
 }
