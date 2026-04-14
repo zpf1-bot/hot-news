@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-04-13T03:41:46.821952"
+  "news": [
+    {
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "source": "Hacker News",
+      "time": "2026-04-14T03:31:21.990303",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-14T03:31:23.372605"
 }

@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "Most people can't juggle one ball",
-      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.903941",
-      "heat": 650,
+      "time": "2026-04-14T03:31:22.434116",
+      "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "ChatPRD/tradclaw",
+      "url": "https://github.com/ChatPRD/tradclaw",
+      "source": "GitHub",
+      "time": "2026-04-14T03:31:23.371838",
+      "heat": 33,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-13T03:41:46.822101"
+  "updated_at": "2026-04-14T03:31:23.372769"
 }

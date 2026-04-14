@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "All elementary functions from a single binary operator",
-      "url": "https://arxiv.org/abs/2603.21852",
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.293173",
+      "time": "2026-04-14T03:31:21.090351",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.378326",
+      "time": "2026-04-14T03:31:21.244758",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.462727",
+      "time": "2026-04-14T03:31:21.388877",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
-      "url": "https://arxiv.org/abs/2604.07902",
+      "title": "DaVinci Resolve releases Photo Editor",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.549723",
+      "time": "2026-04-14T03:31:21.541703",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "url": "https://github.com/fabienmillet/WiiFin",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.643792",
+      "time": "2026-04-14T03:31:21.690340",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "DIY Soft Drinks",
-      "url": "https://blinry.org/diy-soft-drinks/",
+      "title": "Design and implementation of DuckDB internals",
+      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.734961",
+      "time": "2026-04-14T03:31:21.839004",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "url": "https://news.ycombinator.com/item?id=47741527",
+      "title": "How to make Firefox builds 17% faster",
+      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.819371",
-      "heat": 700,
+      "time": "2026-04-14T03:31:22.141112",
+      "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "title": "Write less code, be more responsible",
+      "url": "https://blog.orhun.dev/code-responsibly/",
       "source": "Hacker News",
-      "time": "2026-04-13T03:41:45.990391",
+      "time": "2026-04-14T03:31:22.287708",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "A Perfectable Programming Language",
-      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "source": "Hacker News",
-      "time": "2026-04-13T03:41:46.078815",
-      "heat": 550,
+      "title": "quinngarcia41/Identity-Lab-Spoofer",
+      "url": "https://github.com/quinngarcia41/Identity-Lab-Spoofer",
+      "source": "GitHub",
+      "time": "2026-04-14T03:31:23.371849",
+      "heat": 27,
       "category": "tech"
     },
     {
-      "title": "0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio",
-      "url": "https://github.com/0xAstroAlpha/Vidtory-Seedance-2.0-Drama-Studio",
+      "title": "cshitian/antigravity_chinese",
+      "url": "https://github.com/cshitian/antigravity_chinese",
       "source": "GitHub",
-      "time": "2026-04-13T03:41:46.821058",
-      "heat": 11,
+      "time": "2026-04-14T03:31:23.371850",
+      "heat": 6,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-13T03:41:46.821672"
+  "updated_at": "2026-04-14T03:31:23.372334"
 }
