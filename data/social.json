@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "source": "Hacker News",
-      "time": "2026-04-14T03:31:22.434116",
-      "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "ChatPRD/tradclaw",
-      "url": "https://github.com/ChatPRD/tradclaw",
-      "source": "GitHub",
-      "time": "2026-04-14T03:31:23.371838",
-      "heat": 33,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-04-14T03:31:23.372769"
+  "news": [],
+  "updated_at": "2026-04-15T03:30:25.664617"
 }

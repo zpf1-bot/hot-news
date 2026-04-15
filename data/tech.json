@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "title": "Claude Code Routines",
+      "url": "https://code.claude.com/docs/en/routines",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:21.090351",
+      "time": "2026-04-15T03:30:23.930236",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:21.244758",
+      "time": "2026-04-15T03:30:24.001866",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Lean proved this program correct; then I found a bug",
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:21.388877",
+      "time": "2026-04-15T03:30:24.068804",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "DaVinci Resolve releases Photo Editor",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "title": "The Orange Pi 6 Plus",
+      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:21.541703",
+      "time": "2026-04-15T03:30:24.135697",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "url": "https://github.com/fabienmillet/WiiFin",
+      "title": "A Communist Apple II and Fourteen Years of Not Knowing What You're Testing",
+      "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:21.690340",
+      "time": "2026-04-15T03:30:24.211345",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Design and implementation of DuckDB internals",
-      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+      "title": "The FCC just saved Netgear from its router ban for no obvious reason",
+      "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:21.839004",
+      "time": "2026-04-15T03:30:24.283012",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "How to make Firefox builds 17% faster",
-      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "title": "Picasso's Guernica (Gigapixel)",
+      "url": "https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:22.141112",
+      "time": "2026-04-15T03:30:24.418131",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Understanding Clojure's Persistent Vectors, pt. 1 (2013)",
+      "url": "https://hypirion.com/musings/understanding-persistent-vector-pt-1",
+      "source": "Hacker News",
+      "time": "2026-04-15T03:30:24.571338",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Write less code, be more responsible",
-      "url": "https://blog.orhun.dev/code-responsibly/",
+      "title": "5NF and Database Design",
+      "url": "https://kb.databasedesignbook.com/posts/5nf/",
       "source": "Hacker News",
-      "time": "2026-04-14T03:31:22.287708",
+      "time": "2026-04-15T03:30:24.661568",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "quinngarcia41/Identity-Lab-Spoofer",
-      "url": "https://github.com/quinngarcia41/Identity-Lab-Spoofer",
-      "source": "GitHub",
-      "time": "2026-04-14T03:31:23.371849",
-      "heat": 27,
-      "category": "tech"
-    },
-    {
-      "title": "cshitian/antigravity_chinese",
-      "url": "https://github.com/cshitian/antigravity_chinese",
-      "source": "GitHub",
-      "time": "2026-04-14T03:31:23.371850",
-      "heat": 6,
+      "title": "Fuck the cloud (2009)",
+      "url": "https://ascii.textfiles.com/archives/1717",
+      "source": "Hacker News",
+      "time": "2026-04-15T03:30:24.841065",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-14T03:31:23.372334"
+  "updated_at": "2026-04-15T03:30:25.664186"
 }
