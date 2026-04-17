@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Stealth signals are bypassing Iran’s internet blackout",
-      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:18.475059",
+      "time": "2026-04-17T03:33:39.011582",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:18.581546",
+      "time": "2026-04-17T03:33:39.127871",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The paper computer",
-      "url": "https://jsomers.net/blog/the-paper-computer",
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:18.686539",
+      "time": "2026-04-17T03:33:39.245181",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "I made a terminal pager",
-      "url": "https://theleo.zone/posts/pager/",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:18.794048",
+      "time": "2026-04-17T03:33:39.363236",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Google broke its promise to me – now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:18.899492",
+      "time": "2026-04-17T03:33:39.482528",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "God sleeps in the minerals",
-      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:19.009228",
+      "time": "2026-04-17T03:33:39.597759",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:19.110721",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Introduction to Spherical Harmonics for Graphics Programmers",
-      "url": "https://gpfault.net/posts/sph.html",
-      "source": "Hacker News",
-      "time": "2026-04-16T03:37:19.216048",
+      "time": "2026-04-17T03:33:39.829021",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
-      "url": "http://tinycorelinux.net/5.x/armv6/releases/README",
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "url": "https://clojure.org/about/documentary",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:19.322684",
+      "time": "2026-04-17T03:33:39.944677",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Retrofitting JIT Compilers into C Interpreters",
-      "url": "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html",
+      "title": "288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio",
+      "url": "https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/",
       "source": "Hacker News",
-      "time": "2026-04-16T03:37:19.425725",
+      "time": "2026-04-17T03:33:40.067756",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "Ballan1701/SKILL-LINK-AI",
+      "url": "https://github.com/Ballan1701/SKILL-LINK-AI",
+      "source": "GitHub",
+      "time": "2026-04-17T03:33:40.993398",
+      "heat": 11,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-16T03:37:20.139182"
+  "updated_at": "2026-04-17T03:33:40.993992"
 }

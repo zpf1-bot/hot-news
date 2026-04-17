@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-04-16T03:37:20.139447"
+  "news": [
+    {
+      "title": "Substrate AI Is Hiring Harness Engineers",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+      "source": "Hacker News",
+      "time": "2026-04-17T03:33:39.714077",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "op01z/Multi-Coin-Flasher-Tool",
+      "url": "https://github.com/op01z/Multi-Coin-Flasher-Tool",
+      "source": "GitHub",
+      "time": "2026-04-17T03:33:40.993383",
+      "heat": 15,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-17T03:33:40.994326"
 }
