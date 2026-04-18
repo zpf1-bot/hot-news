@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.011582",
+      "time": "2026-04-18T03:21:09.236232",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "title": "A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.127871",
+      "time": "2026-04-18T03:21:09.333292",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "url": "https://cadquery.github.io/",
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.245181",
+      "time": "2026-04-18T03:21:09.424335",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "url": "https://github.com/gainsec/autoprober",
+      "title": "Towards Trust in Emacs",
+      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.363236",
+      "time": "2026-04-18T03:21:09.513022",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
-      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.482528",
+      "time": "2026-04-18T03:21:09.600712",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "url": "https://hex.ooo/library/last_question.html",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.597759",
+      "time": "2026-04-18T03:21:09.688569",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Android CLI: Build Android apps 3x faster using any agent",
-      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.829021",
+      "time": "2026-04-18T03:21:09.771366",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "url": "https://github.com/smol-machines/smolvm",
+      "source": "Hacker News",
+      "time": "2026-04-18T03:21:09.860555",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "url": "https://clojure.org/about/documentary",
+      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "url": "https://github.com/paniclock/paniclock/",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:39.944677",
+      "time": "2026-04-18T03:21:09.944897",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "288,493 Requests – How I Spotted an XML-RPC Brute Force from a Weird Cache Ratio",
-      "url": "https://marcindudek.dev/blog/xmlrpc-brute-force-cache-rate/",
+      "title": "Slop Cop",
+      "url": "https://awnist.com/slop-cop",
       "source": "Hacker News",
-      "time": "2026-04-17T03:33:40.067756",
+      "time": "2026-04-18T03:21:10.026324",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "Ballan1701/SKILL-LINK-AI",
-      "url": "https://github.com/Ballan1701/SKILL-LINK-AI",
-      "source": "GitHub",
-      "time": "2026-04-17T03:33:40.993398",
-      "heat": 11,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-17T03:33:40.993992"
+  "updated_at": "2026-04-18T03:21:10.697655"
 }
