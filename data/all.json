@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.236232",
+      "time": "2026-04-19T03:40:11.147816",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "A simplified model of Fil-C",
-      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.333292",
+      "time": "2026-04-19T03:40:11.282736",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "url": "https://tokens.billchambers.me/leaderboard",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.424335",
+      "time": "2026-04-19T03:40:11.400179",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Towards Trust in Emacs",
-      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.513022",
+      "time": "2026-04-19T03:40:11.524646",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.600712",
+      "time": "2026-04-19T03:40:11.645321",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "url": "https://hex.ooo/library/last_question.html",
+      "title": "Why Japan has such good railways",
+      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.688569",
+      "time": "2026-04-19T03:40:11.765303",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Are the costs of AI agents also rising exponentially? (2025)",
-      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.771366",
+      "time": "2026-04-19T03:40:11.886343",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-      "url": "https://github.com/smol-machines/smolvm",
+      "title": "Optimizing Ruby Path Methods",
+      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.860555",
+      "time": "2026-04-19T03:40:12.009188",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-      "url": "https://github.com/paniclock/paniclock/",
+      "title": "Modern Common Lisp with FSet",
+      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:09.944897",
+      "time": "2026-04-19T03:40:12.125765",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Slop Cop",
-      "url": "https://awnist.com/slop-cop",
+      "title": "State of Kdenlive",
+      "url": "https://kdenlive.org/news/2026/state-2026/",
       "source": "Hacker News",
-      "time": "2026-04-18T03:21:10.026324",
+      "time": "2026-04-19T03:40:12.249015",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-18T03:21:10.697279"
+  "updated_at": "2026-04-19T03:40:13.289903"
 }
