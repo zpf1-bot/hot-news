@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
+      "url": "https://github.com/shivampkumar/trellis-mac",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:11.147816",
+      "time": "2026-04-20T03:41:45.858863",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Updating Gun Rocket through 10 years of Unity Engine",
-      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+      "title": "A Brief History of Fish Sauce",
+      "url": "https://www.legalnomads.com/fish-sauce/",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:11.282736",
+      "time": "2026-04-20T03:41:45.924439",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
-      "url": "https://tokens.billchambers.me/leaderboard",
+      "title": "Vercel April 2026 security incident",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:11.400179",
+      "time": "2026-04-20T03:41:45.990302",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "title": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:11.524646",
+      "time": "2026-04-20T03:41:46.055522",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "title": "Mechanical Keyboard Sounds - A listening Museum",
+      "url": "https://sheets.works/data-viz/keyboard-sounds",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:11.645321",
+      "time": "2026-04-20T03:41:46.126482",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Why Japan has such good railways",
-      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:11.765303",
+      "time": "2026-04-20T03:41:46.188862",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-      "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+      "title": "Swiss AI Initiative (2023)",
+      "url": "https://www.swiss-ai.org",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:11.886343",
+      "time": "2026-04-20T03:41:46.276124",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Optimizing Ruby Path Methods",
-      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:12.009188",
+      "time": "2026-04-20T03:41:46.363983",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Modern Common Lisp with FSet",
-      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "url": "https://mxmap.ch/",
       "source": "Hacker News",
-      "time": "2026-04-19T03:40:12.125765",
-      "heat": 600,
+      "time": "2026-04-20T03:41:46.520846",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "State of Kdenlive",
-      "url": "https://kdenlive.org/news/2026/state-2026/",
-      "source": "Hacker News",
-      "time": "2026-04-19T03:40:12.249015",
-      "heat": 550,
+      "title": "justinzm/auto-evolution",
+      "url": "https://github.com/justinzm/auto-evolution",
+      "source": "GitHub",
+      "time": "2026-04-20T03:41:47.246571",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-19T03:40:13.290375"
+  "updated_at": "2026-04-20T03:41:47.247060"
 }
