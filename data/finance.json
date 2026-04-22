@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-04-21T03:34:34.689017"
+  "news": [
+    {
+      "title": "San Diego rents declined more than 19 of 20 top US markets after surge in supply",
+      "url": "https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply",
+      "source": "Hacker News",
+      "time": "2026-04-22T03:32:27.602121",
+      "heat": 800,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-22T03:32:28.691381"
 }

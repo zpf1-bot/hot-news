@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "source": "Hacker News",
-      "time": "2026-04-21T03:34:32.378682",
+      "time": "2026-04-22T03:32:27.233377",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "How to make a fast dynamic language interpreter",
-      "url": "https://zef-lang.dev/implementation",
+      "title": "Making RAM at Home [video]",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
       "source": "Hacker News",
-      "time": "2026-04-21T03:34:32.527683",
+      "time": "2026-04-22T03:32:27.325371",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Jujutsu megamerges for fun and profit",
-      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
       "source": "Hacker News",
-      "time": "2026-04-21T03:34:32.674384",
+      "time": "2026-04-22T03:32:27.417384",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
       "source": "Hacker News",
-      "time": "2026-04-21T03:34:32.823162",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Kimi vendor verifier – verify accuracy of inference providers",
-      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "source": "Hacker News",
-      "time": "2026-04-21T03:34:32.970538",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "source": "Hacker News",
-      "time": "2026-04-21T03:34:33.116292",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-      "url": "https://github.com/gizmo64k/soulplayer-c64",
-      "source": "Hacker News",
-      "time": "2026-04-21T03:34:33.257609",
+      "time": "2026-04-22T03:32:27.776139",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "url": "https://britannica11.org/",
       "source": "Hacker News",
-      "time": "2026-04-21T03:34:33.401860",
+      "time": "2026-04-22T03:32:27.921185",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper",
-      "url": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
+      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
       "source": "Hacker News",
-      "time": "2026-04-21T03:34:33.549246",
+      "time": "2026-04-22T03:32:28.025358",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys",
-      "url": "https://words.filippo.io/128-bits/",
+      "title": "The Mystery in the Medicine Cabinet: Acetaminophen, ibuprofen, and what to know",
+      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
       "source": "Hacker News",
-      "time": "2026-04-21T03:34:33.696141",
+      "time": "2026-04-22T03:32:28.109360",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "madrobotnet/hermes-codex-imagegen-skill",
+      "url": "https://github.com/madrobotnet/hermes-codex-imagegen-skill",
+      "source": "GitHub",
+      "time": "2026-04-22T03:32:28.690528",
+      "heat": 15,
+      "category": "tech"
+    },
+    {
+      "title": "ThePedroo/ReZygiskAPI",
+      "url": "https://github.com/ThePedroo/ReZygiskAPI",
+      "source": "GitHub",
+      "time": "2026-04-22T03:32:28.690542",
+      "heat": 4,
+      "category": "tech"
+    },
+    {
+      "title": "hail2victors/n8n-Actual-Automation",
+      "url": "https://github.com/hail2victors/n8n-Actual-Automation",
+      "source": "GitHub",
+      "time": "2026-04-22T03:32:28.690553",
+      "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-21T03:34:34.688721"
+  "updated_at": "2026-04-22T03:32:28.691084"
 }
