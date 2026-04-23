@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "source": "Hacker News",
-      "time": "2026-04-22T03:32:27.508475",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Laws of Software Engineering",
-      "url": "https://lawsofsoftwareengineering.com",
-      "source": "Hacker News",
-      "time": "2026-04-22T03:32:27.688693",
-      "heat": 750,
+      "title": "huangwwqq/huangweiqingclaw",
+      "url": "https://github.com/huangwwqq/huangweiqingclaw",
+      "source": "GitHub",
+      "time": "2026-04-23T03:35:51.496916",
+      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-22T03:32:28.691588"
+  "updated_at": "2026-04-23T03:35:51.497870"
 }

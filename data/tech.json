@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
       "source": "Hacker News",
-      "time": "2026-04-22T03:32:27.233377",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "source": "Hacker News",
-      "time": "2026-04-22T03:32:27.325371",
+      "time": "2026-04-23T03:35:50.023996",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
       "source": "Hacker News",
-      "time": "2026-04-22T03:32:27.417384",
+      "time": "2026-04-23T03:35:50.087521",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "url": "https://www.brex.com/crabtrap",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
       "source": "Hacker News",
-      "time": "2026-04-22T03:32:27.776139",
+      "time": "2026-04-23T03:35:50.154910",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "5x5 Pixel font for tiny screens",
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "source": "Hacker News",
+      "time": "2026-04-23T03:35:50.219615",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "How the Heck does Shazam work?",
+      "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+      "source": "Hacker News",
+      "time": "2026-04-23T03:35:50.287675",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "url": "https://tempest.homemade.systems",
+      "source": "Hacker News",
+      "time": "2026-04-23T03:35:50.354273",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "url": "https://britannica11.org/",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
       "source": "Hacker News",
-      "time": "2026-04-22T03:32:27.921185",
+      "time": "2026-04-23T03:35:50.423886",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "title": "OpenAI's response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
       "source": "Hacker News",
-      "time": "2026-04-22T03:32:28.025358",
+      "time": "2026-04-23T03:35:50.492377",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Mystery in the Medicine Cabinet: Acetaminophen, ibuprofen, and what to know",
-      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "title": "Website streamed live directly from a model",
+      "url": "https://flipbook.page/",
       "source": "Hacker News",
-      "time": "2026-04-22T03:32:28.109360",
+      "time": "2026-04-23T03:35:50.560158",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "madrobotnet/hermes-codex-imagegen-skill",
-      "url": "https://github.com/madrobotnet/hermes-codex-imagegen-skill",
+      "title": "Shuqian-Tech/SQMesh-Public",
+      "url": "https://github.com/Shuqian-Tech/SQMesh-Public",
       "source": "GitHub",
-      "time": "2026-04-22T03:32:28.690528",
-      "heat": 15,
-      "category": "tech"
-    },
-    {
-      "title": "ThePedroo/ReZygiskAPI",
-      "url": "https://github.com/ThePedroo/ReZygiskAPI",
-      "source": "GitHub",
-      "time": "2026-04-22T03:32:28.690542",
-      "heat": 4,
-      "category": "tech"
-    },
-    {
-      "title": "hail2victors/n8n-Actual-Automation",
-      "url": "https://github.com/hail2victors/n8n-Actual-Automation",
-      "source": "GitHub",
-      "time": "2026-04-22T03:32:28.690553",
-      "heat": 4,
+      "time": "2026-04-23T03:35:51.496906",
+      "heat": 18,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-22T03:32:28.691084"
+  "updated_at": "2026-04-23T03:35:51.497412"
 }
