@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:45.784408",
+      "time": "2026-04-26T03:46:18.358998",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Paraloid B-72",
-      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:45.928400",
+      "time": "2026-04-26T03:46:18.471741",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Humpback whales are forming super-groups",
-      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+      "title": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:46.073523",
+      "time": "2026-04-26T03:46:18.592073",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "title": "Flickr: The first and last great photo platform",
+      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:46.216439",
+      "time": "2026-04-26T03:46:18.704720",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Iliad fragment found in Roman-era mummy",
-      "url": "https://www.thehistoryblog.com/archives/75877",
+      "title": "OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:46.363649",
+      "time": "2026-04-26T03:46:18.816815",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "title": "The Free Universal Construction Kit",
+      "url": "https://fffff.at/free-universal-construction-kit/",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:46.514592",
+      "time": "2026-04-26T03:46:18.938004",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Education must go beyond the mere production of words",
-      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:46.663598",
+      "time": "2026-04-26T03:46:19.062661",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:46.808758",
+      "time": "2026-04-26T03:46:19.180586",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "There Will Be a Scientific Theory of Deep Learning",
-      "url": "https://arxiv.org/abs/2604.21691",
+      "title": "America's Geothermal Breakthrough",
+      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:46.949073",
+      "time": "2026-04-26T03:46:19.296535",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Work with the garage door up (2024)",
-      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+      "title": "The Joy of Folding Bikes",
+      "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
       "source": "Hacker News",
-      "time": "2026-04-25T03:22:47.088649",
+      "time": "2026-04-26T03:46:19.410750",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-25T03:22:47.979178"
+  "updated_at": "2026-04-26T03:46:20.519923"
 }
