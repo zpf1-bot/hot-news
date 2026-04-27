@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Amateur armed with ChatGPT solves an Erdős problem",
-      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:18.358998",
+      "time": "2026-04-27T03:50:48.365346",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "title": "Self-updating screenshots",
+      "url": "https://interblah.net/self-updating-screenshots",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:18.471741",
+      "time": "2026-04-27T03:50:48.456744",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "USB Cheat Sheet (2022)",
-      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "title": "Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:18.592073",
+      "time": "2026-04-27T03:50:48.543154",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Flickr: The first and last great photo platform",
-      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+      "title": "TurboQuant: A First-Principles Walkthrough",
+      "url": "https://arkaung.github.io/interactive-turboquant/",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:18.704720",
+      "time": "2026-04-27T03:50:48.624133",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+      "url": "https://github.com/evanklem/evanflow",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:18.816815",
+      "time": "2026-04-27T03:50:48.709090",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The Free Universal Construction Kit",
-      "url": "https://fffff.at/free-universal-construction-kit/",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:18.938004",
+      "time": "2026-04-27T03:50:48.792260",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "title": "The Prompt API",
+      "url": "https://developer.chrome.com/docs/ai/prompt-api",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:19.062661",
+      "time": "2026-04-27T03:50:48.880217",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Using coding assistance tools to revive projects you never were going to finish",
-      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "title": "When the cheap one is the cool one",
+      "url": "https://arun.is/blog/cheap-cool/",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:19.180586",
+      "time": "2026-04-27T03:50:48.962334",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "America's Geothermal Breakthrough",
-      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "title": "When Your Digital Life Vanishes",
+      "url": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:19.296535",
+      "time": "2026-04-27T03:50:49.049411",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Joy of Folding Bikes",
-      "url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
+      "title": "Box to save memory in Rust",
+      "url": "https://dystroy.org/blog/box-to-save-memory/",
       "source": "Hacker News",
-      "time": "2026-04-26T03:46:19.410750",
+      "time": "2026-04-27T03:50:49.140648",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-26T03:46:20.520297"
+  "updated_at": "2026-04-27T03:50:49.711771"
 }

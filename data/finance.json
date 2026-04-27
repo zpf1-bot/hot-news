@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-04-26T03:46:20.520527"
+  "news": [
+    {
+      "title": "prashant9501/pune-price-prediction-fastapi",
+      "url": "https://github.com/prashant9501/pune-price-prediction-fastapi",
+      "source": "GitHub",
+      "time": "2026-04-27T03:50:49.711240",
+      "heat": 2,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-27T03:50:49.712035"
 }
