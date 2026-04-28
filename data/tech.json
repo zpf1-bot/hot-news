@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.365346",
+      "time": "2026-04-28T03:55:32.755553",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Self-updating screenshots",
-      "url": "https://interblah.net/self-updating-screenshots",
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.456744",
+      "time": "2026-04-28T03:55:32.879672",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
+      "url": "https://www.bbc.com/news/articles/cg4047qnpk2o",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.543154",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "TurboQuant: A First-Principles Walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.624133",
+      "time": "2026-04-28T03:55:33.148876",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-      "url": "https://github.com/evanklem/evanflow",
+      "title": "Meetings are forcing functions",
+      "url": "https://www.mooreds.com/wordpress/archives/3734",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.709090",
+      "time": "2026-04-28T03:55:33.282198",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.792260",
+      "time": "2026-04-28T03:55:33.411885",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The Prompt API",
-      "url": "https://developer.chrome.com/docs/ai/prompt-api",
+      "title": "Ted Nyman – High Performance Git",
+      "url": "https://gitperf.com/",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.880217",
+      "time": "2026-04-28T03:55:33.540134",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "When the cheap one is the cool one",
-      "url": "https://arun.is/blog/cheap-cool/",
+      "title": "Mo RAM, Mo Problems (2025)",
+      "url": "https://fabiensanglard.net/curse/",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:48.962334",
+      "time": "2026-04-28T03:55:33.672737",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "When Your Digital Life Vanishes",
-      "url": "https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes",
+      "title": "Is my blue your blue?",
+      "url": "https://ismy.blue/",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:49.049411",
+      "time": "2026-04-28T03:55:33.821572",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
+      "title": "The quiet resurgence of RF engineering",
+      "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
       "source": "Hacker News",
-      "time": "2026-04-27T03:50:49.140648",
+      "time": "2026-04-28T03:55:33.951485",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "Dhravya/webpull",
+      "url": "https://github.com/Dhravya/webpull",
+      "source": "GitHub",
+      "time": "2026-04-28T03:55:34.898550",
+      "heat": 28,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-27T03:50:49.711771"
+  "updated_at": "2026-04-28T03:55:34.899051"
 }
