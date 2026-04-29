@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:32.755553",
+      "time": "2026-04-29T03:52:09.545261",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "title": "Before GitHub",
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:32.879672",
+      "time": "2026-04-29T03:52:09.678617",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Integrated by Design",
-      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.015769",
+      "time": "2026-04-29T03:52:10.111062",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
-      "url": "https://www.bbc.com/news/articles/cg4047qnpk2o",
+      "title": "Regression: malware reminder on every read still causes subagent refusals",
+      "url": "https://github.com/anthropics/claude-code/issues/49363",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.148876",
+      "time": "2026-04-29T03:52:10.233709",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Meetings are forcing functions",
-      "url": "https://www.mooreds.com/wordpress/archives/3734",
+      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.282198",
+      "time": "2026-04-29T03:52:10.337698",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "title": "We decreased our LLM costs with Opus",
+      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.411885",
+      "time": "2026-04-29T03:52:10.440408",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Ted Nyman – High Performance Git",
-      "url": "https://gitperf.com/",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.540134",
+      "time": "2026-04-29T03:52:10.644294",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Mo RAM, Mo Problems (2025)",
-      "url": "https://fabiensanglard.net/curse/",
+      "title": "We still don't have a more precise value for \"Big G\"",
+      "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.672737",
+      "time": "2026-04-29T03:52:10.932205",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Is my blue your blue?",
-      "url": "https://ismy.blue/",
+      "title": "I won a championship that doesn't exist",
+      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.821572",
+      "time": "2026-04-29T03:52:11.035137",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The quiet resurgence of RF engineering",
-      "url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
       "source": "Hacker News",
-      "time": "2026-04-28T03:55:33.951485",
+      "time": "2026-04-29T03:52:11.138210",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-28T03:55:34.898664"
+  "updated_at": "2026-04-29T03:52:12.231873"
 }

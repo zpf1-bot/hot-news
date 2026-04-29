@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-04-28T03:55:34.899551"
+  "news": [
+    {
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "source": "Hacker News",
+      "time": "2026-04-29T03:52:11.138210",
+      "heat": 550,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-29T03:52:12.232563"
 }
