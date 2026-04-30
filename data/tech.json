@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "title": "Where the Goblins Came From",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:09.545261",
+      "time": "2026-04-30T03:52:59.658274",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:09.678617",
+      "time": "2026-04-30T03:52:59.728167",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:10.111062",
+      "time": "2026-04-30T03:52:59.817220",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Regression: malware reminder on every read still causes subagent refusals",
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:10.233709",
+      "time": "2026-04-30T03:52:59.948162",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:10.337698",
+      "time": "2026-04-30T03:53:00.070745",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "We decreased our LLM costs with Opus",
-      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:10.440408",
+      "time": "2026-04-30T03:53:00.206240",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:10.644294",
+      "time": "2026-04-30T03:53:00.327107",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "We still don't have a more precise value for \"Big G\"",
-      "url": "https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/",
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:10.932205",
+      "time": "2026-04-30T03:53:00.395216",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "I won a championship that doesn't exist",
-      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
       "source": "Hacker News",
-      "time": "2026-04-29T03:52:11.035137",
+      "time": "2026-04-30T03:53:00.467678",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "AugustineFulgur/GhostBitsGenerator",
-      "url": "https://github.com/AugustineFulgur/GhostBitsGenerator",
-      "source": "GitHub",
-      "time": "2026-04-29T03:52:12.231782",
-      "heat": 11,
+      "title": "Consequences of passing too few register parameters to a C function",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+      "source": "Hacker News",
+      "time": "2026-04-30T03:53:00.534240",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-29T03:52:12.232230"
+  "updated_at": "2026-04-30T03:53:01.318704"
 }

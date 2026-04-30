@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-      "source": "Hacker News",
-      "time": "2026-04-29T03:52:11.138210",
-      "heat": 550,
+      "title": "openclaw/clawsweeper.bot",
+      "url": "https://github.com/openclaw/clawsweeper.bot",
+      "source": "GitHub",
+      "time": "2026-04-30T03:53:01.318248",
+      "heat": 5,
+      "category": "tech"
+    },
+    {
+      "title": "stclawbot/saint-claw-bot",
+      "url": "https://github.com/stclawbot/saint-claw-bot",
+      "source": "GitHub",
+      "time": "2026-04-30T03:53:01.318258",
+      "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-29T03:52:12.232563"
+  "updated_at": "2026-04-30T03:53:01.319082"
 }

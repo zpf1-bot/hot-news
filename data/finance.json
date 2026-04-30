@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-04-29T03:52:12.232452"
+  "news": [
+    {
+      "title": "cosmic-markets/cinder",
+      "url": "https://github.com/cosmic-markets/cinder",
+      "source": "GitHub",
+      "time": "2026-04-30T03:53:01.318252",
+      "heat": 5,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-04-30T03:53:01.318947"
 }
