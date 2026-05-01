@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "openclaw/clawsweeper.bot",
-      "url": "https://github.com/openclaw/clawsweeper.bot",
-      "source": "GitHub",
-      "time": "2026-04-30T03:53:01.318248",
-      "heat": 5,
-      "category": "tech"
-    },
-    {
-      "title": "stclawbot/saint-claw-bot",
-      "url": "https://github.com/stclawbot/saint-claw-bot",
-      "source": "GitHub",
-      "time": "2026-04-30T03:53:01.318258",
-      "heat": 4,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-04-30T03:53:01.319082"
+  "news": [],
+  "updated_at": "2026-05-01T04:04:51.021210"
 }

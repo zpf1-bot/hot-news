@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Where the Goblins Came From",
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
+      "url": "https://github.com/kernalix7/winpodx",
       "source": "Hacker News",
-      "time": "2026-04-30T03:52:59.658274",
+      "time": "2026-05-01T04:04:48.675729",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
       "source": "Hacker News",
-      "time": "2026-04-30T03:52:59.728167",
+      "time": "2026-05-01T04:04:48.829683",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
       "source": "Hacker News",
-      "time": "2026-04-30T03:52:59.817220",
+      "time": "2026-05-01T04:04:48.978237",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
       "source": "Hacker News",
-      "time": "2026-04-30T03:52:59.948162",
+      "time": "2026-05-01T04:04:49.121105",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "source": "Hacker News",
-      "time": "2026-04-30T03:53:00.070745",
+      "time": "2026-05-01T04:04:49.271173",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
+      "title": "OpenWarp",
+      "url": "https://openwarp.zerx.dev",
       "source": "Hacker News",
-      "time": "2026-04-30T03:53:00.206240",
+      "time": "2026-05-01T04:04:49.414606",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
+      "title": "Can I disable all data collection from my vehicle?",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
       "source": "Hacker News",
-      "time": "2026-04-30T03:53:00.327107",
+      "time": "2026-05-01T04:04:49.558383",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "title": "I Got Sick of Remembering Port Numbers",
+      "url": "https://gregraiz.com/blog/local-vibe/",
       "source": "Hacker News",
-      "time": "2026-04-30T03:53:00.395216",
+      "time": "2026-05-01T04:04:49.709426",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "title": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
       "source": "Hacker News",
-      "time": "2026-04-30T03:53:00.467678",
+      "time": "2026-05-01T04:04:49.858896",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Consequences of passing too few register parameters to a C function",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271",
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
       "source": "Hacker News",
-      "time": "2026-04-30T03:53:00.534240",
+      "time": "2026-05-01T04:04:50.005316",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-04-30T03:53:01.318337"
+  "updated_at": "2026-05-01T04:04:51.020338"
 }
