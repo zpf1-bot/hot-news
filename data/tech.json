@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
-      "url": "https://github.com/kernalix7/winpodx",
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:48.675729",
+      "time": "2026-05-02T03:37:42.747199",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "title": "Good developers learn to program. Most courses teach a language",
+      "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:48.829683",
+      "time": "2026-05-02T03:37:42.830936",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:48.978237",
+      "time": "2026-05-02T03:37:42.917045",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:49.121105",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "source": "Hacker News",
-      "time": "2026-05-01T04:04:49.271173",
+      "time": "2026-05-02T03:37:43.081495",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "OpenWarp",
-      "url": "https://openwarp.zerx.dev",
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:49.414606",
+      "time": "2026-05-02T03:37:43.166736",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Can I disable all data collection from my vehicle?",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:49.558383",
+      "time": "2026-05-02T03:37:43.255926",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "I Got Sick of Remembering Port Numbers",
-      "url": "https://gregraiz.com/blog/local-vibe/",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=47975676",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:49.709426",
+      "time": "2026-05-02T03:37:43.338178",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Maladaptive Frugality",
-      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+      "url": "https://www.nature.com/articles/s41467-026-71526-5",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:49.858896",
+      "time": "2026-05-02T03:37:43.421784",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+      "url": "https://github.com/microsoft/lib0xc",
       "source": "Hacker News",
-      "time": "2026-05-01T04:04:50.005316",
+      "time": "2026-05-02T03:37:43.509486",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "mrdrvt99/YouProEXTRA",
+      "url": "https://github.com/mrdrvt99/YouProEXTRA",
+      "source": "GitHub",
+      "time": "2026-05-02T03:37:44.242766",
+      "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-01T04:04:51.020713"
+  "updated_at": "2026-05-02T03:37:44.243339"
 }

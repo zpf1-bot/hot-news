@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-01T04:04:51.021210"
+  "news": [
+    {
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "source": "Hacker News",
+      "time": "2026-05-02T03:37:43.000577",
+      "heat": 850,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-02T03:37:44.243751"
 }
