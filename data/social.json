@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.000577",
-      "heat": 850,
+      "title": "picklesauce/NewsPulse",
+      "url": "https://github.com/picklesauce/NewsPulse",
+      "source": "GitHub",
+      "time": "2026-05-03T04:00:13.386238",
+      "heat": 2,
+      "category": "tech"
+    },
+    {
+      "title": "franceto/RAG-Traffic-Law",
+      "url": "https://github.com/franceto/RAG-Traffic-Law",
+      "source": "GitHub",
+      "time": "2026-05-03T04:00:13.386245",
+      "heat": 2,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-02T03:37:44.243751"
+  "updated_at": "2026-05-03T04:00:13.387242"
 }

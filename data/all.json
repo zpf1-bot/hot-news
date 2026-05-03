@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "title": "Open Source Does Not Imply Open Community",
+      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:42.747199",
+      "time": "2026-05-03T04:00:12.000146",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Good developers learn to program. Most courses teach a language",
-      "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:42.830936",
+      "time": "2026-05-03T04:00:12.080186",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:42.917045",
+      "time": "2026-05-03T04:00:12.165502",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.000577",
+      "time": "2026-05-03T04:00:12.251916",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.081495",
+      "time": "2026-05-03T04:00:12.341268",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "To Restore an Island Paradise, Add Fungi",
-      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.166736",
+      "time": "2026-05-03T04:00:12.421810",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "title": "Windows API Is Successful Cross-Platform API",
+      "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.255926",
+      "time": "2026-05-03T04:00:12.513108",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": "https://news.ycombinator.com/item?id=47975676",
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.338178",
+      "time": "2026-05-03T04:00:12.600754",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-      "url": "https://www.nature.com/articles/s41467-026-71526-5",
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.421784",
+      "time": "2026-05-03T04:00:12.681828",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "url": "https://github.com/microsoft/lib0xc",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
       "source": "Hacker News",
-      "time": "2026-05-02T03:37:43.509486",
+      "time": "2026-05-03T04:00:12.793093",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-02T03:37:44.242931"
+  "updated_at": "2026-05-03T04:00:13.386339"
 }
