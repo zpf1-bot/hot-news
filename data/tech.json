@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Open Source Does Not Imply Open Community",
-      "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.000146",
+      "time": "2026-05-04T03:57:06.587121",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.080186",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-      "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.165502",
+      "time": "2026-05-04T03:57:06.759352",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "This Month in Ladybird - April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.251916",
+      "time": "2026-05-04T03:57:06.851023",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.341268",
+      "time": "2026-05-04T03:57:06.931271",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
+      "title": "Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)",
+      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.421810",
+      "time": "2026-05-04T03:57:07.019785",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Windows API Is Successful Cross-Platform API",
-      "url": "https://retrocoding.net/windows-api-is-successful-cross-platform-api",
+      "title": "Southwest Headquarters Tour",
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.513108",
+      "time": "2026-05-04T03:57:07.102270",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
-      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "title": "Tar Files Created on macOS Display Errors When Extracting on Linux (2024)",
+      "url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.600754",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Do_not_track",
-      "url": "https://donottrack.sh/",
-      "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.681828",
+      "time": "2026-05-04T03:57:07.273392",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "title": "Introduction to Atom",
+      "url": "https://validator.w3.org/feed/docs/atom.html",
       "source": "Hacker News",
-      "time": "2026-05-03T04:00:12.793093",
+      "time": "2026-05-04T03:57:07.356734",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "WeritoP/FL-STUDIO-PATCHER",
+      "url": "https://github.com/WeritoP/FL-STUDIO-PATCHER",
+      "source": "GitHub",
+      "time": "2026-05-04T03:57:08.053726",
+      "heat": 450,
+      "category": "tech"
+    },
+    {
+      "title": "pixelxzen/phantom-motion",
+      "url": "https://github.com/pixelxzen/phantom-motion",
+      "source": "GitHub",
+      "time": "2026-05-04T03:57:08.053738",
+      "heat": 11,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-03T04:00:13.386735"
+  "updated_at": "2026-05-04T03:57:08.054254"
 }

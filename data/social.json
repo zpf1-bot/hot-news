@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "picklesauce/NewsPulse",
-      "url": "https://github.com/picklesauce/NewsPulse",
-      "source": "GitHub",
-      "time": "2026-05-03T04:00:13.386238",
-      "heat": 2,
-      "category": "tech"
-    },
-    {
-      "title": "franceto/RAG-Traffic-Law",
-      "url": "https://github.com/franceto/RAG-Traffic-Law",
-      "source": "GitHub",
-      "time": "2026-05-03T04:00:13.386245",
-      "heat": 2,
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "source": "Hacker News",
+      "time": "2026-05-04T03:57:07.183351",
+      "heat": 650,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-03T04:00:13.387242"
+  "updated_at": "2026-05-04T03:57:08.054727"
 }

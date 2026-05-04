@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-03T04:00:13.387040"
+  "news": [
+    {
+      "title": "Using \"underdrawings\" for accurate text and numbers",
+      "url": "https://samcollins.blog/underdrawings/",
+      "source": "Hacker News",
+      "time": "2026-05-04T03:57:06.677385",
+      "heat": 950,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-04T03:57:08.054539"
 }
