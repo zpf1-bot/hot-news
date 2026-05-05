@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "Using \"underdrawings\" for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
       "source": "Hacker News",
-      "time": "2026-05-04T03:57:06.677385",
-      "heat": 950,
+      "time": "2026-05-05T03:37:43.884146",
+      "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "dinesh-git17/codex-pet-rate-rings",
+      "url": "https://github.com/dinesh-git17/codex-pet-rate-rings",
+      "source": "GitHub",
+      "time": "2026-05-05T03:37:44.617921",
+      "heat": 3,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-04T03:57:08.054539"
+  "updated_at": "2026-05-05T03:37:44.618679"
 }
