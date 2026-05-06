@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-05T03:37:44.618874"
+  "news": [
+    {
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "source": "Hacker News",
+      "time": "2026-05-06T03:53:59.785749",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-06T03:54:01.129167"
 }

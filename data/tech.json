@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Bun is being ported from Zig to Rust",
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:42.668378",
+      "time": "2026-05-06T03:53:58.896877",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:42.805444",
+      "time": "2026-05-06T03:53:59.047239",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:42.934647",
+      "time": "2026-05-06T03:53:59.193809",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Pulitzer Prize Winner in International Reporting",
-      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:43.069170",
+      "time": "2026-05-06T03:53:59.349100",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:43.201067",
+      "time": "2026-05-06T03:53:59.493109",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:43.338607",
+      "time": "2026-05-06T03:53:59.638857",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
+      "url": "https://github.com/microsoft/vscode/issues/314311",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:43.487692",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "When Networking Doesn't Work",
-      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-      "source": "Hacker News",
-      "time": "2026-05-05T03:37:43.615282",
+      "time": "2026-05-06T03:53:59.943576",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "title": "StarFighter 16-Inch",
+      "url": "https://us.starlabs.systems/pages/starfighter",
       "source": "Hacker News",
-      "time": "2026-05-05T03:37:43.749284",
+      "time": "2026-05-06T03:54:00.095449",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "shouryan01/Nikon-Recipes",
-      "url": "https://github.com/shouryan01/Nikon-Recipes",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "source": "Hacker News",
+      "time": "2026-05-06T03:54:00.246538",
+      "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "WeritoP/BetterNitroDiscord",
+      "url": "https://github.com/WeritoP/BetterNitroDiscord",
       "source": "GitHub",
-      "time": "2026-05-05T03:37:44.617904",
-      "heat": 8,
+      "time": "2026-05-06T03:54:01.128246",
+      "heat": 462,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-05T03:37:44.618408"
+  "updated_at": "2026-05-06T03:54:01.128752"
 }
