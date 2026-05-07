@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
       "source": "Hacker News",
-      "time": "2026-05-06T03:53:58.896877",
+      "time": "2026-05-07T03:52:24.955084",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "title": "Permacomputing Principles",
+      "url": "https://permacomputing.net/principles/",
       "source": "Hacker News",
-      "time": "2026-05-06T03:53:59.047239",
+      "time": "2026-05-07T03:52:25.039448",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "title": "Appearing productive in the workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
       "source": "Hacker News",
-      "time": "2026-05-06T03:53:59.193809",
+      "time": "2026-05-07T03:52:25.127546",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "title": "The Vatican's Website in Latin",
+      "url": "https://www.vatican.va/latin/latin_index.html",
       "source": "Hacker News",
-      "time": "2026-05-06T03:53:59.349100",
+      "time": "2026-05-07T03:52:25.213061",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
       "source": "Hacker News",
-      "time": "2026-05-06T03:53:59.493109",
+      "time": "2026-05-07T03:52:25.324385",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "title": "Finding the differences in a series of power supplies",
+      "url": "https://www.lttlabs.com/articles/2026/05/05/testing-psu-series",
       "source": "Hacker News",
-      "time": "2026-05-06T03:53:59.638857",
+      "time": "2026-05-07T03:52:25.424633",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
-      "url": "https://github.com/microsoft/vscode/issues/314311",
+      "title": "Pen pal programs endure in a digital age",
+      "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
       "source": "Hacker News",
-      "time": "2026-05-06T03:53:59.943576",
+      "time": "2026-05-07T03:52:25.513216",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
+      "source": "Hacker News",
+      "time": "2026-05-07T03:52:25.593761",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "StarFighter 16-Inch",
-      "url": "https://us.starlabs.systems/pages/starfighter",
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "url": "https://sqlite.org/locrsf.html",
       "source": "Hacker News",
-      "time": "2026-05-06T03:54:00.095449",
+      "time": "2026-05-07T03:52:25.689837",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
       "source": "Hacker News",
-      "time": "2026-05-06T03:54:00.246538",
+      "time": "2026-05-07T03:52:25.775885",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "WeritoP/BetterNitroDiscord",
-      "url": "https://github.com/WeritoP/BetterNitroDiscord",
-      "source": "GitHub",
-      "time": "2026-05-06T03:54:01.128246",
-      "heat": 462,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-06T03:54:01.128752"
+  "updated_at": "2026-05-07T03:52:26.529621"
 }
