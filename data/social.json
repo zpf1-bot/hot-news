@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-07T03:52:26.530020"
+  "news": [
+    {
+      "title": "Plasticity and language in the anaesthetized human hippocampus",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "source": "Hacker News",
+      "time": "2026-05-08T03:42:57.288180",
+      "heat": 650,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-08T03:42:58.136245"
 }
