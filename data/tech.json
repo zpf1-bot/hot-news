@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:56.660373",
+      "time": "2026-05-09T03:45:27.165074",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:56.749417",
+      "time": "2026-05-09T03:45:27.266917",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "title": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:56.839121",
+      "time": "2026-05-09T03:45:27.371781",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Pinocchio is weirder than you remembered",
-      "url": "https://storica.club/blog/pinocchio-in-italian/",
+      "title": "Bitter Lessons from the ISSpresso",
+      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:56.936004",
+      "time": "2026-05-09T03:45:27.474000",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Cloudflare to cut about 20% workforce",
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:57.022865",
+      "time": "2026-05-09T03:45:27.575651",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The map that keeps Burning Man honest",
-      "url": "https://www.not-ship.com/burning-man-moop/",
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:57.119417",
+      "time": "2026-05-09T03:45:27.678821",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Agents need control flow, not more prompts",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "url": "https://www.wiisfi.com/",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:57.201955",
+      "time": "2026-05-09T03:45:27.781780",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "title": "Cartoon Network Flash Games",
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
       "source": "Hacker News",
-      "time": "2026-05-08T03:42:57.375070",
+      "time": "2026-05-09T03:45:27.885085",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "David Attenborough's 100th Birthday",
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "source": "Hacker News",
+      "time": "2026-05-09T03:45:27.989360",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "source": "Hacker News",
-      "time": "2026-05-08T03:42:57.460924",
-      "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "Tremorfitzapplaud/1tamilmv-telegram-bot",
-      "url": "https://github.com/Tremorfitzapplaud/1tamilmv-telegram-bot",
+      "title": "wangrujun2016/auto-resume",
+      "url": "https://github.com/wangrujun2016/auto-resume",
       "source": "GitHub",
-      "time": "2026-05-08T03:42:58.135282",
-      "heat": 27,
+      "time": "2026-05-09T03:45:29.055764",
+      "heat": 11,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-08T03:42:58.135815"
+  "updated_at": "2026-05-09T03:45:29.056315"
 }
