@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.165074",
+      "time": "2026-05-10T04:01:36.641544",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "OpenAI's WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.266917",
+      "time": "2026-05-10T04:01:36.741264",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Mythical Man Month",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.371781",
+      "time": "2026-05-10T04:01:36.833459",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Bitter Lessons from the ISSpresso",
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.474000",
+      "time": "2026-05-10T04:01:36.928287",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.575651",
+      "time": "2026-05-10T04:01:37.033664",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.678821",
+      "time": "2026-05-10T04:01:37.131874",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.781780",
+      "time": "2026-05-10T04:01:37.259996",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "title": "Local privilege escalation via execve()",
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.885085",
+      "time": "2026-05-10T04:01:37.351632",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
       "source": "Hacker News",
-      "time": "2026-05-09T03:45:27.989360",
+      "time": "2026-05-10T04:01:37.449219",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "wangrujun2016/auto-resume",
-      "url": "https://github.com/wangrujun2016/auto-resume",
-      "source": "GitHub",
-      "time": "2026-05-09T03:45:29.055764",
-      "heat": 11,
+      "title": "Show HN: Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "source": "Hacker News",
+      "time": "2026-05-10T04:01:37.547925",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-09T03:45:29.056315"
+  "updated_at": "2026-05-10T04:01:38.340466"
 }
