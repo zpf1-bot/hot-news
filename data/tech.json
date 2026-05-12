@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "source": "Hacker News",
-      "time": "2026-05-11T04:12:59.693103",
+      "time": "2026-05-12T03:56:28.882489",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "title": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
       "source": "Hacker News",
-      "time": "2026-05-11T04:12:59.760348",
+      "time": "2026-05-12T03:56:28.984555",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "I'm going back to writing code by hand",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "source": "Hacker News",
-      "time": "2026-05-11T04:12:59.828906",
+      "time": "2026-05-12T03:56:29.087620",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "source": "Hacker News",
-      "time": "2026-05-11T04:12:59.897926",
+      "time": "2026-05-12T03:56:29.189659",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
       "source": "Hacker News",
-      "time": "2026-05-11T04:12:59.967927",
+      "time": "2026-05-12T03:56:29.290823",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "url": "https://github.com/tsirysndr/rockbox-zig",
       "source": "Hacker News",
-      "time": "2026-05-11T04:13:00.039084",
+      "time": "2026-05-12T03:56:29.392563",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "title": "Software Internals Book Club",
+      "url": "https://eatonphil.com/bookclub.html",
       "source": "Hacker News",
-      "time": "2026-05-11T04:13:00.100479",
+      "time": "2026-05-12T03:56:29.492048",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
       "source": "Hacker News",
-      "time": "2026-05-11T04:13:00.170774",
+      "time": "2026-05-12T03:56:29.591061",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Ask HN: What are you working on? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=48085993",
+      "title": "A lost ancient script reveals how writing as we know it began",
+      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
       "source": "Hacker News",
-      "time": "2026-05-11T04:13:00.235897",
+      "time": "2026-05-12T03:56:29.692974",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
-      "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
       "source": "Hacker News",
-      "time": "2026-05-11T04:13:00.300738",
+      "time": "2026-05-12T03:56:29.794195",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-11T04:13:01.135819"
+  "updated_at": "2026-05-12T03:56:30.808252"
 }
