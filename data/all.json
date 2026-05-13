@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Postmortem: TanStack npm supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:28.882489",
+      "time": "2026-05-13T04:04:52.885104",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:28.984555",
+      "time": "2026-05-13T04:04:52.953836",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "title": "Starship V3",
+      "url": "https://www.spacex.com/updates#starship-v3",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.087620",
+      "time": "2026-05-13T04:04:53.020600",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "title": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.189659",
+      "time": "2026-05-13T04:04:53.085725",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.290823",
+      "time": "2026-05-13T04:04:53.147746",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
-      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.392563",
+      "time": "2026-05-13T04:04:53.216177",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Software Internals Book Club",
-      "url": "https://eatonphil.com/bookclub.html",
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.492048",
+      "time": "2026-05-13T04:04:53.284004",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.591061",
+      "time": "2026-05-13T04:04:53.352157",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "A lost ancient script reveals how writing as we know it began",
-      "url": "https://www.newscientist.com/article/2524042-a-lost-ancient-script-reveals-how-writing-as-we-know-it-really-began/",
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.692974",
+      "time": "2026-05-13T04:04:53.419147",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Library for fast mapping of Java records to native memory",
-      "url": "https://github.com/mamba-studio/TypedMemory",
+      "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
+      "url": "https://github.com/tracewayapp/traceway",
       "source": "Hacker News",
-      "time": "2026-05-12T03:56:29.794195",
+      "time": "2026-05-13T04:04:53.483826",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-12T03:56:30.807830"
+  "updated_at": "2026-05-13T04:04:54.454802"
 }
