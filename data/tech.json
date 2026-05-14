@@ -1,85 +1,77 @@
 {
   "news": [
     {
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "title": "Scorched Earth 2000 – Web",
+      "url": "http://www.scorch2000.com/web/",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:52.885104",
+      "time": "2026-05-14T04:03:58.508246",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
+      "title": "Cisco Workforce Reductions",
+      "url": "https://blogs.cisco.com/news/our-path-forward",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:52.953836",
+      "time": "2026-05-14T04:03:58.617957",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Starship V3",
-      "url": "https://www.spacex.com/updates#starship-v3",
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.020600",
+      "time": "2026-05-14T04:03:58.724315",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "My graduation cap runs Rust",
-      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.085725",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.147746",
+      "time": "2026-05-14T04:03:58.937089",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "title": "The Emacsification of Software",
+      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.216177",
+      "time": "2026-05-14T04:03:59.037609",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "title": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.284004",
+      "time": "2026-05-14T04:03:59.144251",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "title": "Show HN: Nibble",
+      "url": "https://github.com/glouw/nibble",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.352157",
+      "time": "2026-05-14T04:03:59.252797",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
       "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.419147",
-      "heat": 600,
+      "time": "2026-05-14T04:03:59.457770",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
-      "url": "https://github.com/tracewayapp/traceway",
-      "source": "Hacker News",
-      "time": "2026-05-13T04:04:53.483826",
-      "heat": 550,
+      "title": "CyberSealNull/CcCompanion",
+      "url": "https://github.com/CyberSealNull/CcCompanion",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213242",
+      "heat": 12,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-13T04:04:54.455214"
+  "updated_at": "2026-05-14T04:04:00.213771"
 }

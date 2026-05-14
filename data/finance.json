@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-13T04:04:54.455525"
+  "news": [
+    {
+      "title": "cityjia/ethereum-dev-kit",
+      "url": "https://github.com/cityjia/ethereum-dev-kit",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213262",
+      "heat": 9,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-14T04:04:00.214067"
 }

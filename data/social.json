@@ -1,13 +1,85 @@
 {
   "news": [
     {
-      "title": "Sunil-Kumar-Mudusu/healthcare-fraud-detection-data-framework",
-      "url": "https://github.com/Sunil-Kumar-Mudusu/healthcare-fraud-detection-data-framework",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "source": "Hacker News",
+      "time": "2026-05-14T04:03:58.830983",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Twin brothers wipe 96 government databases minutes after being fired",
+      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "source": "Hacker News",
+      "time": "2026-05-14T04:03:59.350956",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/nft-template",
+      "url": "https://github.com/cityjia/nft-template",
       "source": "GitHub",
-      "time": "2026-05-13T04:04:54.454701",
-      "heat": 5,
+      "time": "2026-05-14T04:04:00.213255",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/cross-chain-bridge",
+      "url": "https://github.com/cityjia/cross-chain-bridge",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213256",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/solidity-library",
+      "url": "https://github.com/cityjia/solidity-library",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213258",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/solidity-patterns",
+      "url": "https://github.com/cityjia/solidity-patterns",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213259",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/web3-dev-kit",
+      "url": "https://github.com/cityjia/web3-dev-kit",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213260",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/hardhat-extensions",
+      "url": "https://github.com/cityjia/hardhat-extensions",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213263",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/web3-tools",
+      "url": "https://github.com/cityjia/web3-tools",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213264",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "cityjia/defi-starter",
+      "url": "https://github.com/cityjia/defi-starter",
+      "source": "GitHub",
+      "time": "2026-05-14T04:04:00.213265",
+      "heat": 9,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-13T04:04:54.455728"
+  "updated_at": "2026-05-14T04:04:00.214247"
 }
