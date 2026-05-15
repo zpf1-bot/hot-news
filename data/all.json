@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Scorched Earth 2000 – Web",
-      "url": "http://www.scorch2000.com/web/",
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:58.508246",
+      "time": "2026-05-15T04:08:50.824970",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Cisco Workforce Reductions",
-      "url": "https://blogs.cisco.com/news/our-path-forward",
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:58.617957",
+      "time": "2026-05-15T04:08:50.947662",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:58.724315",
+      "time": "2026-05-15T04:08:51.064930",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:58.830983",
+      "time": "2026-05-15T04:08:51.182567",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:58.937089",
+      "time": "2026-05-15T04:08:51.296378",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The Emacsification of Software",
-      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+      "title": "Gyroflow: Video stabilization using gyroscope data",
+      "url": "https://github.com/gyroflow/gyroflow",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:59.037609",
+      "time": "2026-05-15T04:08:51.419677",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:59.144251",
+      "time": "2026-05-15T04:08:51.532358",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Nibble",
-      "url": "https://github.com/glouw/nibble",
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:59.252797",
+      "time": "2026-05-15T04:08:51.654208",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Twin brothers wipe 96 government databases minutes after being fired",
-      "url": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:59.350956",
+      "time": "2026-05-15T04:08:51.777271",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
       "source": "Hacker News",
-      "time": "2026-05-14T04:03:59.457770",
+      "time": "2026-05-15T04:08:51.889989",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-14T04:04:00.213359"
+  "updated_at": "2026-05-15T04:08:53.221117"
 }
