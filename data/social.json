@@ -1,4 +1,29 @@
 {
-  "news": [],
-  "updated_at": "2026-05-16T03:50:53.274426"
+  "news": [
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "source": "Hacker News",
+      "time": "2026-05-17T04:09:20.797851",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "source": "Hacker News",
+      "time": "2026-05-17T04:09:20.881464",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "justin06lee/monkeyclaw",
+      "url": "https://github.com/justin06lee/monkeyclaw",
+      "source": "GitHub",
+      "time": "2026-05-17T04:09:22.092986",
+      "heat": 3,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-17T04:09:22.093944"
 }
