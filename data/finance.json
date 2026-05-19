@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-18T04:21:31.758327"
+  "news": [
+    {
+      "title": "he4rt/marketing-extension",
+      "url": "https://github.com/he4rt/marketing-extension",
+      "source": "GitHub",
+      "time": "2026-05-19T04:17:25.525944",
+      "heat": 21,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-19T04:17:25.526791"
 }
