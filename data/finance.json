@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-21T04:25:54.423325"
+  "news": [
+    {
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "source": "Hacker News",
+      "time": "2026-05-22T04:20:37.604304",
+      "heat": 950,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-22T04:20:39.083555"
 }
