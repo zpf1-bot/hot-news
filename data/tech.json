@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
+      "title": "Is AI Profitable Yet?",
+      "url": "https://isaiprofitable.com/",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:37.506844",
+      "time": "2026-05-23T03:59:09.059171",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The Death of the Brick and Mortar Toy Store",
-      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:37.725395",
+      "time": "2026-05-23T03:59:09.214903",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "source": "Hacker News",
+      "time": "2026-05-23T03:59:09.363010",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Using Kagi Search with Low Vision",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:37.847234",
+      "time": "2026-05-23T03:59:09.524586",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:37.943780",
+      "time": "2026-05-23T03:59:09.685700",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "title": "Blood Pumping Mechanism of the Hoof",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:38.044319",
+      "time": "2026-05-23T03:59:09.831625",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Uv is fantastic, but its package management UX is a mess",
-      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "title": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:38.158320",
+      "time": "2026-05-23T03:59:09.979365",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Mycorrhizal Fungi, Nature's Key to Plant Survival and Success",
-      "url": "https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:38.274883",
+      "time": "2026-05-23T03:59:10.124860",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "url": "https://freenet.org/",
+      "title": "SpaceX launches Starship v3 rocket",
+      "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:38.371583",
+      "time": "2026-05-23T03:59:10.271699",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "title": "CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "source": "Hacker News",
-      "time": "2026-05-22T04:20:38.461801",
+      "time": "2026-05-23T03:59:10.425791",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "amoslee2026/Babel",
-      "url": "https://github.com/amoslee2026/Babel",
-      "source": "GitHub",
-      "time": "2026-05-22T04:20:39.082712",
-      "heat": 11,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-22T04:20:39.083270"
+  "updated_at": "2026-05-23T03:59:11.307966"
 }
