@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "title": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:43.504869",
+      "time": "2026-05-25T04:42:01.427637",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:43.619941",
+      "time": "2026-05-25T04:42:01.498014",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:43.727506",
+      "time": "2026-05-25T04:42:01.561416",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Time to talk about my writerdeck",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "title": "Migrating from Go to Rust",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:43.825454",
+      "time": "2026-05-25T04:42:01.625222",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "url": "https://ohwr.org/projects/white-rabbit/",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:43.931524",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "On The <dl> (2021)",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "source": "Hacker News",
-      "time": "2026-05-24T04:19:44.038616",
+      "time": "2026-05-25T04:42:01.775056",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "My two-part desk setup (2025)",
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+      "url": "https://phabricator.services.mozilla.com/D301917",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:44.154674",
+      "time": "2026-05-25T04:42:01.845013",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
-      "url": "https://sales-and-dungeons.app/",
+      "title": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:44.263769",
+      "time": "2026-05-25T04:42:01.908346",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "My I3-Emacs Integration",
-      "url": "https://khz.ac/software/i3-integration.html",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:44.364889",
+      "time": "2026-05-25T04:42:01.977993",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Judson's Last Ride",
-      "url": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
       "source": "Hacker News",
-      "time": "2026-05-24T04:19:44.470876",
+      "time": "2026-05-25T04:42:02.045723",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "gonefunctor/ariel",
+      "url": "https://github.com/gonefunctor/ariel",
+      "source": "GitHub",
+      "time": "2026-05-25T04:42:03.100689",
+      "heat": 23,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-24T04:19:45.198100"
+  "updated_at": "2026-05-25T04:42:03.101203"
 }

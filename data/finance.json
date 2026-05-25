@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-24T04:19:45.198366"
+  "news": [
+    {
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "source": "Hacker News",
+      "time": "2026-05-25T04:42:01.697133",
+      "heat": 800,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-25T04:42:03.101462"
 }
