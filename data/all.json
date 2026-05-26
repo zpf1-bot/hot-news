@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The Eternal Sloptember",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "title": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.427637",
+      "time": "2026-05-26T04:17:01.663789",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "url": "https://audiomass.co/?multitrack=1",
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.498014",
+      "time": "2026-05-26T04:17:01.752230",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "title": "How Shamir's Secret Sharing Works",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.561416",
+      "time": "2026-05-26T04:17:01.841369",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Migrating from Go to Rust",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.625222",
+      "time": "2026-05-26T04:17:01.937982",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "title": "Exit IP VPN servers mitigation rollout",
+      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.697133",
+      "time": "2026-05-26T04:17:02.021268",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "url": "https://ohwr.org/projects/white-rabbit/",
+      "title": "Ferrari Luce",
+      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.775056",
+      "time": "2026-05-26T04:17:02.107304",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
-      "url": "https://phabricator.services.mozilla.com/D301917",
+      "title": "Designing for and against the manufactured normalcy field (2012)",
+      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.845013",
+      "time": "2026-05-26T04:17:02.193651",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.908346",
+      "time": "2026-05-26T04:17:02.279123",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title": "Squares in Squares",
+      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:01.977993",
+      "time": "2026-05-26T04:17:02.362592",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "url": "https://arxiv.org/abs/2605.06445",
+      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
       "source": "Hacker News",
-      "time": "2026-05-25T04:42:02.045723",
+      "time": "2026-05-26T04:17:02.477158",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-25T04:42:03.100795"
+  "updated_at": "2026-05-26T04:17:03.335331"
 }
