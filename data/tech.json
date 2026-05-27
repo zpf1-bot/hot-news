@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "The just-say-no engineer was a ZIRP phenomenon",
+      "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:01.663789",
+      "time": "2026-05-27T04:40:05.260504",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:01.752230",
+      "time": "2026-05-27T04:40:05.353966",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "How Shamir's Secret Sharing Works",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:01.841369",
+      "time": "2026-05-27T04:40:05.445602",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "title": "Where does next-token prediction leave us?",
+      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:01.937982",
+      "time": "2026-05-27T04:40:05.532055",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Exit IP VPN servers mitigation rollout",
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
+      "title": "The Forgotten Art of the LAN Party (2023)",
+      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:02.021268",
+      "time": "2026-05-27T04:40:05.625295",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Ferrari Luce",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+      "title": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:02.107304",
+      "time": "2026-05-27T04:40:05.711211",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Designing for and against the manufactured normalcy field (2012)",
-      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:02.193651",
+      "time": "2026-05-27T04:40:05.798428",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Squares in Squares",
-      "url": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
+      "title": "From Rust to Ruby",
+      "url": "https://xlii.space/eng/from-rust-to-ruby/",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:02.362592",
+      "time": "2026-05-27T04:40:05.965431",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "A portentous reunion",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "source": "Hacker News",
+      "time": "2026-05-27T04:40:06.054156",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
-      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
+      "title": "IBM Confidential: System/360 File Organization [video]",
+      "url": "https://www.youtube.com/watch?v=zokKqP0plrM",
       "source": "Hacker News",
-      "time": "2026-05-26T04:17:02.477158",
+      "time": "2026-05-27T04:40:06.145107",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "SeemSeam/plan-tree",
-      "url": "https://github.com/SeemSeam/plan-tree",
-      "source": "GitHub",
-      "time": "2026-05-26T04:17:03.335184",
-      "heat": 19,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-26T04:17:03.335766"
+  "updated_at": "2026-05-27T04:40:06.867104"
 }
