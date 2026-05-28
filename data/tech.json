@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The just-say-no engineer was a ZIRP phenomenon",
-      "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
       "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.260504",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "Cloudflare Flagship",
-      "url": "https://developers.cloudflare.com/flagship/",
-      "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.353966",
+      "time": "2026-05-28T04:19:53.140053",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
       "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.445602",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "Where does next-token prediction leave us?",
-      "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-      "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.532055",
+      "time": "2026-05-28T04:19:53.685864",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The Forgotten Art of the LAN Party (2023)",
-      "url": "https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/",
+      "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
       "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.625295",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "A few interesting modern pixel fonts",
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.711211",
+      "time": "2026-05-28T04:19:54.049341",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "title": "The Ask",
+      "url": "https://randsinrepose.com/archives/the-ask/",
       "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.798428",
+      "time": "2026-05-28T04:19:54.129103",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "From Rust to Ruby",
-      "url": "https://xlii.space/eng/from-rust-to-ruby/",
+      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
+      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
       "source": "Hacker News",
-      "time": "2026-05-27T04:40:05.965431",
+      "time": "2026-05-28T04:19:54.199770",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "A portentous reunion",
-      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
       "source": "Hacker News",
-      "time": "2026-05-27T04:40:06.054156",
+      "time": "2026-05-28T04:19:54.268535",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "IBM Confidential: System/360 File Organization [video]",
-      "url": "https://www.youtube.com/watch?v=zokKqP0plrM",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
       "source": "Hacker News",
-      "time": "2026-05-27T04:40:06.145107",
+      "time": "2026-05-28T04:19:54.331413",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "XuToWei/Image-To-UI",
+      "url": "https://github.com/XuToWei/Image-To-UI",
+      "source": "GitHub",
+      "time": "2026-05-28T04:19:55.262517",
+      "heat": 7,
+      "category": "tech"
+    },
+    {
+      "title": "Fruit03246565/fruitorchestra",
+      "url": "https://github.com/Fruit03246565/fruitorchestra",
+      "source": "GitHub",
+      "time": "2026-05-28T04:19:55.262527",
+      "heat": 5,
+      "category": "tech"
+    },
+    {
+      "title": "gaoyong111/mem0-local-enhanced",
+      "url": "https://github.com/gaoyong111/mem0-local-enhanced",
+      "source": "GitHub",
+      "time": "2026-05-28T04:19:55.262529",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-27T04:40:06.867104"
+  "updated_at": "2026-05-28T04:19:55.263027"
 }

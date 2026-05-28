@@ -1,4 +1,29 @@
 {
-  "news": [],
-  "updated_at": "2026-05-27T04:40:06.867396"
+  "news": [
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "source": "Hacker News",
+      "time": "2026-05-28T04:19:53.076391",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "source": "Hacker News",
+      "time": "2026-05-28T04:19:53.489189",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "cuytamvan/generate-ssl-for-local",
+      "url": "https://github.com/cuytamvan/generate-ssl-for-local",
+      "source": "GitHub",
+      "time": "2026-05-28T04:19:55.262539",
+      "heat": 3,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-28T04:19:55.263311"
 }
