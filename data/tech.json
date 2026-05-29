@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Can we have the day off?",
-      "url": "https://mlsu.io/posts/day-off/",
+      "title": "Cars are trying to spy on you, and it's only just the beginning",
+      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
       "source": "Hacker News",
-      "time": "2026-05-28T04:19:53.140053",
+      "time": "2026-05-29T04:22:38.914862",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "source": "Hacker News",
+      "time": "2026-05-29T04:22:38.979756",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "What Apple and Google are doing to push notifications",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "title": "Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "source": "Hacker News",
-      "time": "2026-05-28T04:19:53.685864",
+      "time": "2026-05-29T04:22:39.051149",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "source": "Hacker News",
+      "time": "2026-05-29T04:22:39.119959",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-      "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+      "title": "Ten Basic Clouds",
+      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
       "source": "Hacker News",
-      "time": "2026-05-28T04:19:54.049341",
+      "time": "2026-05-29T04:22:39.266495",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The Ask",
-      "url": "https://randsinrepose.com/archives/the-ask/",
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
       "source": "Hacker News",
-      "time": "2026-05-28T04:19:54.129103",
+      "time": "2026-05-29T04:22:39.337361",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
       "source": "Hacker News",
-      "time": "2026-05-28T04:19:54.199770",
+      "time": "2026-05-29T04:22:39.406089",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
       "source": "Hacker News",
-      "time": "2026-05-28T04:19:54.268535",
+      "time": "2026-05-29T04:22:39.471721",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+      "title": "Garnix (A Nix CI) is shutting down",
+      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
       "source": "Hacker News",
-      "time": "2026-05-28T04:19:54.331413",
+      "time": "2026-05-29T04:22:39.538266",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "XuToWei/Image-To-UI",
-      "url": "https://github.com/XuToWei/Image-To-UI",
+      "title": "ivanzhang2/mainland-tv-drama",
+      "url": "https://github.com/ivanzhang2/mainland-tv-drama",
       "source": "GitHub",
-      "time": "2026-05-28T04:19:55.262517",
-      "heat": 7,
-      "category": "tech"
-    },
-    {
-      "title": "Fruit03246565/fruitorchestra",
-      "url": "https://github.com/Fruit03246565/fruitorchestra",
-      "source": "GitHub",
-      "time": "2026-05-28T04:19:55.262527",
-      "heat": 5,
-      "category": "tech"
-    },
-    {
-      "title": "gaoyong111/mem0-local-enhanced",
-      "url": "https://github.com/gaoyong111/mem0-local-enhanced",
-      "source": "GitHub",
-      "time": "2026-05-28T04:19:55.262529",
-      "heat": 5,
+      "time": "2026-05-29T04:22:40.344902",
+      "heat": 15,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-28T04:19:55.263027"
+  "updated_at": "2026-05-29T04:22:40.345429"
 }
