@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Cars are trying to spy on you, and it's only just the beginning",
-      "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "title": "Naphtha Shortages Having a Growing Impact in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:38.914862",
+      "time": "2026-05-30T04:07:57.273388",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:38.979756",
+      "time": "2026-05-30T04:07:57.419696",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.051149",
+      "time": "2026-05-30T04:07:57.567487",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.119959",
+      "time": "2026-05-30T04:07:57.707714",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.191060",
+      "time": "2026-05-30T04:07:57.857196",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.266495",
+      "time": "2026-05-30T04:07:58.005411",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Blue Origin's New Glenn blows up during static fire test",
-      "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.337361",
+      "time": "2026-05-30T04:07:58.151037",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.406089",
+      "time": "2026-05-30T04:07:58.302701",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+      "title": "Math-to-Manim",
+      "url": "https://github.com/HarleyCoops/Math-To-Manim",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.471721",
+      "time": "2026-05-30T04:07:58.455307",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Garnix (A Nix CI) is shutting down",
-      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.538266",
+      "time": "2026-05-30T04:07:58.598342",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-29T04:22:40.345007"
+  "updated_at": "2026-05-30T04:07:59.605731"
 }

@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
       "source": "Hacker News",
-      "time": "2026-05-29T04:22:39.191060",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "Polymarket-DevRel/polymarket-devrel",
-      "url": "https://github.com/Polymarket-DevRel/polymarket-devrel",
-      "source": "GitHub",
-      "time": "2026-05-29T04:22:40.344890",
-      "heat": 17,
+      "time": "2026-05-30T04:07:57.567487",
+      "heat": 900,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-29T04:22:40.345697"
+  "updated_at": "2026-05-30T04:07:59.606423"
 }
