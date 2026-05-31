@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-05-30T04:07:59.606620"
+  "news": [
+    {
+      "title": "veryyoldman/metamask-openclaw",
+      "url": "https://github.com/veryyoldman/metamask-openclaw",
+      "source": "GitHub",
+      "time": "2026-05-31T04:42:34.385789",
+      "heat": 47,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-05-31T04:42:34.386765"
 }

@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Naphtha Shortages Having a Growing Impact in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:57.273388",
+      "time": "2026-05-31T04:42:33.124915",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:57.419696",
+      "time": "2026-05-31T04:42:33.209557",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:57.567487",
+      "time": "2026-05-31T04:42:33.296223",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "title": "Shantell Sans (2023)",
+      "url": "https://shantellsans.com/process",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:57.707714",
+      "time": "2026-05-31T04:42:33.385691",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "url": "https://www.perryts.com/",
+      "title": "Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:57.857196",
+      "time": "2026-05-31T04:42:33.469073",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:58.005411",
+      "time": "2026-05-31T04:42:33.556131",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:58.151037",
+      "time": "2026-05-31T04:42:33.638026",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
+      "url": "https://av2.aomedia.org",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:58.302701",
+      "time": "2026-05-31T04:42:33.724369",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Math-to-Manim",
-      "url": "https://github.com/HarleyCoops/Math-To-Manim",
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:58.455307",
+      "time": "2026-05-31T04:42:33.814067",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "title": "Cheese Paper: a text editor specifically designed for writing",
+      "url": "https://brie.gay/cheese-paper/",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:58.598342",
+      "time": "2026-05-31T04:42:33.898816",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-30T04:07:59.605731"
+  "updated_at": "2026-05-31T04:42:34.385908"
 }

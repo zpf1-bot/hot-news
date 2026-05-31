@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
       "source": "Hacker News",
-      "time": "2026-05-30T04:07:57.567487",
+      "time": "2026-05-31T04:42:33.296223",
       "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "polymaxi2/polymarket-arbitrage-trading-bot",
+      "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
+      "source": "GitHub",
+      "time": "2026-05-31T04:42:34.385783",
+      "heat": 203,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-30T04:07:59.606423"
+  "updated_at": "2026-05-31T04:42:34.386554"
 }
