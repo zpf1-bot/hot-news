@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
       "source": "Hacker News",
-      "time": "2026-05-31T04:42:33.296223",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "polymaxi2/polymarket-arbitrage-trading-bot",
-      "url": "https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
-      "source": "GitHub",
-      "time": "2026-05-31T04:42:34.385783",
-      "heat": 203,
+      "time": "2026-06-01T05:04:38.217371",
+      "heat": 750,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-05-31T04:42:34.386554"
+  "updated_at": "2026-06-01T05:04:39.634336"
 }
