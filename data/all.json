@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Chuwi Minibook X",
-      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "title": "macOS needs its grid back",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:37.707180",
+      "time": "2026-06-02T04:50:41.423692",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:37.808511",
+      "time": "2026-06-02T04:50:41.521661",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
-      "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:37.908780",
+      "time": "2026-06-02T04:50:41.622660",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
+      "title": "How is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:38.009562",
+      "time": "2026-06-02T04:50:41.724002",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "title": "Chipotlai Max",
+      "url": "https://github.com/cyberpapiii/chipotlai-max",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:38.115977",
+      "time": "2026-06-02T04:50:41.823160",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:38.217371",
+      "time": "2026-06-02T04:50:41.926050",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "title": "KL Zero: KL divergence intuition game",
+      "url": "https://klzero.sarna.dev",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:38.320216",
+      "time": "2026-06-02T04:50:42.035289",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "title": "Fooling around with encrypted reasoning blobs",
+      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:38.423480",
+      "time": "2026-06-02T04:50:42.140193",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "New Beam Spring Keyboards",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+      "title": "Debug Project",
+      "url": "https://debug.com/",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:38.528421",
+      "time": "2026-06-02T04:50:42.239142",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "source": "Hacker News",
-      "time": "2026-06-01T05:04:38.632080",
+      "time": "2026-06-02T04:50:42.341871",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-01T05:04:39.633611"
+  "updated_at": "2026-06-02T04:50:43.177586"
 }
