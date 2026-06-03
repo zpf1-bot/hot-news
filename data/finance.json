@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "source": "Hacker News",
-      "time": "2026-06-02T04:50:41.622660",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "001x1/Multi-Crypto-Flashing-Tool",
-      "url": "https://github.com/001x1/Multi-Crypto-Flashing-Tool",
-      "source": "GitHub",
-      "time": "2026-06-02T04:50:43.177453",
-      "heat": 52,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-06-02T04:50:43.178203"
+  "news": [],
+  "updated_at": "2026-06-03T05:01:18.612932"
 }

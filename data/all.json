@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:41.423692",
+      "time": "2026-06-03T05:01:16.386603",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "title": "The American Missile Crisis",
+      "url": "https://research.contrary.com/report/the-american-missile-crisis",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:41.521661",
+      "time": "2026-06-03T05:01:16.533098",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:41.622660",
+      "time": "2026-06-03T05:01:16.670922",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "How is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:41.724002",
+      "time": "2026-06-03T05:01:16.797540",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Chipotlai Max",
-      "url": "https://github.com/cyberpapiii/chipotlai-max",
+      "title": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:41.823160",
+      "time": "2026-06-03T05:01:16.942693",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:41.926050",
+      "time": "2026-06-03T05:01:17.078366",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "KL Zero: KL divergence intuition game",
-      "url": "https://klzero.sarna.dev",
+      "title": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:42.035289",
+      "time": "2026-06-03T05:01:17.389043",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Fooling around with encrypted reasoning blobs",
-      "url": "https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:42.140193",
+      "time": "2026-06-03T05:01:17.533857",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Debug Project",
-      "url": "https://debug.com/",
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "url": "https://www.capstone-engine.org/",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:42.239142",
+      "time": "2026-06-03T05:01:17.718486",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
       "source": "Hacker News",
-      "time": "2026-06-02T04:50:42.341871",
+      "time": "2026-06-03T05:01:17.847549",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-02T04:50:43.177586"
+  "updated_at": "2026-06-03T05:01:18.612208"
 }
