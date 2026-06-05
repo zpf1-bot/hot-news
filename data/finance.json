@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-06-04T04:54:15.571315"
+  "news": [
+    {
+      "title": "coinbaselarper/lucideium",
+      "url": "https://github.com/coinbaselarper/lucideium",
+      "source": "GitHub",
+      "time": "2026-06-05T04:38:10.950500",
+      "heat": 17,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-06-05T04:38:10.951340"
 }

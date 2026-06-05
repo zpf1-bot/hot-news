@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:13.726048",
+      "time": "2026-06-05T04:38:08.704349",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:13.834636",
+      "time": "2026-06-05T04:38:08.848442",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "\"They're made out of weights\"",
-      "url": "https://maxleiter.com/blog/weights",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:13.993457",
+      "time": "2026-06-05T04:38:08.999290",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:14.100482",
+      "time": "2026-06-05T04:38:09.150176",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:14.216528",
+      "time": "2026-06-05T04:38:09.298562",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:14.323233",
+      "time": "2026-06-05T04:38:09.450098",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:14.439969",
+      "time": "2026-06-05T04:38:09.597113",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "title": "The Causes of Long Covid",
+      "url": "https://www.science.org/content/blog-post/causes-long-covid",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:14.552834",
+      "time": "2026-06-05T04:38:09.743028",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "title": "What happens if Japan takes in zero immigrants?",
+      "url": "https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:14.657089",
+      "time": "2026-06-05T04:38:09.890220",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "DaVinci Resolve 21",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "url": "https://tiki.li/blog/blqsort",
       "source": "Hacker News",
-      "time": "2026-06-04T04:54:14.756143",
+      "time": "2026-06-05T04:38:10.036400",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-04T04:54:15.571042"
+  "updated_at": "2026-06-05T04:38:10.951082"
 }
