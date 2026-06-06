@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:08.704349",
+      "time": "2026-06-06T04:11:29.342838",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "title": "Lockdown Mode",
+      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:08.848442",
+      "time": "2026-06-06T04:11:29.433623",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:08.999290",
+      "time": "2026-06-06T04:11:29.517102",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:09.150176",
+      "time": "2026-06-06T04:11:29.601786",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:09.298562",
+      "time": "2026-06-06T04:11:29.694420",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:09.450098",
+      "time": "2026-06-06T04:11:29.776667",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I'm skeptical about efforts to revolutionize schooling",
-      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:09.597113",
+      "time": "2026-06-06T04:11:29.867426",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Causes of Long Covid",
-      "url": "https://www.science.org/content/blog-post/causes-long-covid",
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "url": "https://classic100.gotski.workers.dev/",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:09.743028",
+      "time": "2026-06-06T04:11:29.953081",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "What happens if Japan takes in zero immigrants?",
-      "url": "https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero",
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:09.890220",
+      "time": "2026-06-06T04:11:30.040413",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "url": "https://tiki.li/blog/blqsort",
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
       "source": "Hacker News",
-      "time": "2026-06-05T04:38:10.036400",
+      "time": "2026-06-06T04:11:30.126265",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-05T04:38:10.951082"
+  "updated_at": "2026-06-06T04:11:30.990139"
 }
