@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Valve P2P networking broken for more than 2 months",
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:38.254068",
+      "time": "2026-06-08T04:52:35.579857",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "title": "APC–2 – A professional record cutter for producing original playback discs",
+      "url": "https://teenage.engineering/products/apc-2",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:38.395655",
+      "time": "2026-06-08T04:52:35.728123",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "url": "https://arxiv.org/abs/2601.14470",
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:38.529924",
+      "time": "2026-06-08T04:52:35.881043",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:38.684167",
+      "time": "2026-06-08T04:52:36.030998",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "url": "https://ntsc.rs/",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:38.812582",
+      "time": "2026-06-08T04:52:36.178002",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
+      "title": "Dopamine Fracking",
+      "url": "https://igerman.cc/blog/dopamine-fracking/",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:38.959576",
+      "time": "2026-06-08T04:52:36.327377",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:39.088961",
+      "time": "2026-06-08T04:52:36.478053",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
-      "url": "https://github.com/sauravrao637/oproxy",
+      "title": "1worldflag: A blue dot on a transparent background",
+      "url": "https://1worldflag.com/",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:39.218842",
+      "time": "2026-06-08T04:52:36.626244",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "title": "Algorithmic Monocultures in Hiring",
+      "url": "https://algorithmichiring.github.io/",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:39.360182",
+      "time": "2026-06-08T04:52:36.773371",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:39.506034",
+      "time": "2026-06-08T04:52:36.920457",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-07T04:47:40.137867"
+  "updated_at": "2026-06-08T04:52:37.838568"
 }

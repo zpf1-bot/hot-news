@@ -1,21 +1,21 @@
 {
   "news": [
     {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
       "source": "Hacker News",
-      "time": "2026-06-07T04:47:38.684167",
-      "heat": 850,
+      "time": "2026-06-08T04:52:35.579857",
+      "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "miaowanqi/worldcup-predictor",
-      "url": "https://github.com/miaowanqi/worldcup-predictor",
-      "source": "GitHub",
-      "time": "2026-06-07T04:47:40.137763",
-      "heat": 2,
+      "title": "1worldflag: A blue dot on a transparent background",
+      "url": "https://1worldflag.com/",
+      "source": "Hacker News",
+      "time": "2026-06-08T04:52:36.626244",
+      "heat": 650,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-07T04:47:40.138766"
+  "updated_at": "2026-06-08T04:52:37.839475"
 }
