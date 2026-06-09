@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-06-08T04:52:37.839277"
+  "news": [
+    {
+      "title": "juandoroteoflesiauni-lang/Market-options-stocks-Scanner",
+      "url": "https://github.com/juandoroteoflesiauni-lang/Market-options-stocks-Scanner",
+      "source": "GitHub",
+      "time": "2026-06-09T04:15:15.574897",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "tahacryptos/code-helper",
+      "url": "https://github.com/tahacryptos/code-helper",
+      "source": "GitHub",
+      "time": "2026-06-09T04:15:15.574914",
+      "heat": 5,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-06-09T04:15:15.575723"
 }

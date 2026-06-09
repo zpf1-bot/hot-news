@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+      "title": "Job: Head of Stonehenge",
+      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:35.579857",
+      "time": "2026-06-09T04:15:13.957773",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:35.728123",
+      "time": "2026-06-09T04:15:14.060624",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:35.881043",
+      "time": "2026-06-09T04:15:14.168189",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.030998",
+      "time": "2026-06-09T04:15:14.282067",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.178002",
+      "time": "2026-06-09T04:15:14.392552",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Dopamine Fracking",
-      "url": "https://igerman.cc/blog/dopamine-fracking/",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.327377",
+      "time": "2026-06-09T04:15:14.498268",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.478053",
+      "time": "2026-06-09T04:15:14.607626",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "1worldflag: A blue dot on a transparent background",
-      "url": "https://1worldflag.com/",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.626244",
+      "time": "2026-06-09T04:15:14.721010",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Algorithmic Monocultures in Hiring",
-      "url": "https://algorithmichiring.github.io/",
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.773371",
+      "time": "2026-06-09T04:15:14.824918",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-      "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
       "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.920457",
+      "time": "2026-06-09T04:15:14.927702",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-08T04:52:37.838568"
+  "updated_at": "2026-06-09T04:15:15.575009"
 }

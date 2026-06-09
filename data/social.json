@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "source": "Hacker News",
-      "time": "2026-06-08T04:52:35.579857",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "1worldflag: A blue dot on a transparent background",
-      "url": "https://1worldflag.com/",
-      "source": "Hacker News",
-      "time": "2026-06-08T04:52:36.626244",
-      "heat": 650,
+      "title": "Takuma-cit/line-vaccine-bot",
+      "url": "https://github.com/Takuma-cit/line-vaccine-bot",
+      "source": "GitHub",
+      "time": "2026-06-09T04:15:15.574912",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-08T04:52:37.839475"
+  "updated_at": "2026-06-09T04:15:15.575938"
 }
