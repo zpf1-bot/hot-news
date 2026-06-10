@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Job: Head of Stonehenge",
-      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:13.957773",
+      "time": "2026-06-10T04:26:02.257530",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.060624",
+      "time": "2026-06-10T04:26:02.345558",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
+      "title": "Upcoming breaking changes for npm v12",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.168189",
+      "time": "2026-06-10T04:26:02.435283",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
+      "title": "Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.282067",
+      "time": "2026-06-10T04:26:02.520794",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.392552",
+      "time": "2026-06-10T04:26:02.609997",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "title": "The oldest surviving animated feature film at 100",
+      "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.498268",
+      "time": "2026-06-10T04:26:02.695946",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.607626",
+      "time": "2026-06-10T04:26:02.780749",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.721010",
+      "time": "2026-06-10T04:26:02.871105",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+      "title": "More Molly Guards",
+      "url": "https://unsung.aresluna.org/more-molly-guards/",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.824918",
+      "time": "2026-06-10T04:26:02.952879",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "source": "Hacker News",
-      "time": "2026-06-09T04:15:14.927702",
+      "time": "2026-06-10T04:26:03.041011",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-09T04:15:15.575009"
+  "updated_at": "2026-06-10T04:26:03.995063"
 }
