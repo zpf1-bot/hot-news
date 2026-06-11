@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "macOS Container Machines",
-      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.257530",
+      "time": "2026-06-11T04:48:39.675739",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.345558",
+      "time": "2026-06-11T04:48:39.774355",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Upcoming breaking changes for npm v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.435283",
+      "time": "2026-06-11T04:48:39.858159",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.520794",
+      "time": "2026-06-11T04:48:39.939569",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "title": "Sequoyah’s syllabary created a written language for the Cherokee",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.609997",
+      "time": "2026-06-11T04:48:40.051017",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The oldest surviving animated feature film at 100",
-      "url": "https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film",
+      "title": "Vacuum-Form Signage",
+      "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.695946",
+      "time": "2026-06-11T04:48:40.148589",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "RIP software hackathons. Long live the hardware hackathon",
-      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+      "url": "https://news.ycombinator.com/item?id=48477135",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.780749",
+      "time": "2026-06-11T04:48:40.263917",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "title": "Klondike Solitaire game for curses in 5k of C",
+      "url": "https://nanochess.org/klondike_in_c.html",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.871105",
+      "time": "2026-06-11T04:48:40.344114",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "More Molly Guards",
-      "url": "https://unsung.aresluna.org/more-molly-guards/",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:02.952879",
+      "time": "2026-06-11T04:48:40.432738",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "title": "The Road to the WASM Component Model 1.0",
+      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
       "source": "Hacker News",
-      "time": "2026-06-10T04:26:03.041011",
+      "time": "2026-06-11T04:48:40.531857",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-10T04:26:03.995063"
+  "updated_at": "2026-06-11T04:48:41.375386"
 }
