@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:39.675739",
+      "time": "2026-06-12T04:51:21.635390",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:39.774355",
+      "time": "2026-06-12T04:51:22.353110",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "πFS",
-      "url": "https://github.com/philipl/pifs",
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:39.858159",
+      "time": "2026-06-12T04:51:22.444537",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:39.939569",
+      "time": "2026-06-12T04:51:22.530780",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Sequoyah’s syllabary created a written language for the Cherokee",
-      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:40.051017",
+      "time": "2026-06-12T04:51:22.617869",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Vacuum-Form Signage",
-      "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
+      "title": "How we made hit video game Prince of Persia",
+      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:40.148589",
+      "time": "2026-06-12T04:51:22.700652",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-      "url": "https://news.ycombinator.com/item?id=48477135",
+      "title": "MiMo Code is now released and open-source",
+      "url": "https://mimo.xiaomi.com/mimocode",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:40.263917",
+      "time": "2026-06-12T04:51:22.787565",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Klondike Solitaire game for curses in 5k of C",
-      "url": "https://nanochess.org/klondike_in_c.html",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:40.344114",
+      "time": "2026-06-12T04:51:22.874393",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:40.432738",
+      "time": "2026-06-12T04:51:22.972013",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Road to the WASM Component Model 1.0",
-      "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
       "source": "Hacker News",
-      "time": "2026-06-11T04:48:40.531857",
+      "time": "2026-06-12T04:51:23.054159",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-11T04:48:41.375386"
+  "updated_at": "2026-06-12T04:51:23.810240"
 }
