@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.118961",
+      "time": "2026-06-14T04:57:58.334113",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Open source AI must win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.203328",
+      "time": "2026-06-14T04:57:58.403293",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.288022",
+      "time": "2026-06-14T04:57:58.466194",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Renault: Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
+      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.404459",
+      "time": "2026-06-14T04:57:58.537953",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.521607",
+      "time": "2026-06-14T04:57:58.602209",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "url": "https://putt.day/",
+      "title": "Building a serial and VGA \"everything console\"",
+      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.785251",
+      "time": "2026-06-14T04:57:58.670387",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+      "url": "https://github.com/kekcleader/FreeOberon",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.876089",
+      "time": "2026-06-14T04:57:58.733661",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:36.960636",
+      "time": "2026-06-14T04:57:58.800524",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "How to setup a local coding agent on macOS",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "title": "Python 3.14 garbage collection rigamarole",
+      "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:37.066429",
+      "time": "2026-06-14T04:57:58.863564",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "url": "https://blog.pyodide.org/posts/314-release/",
       "source": "Hacker News",
-      "time": "2026-06-13T04:39:37.151071",
+      "time": "2026-06-14T04:57:58.933300",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-13T04:39:37.810269"
+  "updated_at": "2026-06-14T04:57:59.757281"
 }
