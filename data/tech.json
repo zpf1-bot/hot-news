@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "title": "Your ePub Is fine",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.334113",
+      "time": "2026-06-15T05:17:15.925424",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
+      "title": "Even more batteries included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.403293",
+      "time": "2026-06-15T05:17:16.024301",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "GLM 5.2 Is Out",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.466194",
+      "time": "2026-06-15T05:17:16.124214",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+      "title": "Bitsy",
+      "url": "https://bitsy.org/",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.537953",
+      "time": "2026-06-15T05:17:16.223022",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.602209",
+      "time": "2026-06-15T05:17:16.320178",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Building a serial and VGA \"everything console\"",
-      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.670387",
+      "time": "2026-06-15T05:17:16.423641",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
-      "url": "https://github.com/kekcleader/FreeOberon",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.733661",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.800524",
+      "time": "2026-06-15T05:17:16.630726",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Python 3.14 garbage collection rigamarole",
-      "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+      "title": "Why does paper fold so well?",
+      "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.863564",
+      "time": "2026-06-15T05:17:16.723559",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "url": "https://blog.pyodide.org/posts/314-release/",
+      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+      "url": "https://traceapp.info",
       "source": "Hacker News",
-      "time": "2026-06-14T04:57:58.933300",
+      "time": "2026-06-15T05:17:16.824767",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "Swarmchefill/CapC-Pro",
+      "url": "https://github.com/Swarmchefill/CapC-Pro",
+      "source": "GitHub",
+      "time": "2026-06-15T05:17:17.658504",
+      "heat": 50,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-14T04:57:59.757662"
+  "updated_at": "2026-06-15T05:17:17.659040"
 }

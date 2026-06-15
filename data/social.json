@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-06-14T04:57:59.758144"
+  "news": [
+    {
+      "title": "Prove you're human by winning a claw machine",
+      "url": "https://feralui.vercel.app/#/captcha",
+      "source": "Hacker News",
+      "time": "2026-06-15T05:17:16.528083",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-06-15T05:17:17.659612"
 }
