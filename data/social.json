@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Prove you're human by winning a claw machine",
-      "url": "https://feralui.vercel.app/#/captcha",
-      "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.528083",
-      "heat": 700,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-06-15T05:17:17.659612"
+  "news": [],
+  "updated_at": "2026-06-16T05:21:13.238659"
 }

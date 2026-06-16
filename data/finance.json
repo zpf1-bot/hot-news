@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-06-15T05:17:17.659391"
+  "news": [
+    {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "source": "Hacker News",
+      "time": "2026-06-16T05:21:12.146859",
+      "heat": 800,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-06-16T05:21:13.238464"
 }

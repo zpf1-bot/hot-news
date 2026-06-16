@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:15.925424",
+      "time": "2026-06-16T05:21:11.882483",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Even more batteries included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.024301",
+      "time": "2026-06-16T05:21:11.951035",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "url": "https://github.com/tamnd/kage",
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.124214",
+      "time": "2026-06-16T05:21:12.011356",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Bitsy",
-      "url": "https://bitsy.org/",
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.223022",
+      "time": "2026-06-16T05:21:12.079532",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-      "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.320178",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "Firewood Splitting Simulator",
-      "url": "https://screen.toys/firewood/",
-      "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.423641",
+      "time": "2026-06-16T05:21:12.216572",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "title": "I hacked into the worst e-bike and fixed it [video]",
+      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.630726",
+      "time": "2026-06-16T05:21:12.282273",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+      "url": "https://garden-of-flowers.heikkilotvonen.com/",
+      "source": "Hacker News",
+      "time": "2026-06-16T05:21:12.351258",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Why does paper fold so well?",
-      "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
+      "title": "I Love the Computer",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.723559",
+      "time": "2026-06-16T05:21:12.421010",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-      "url": "https://traceapp.info",
+      "title": "Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
       "source": "Hacker News",
-      "time": "2026-06-15T05:17:16.824767",
+      "time": "2026-06-16T05:21:12.491352",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Swarmchefill/CapC-Pro",
-      "url": "https://github.com/Swarmchefill/CapC-Pro",
+      "title": "Ikuyr1/Solana-Drainer-Tool",
+      "url": "https://github.com/Ikuyr1/Solana-Drainer-Tool",
       "source": "GitHub",
-      "time": "2026-06-15T05:17:17.658504",
-      "heat": 50,
+      "time": "2026-06-16T05:21:13.237647",
+      "heat": 23,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-15T05:17:17.659040"
+  "updated_at": "2026-06-16T05:21:13.238157"
 }
