@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+      "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:11.882483",
+      "time": "2026-06-17T05:00:28.993487",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:11.951035",
+      "time": "2026-06-17T05:00:29.119239",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.011356",
+      "time": "2026-06-17T05:00:29.245724",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.079532",
+      "time": "2026-06-17T05:00:29.372106",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "url": "https://news.ycombinator.com/item?id=48542100",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.216572",
+      "time": "2026-06-17T05:00:29.501453",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "source": "Hacker News",
+      "time": "2026-06-17T05:00:29.655174",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I hacked into the worst e-bike and fixed it [video]",
-      "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.282273",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-      "url": "https://garden-of-flowers.heikkilotvonen.com/",
-      "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.351258",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "I Love the Computer",
-      "url": "https://michaelenger.com/blog/i-love-the-computer/",
-      "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.421010",
+      "time": "2026-06-17T05:00:29.936132",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Why I email complete strangers",
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.491352",
+      "time": "2026-06-17T05:00:30.081262",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Ikuyr1/Solana-Drainer-Tool",
-      "url": "https://github.com/Ikuyr1/Solana-Drainer-Tool",
+      "title": "FeralNetworkSnap/Blooket-Hack",
+      "url": "https://github.com/FeralNetworkSnap/Blooket-Hack",
       "source": "GitHub",
-      "time": "2026-06-16T05:21:13.237647",
-      "heat": 23,
+      "time": "2026-06-17T05:00:31.021244",
+      "heat": 58,
+      "category": "tech"
+    },
+    {
+      "title": "GasBladesmith/Wondershare-Filmora-Crack-2026",
+      "url": "https://github.com/GasBladesmith/Wondershare-Filmora-Crack-2026",
+      "source": "GitHub",
+      "time": "2026-06-17T05:00:31.021255",
+      "heat": 49,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-16T05:21:13.238157"
+  "updated_at": "2026-06-17T05:00:31.021760"
 }

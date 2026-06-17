@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
       "source": "Hacker News",
-      "time": "2026-06-16T05:21:12.146859",
-      "heat": 800,
+      "time": "2026-06-17T05:00:29.768777",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "source": "Hacker News",
+      "time": "2026-06-17T05:00:29.851744",
+      "heat": 650,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-16T05:21:13.238464"
+  "updated_at": "2026-06-17T05:00:31.022077"
 }
