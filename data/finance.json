@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Calvin and Hobbes and the price of integrity",
-      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-      "source": "Hacker News",
-      "time": "2026-06-17T05:00:29.768777",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "source": "Hacker News",
-      "time": "2026-06-17T05:00:29.851744",
-      "heat": 650,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-06-17T05:00:31.022077"
+  "news": [],
+  "updated_at": "2026-06-18T04:49:59.185986"
 }
