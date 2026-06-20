@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Let's Encrypt has been down most of today",
-      "url": "https://letsencrypt.status.io/#2026",
+      "title": "How to feed a dictator",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:41.701089",
+      "time": "2026-06-20T04:22:48.080361",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
-      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "title": "Data Compression Explained",
+      "url": "https://mattmahoney.net/dc/dce.html",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:41.848993",
+      "time": "2026-06-20T04:22:48.187230",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:41.998162",
+      "time": "2026-06-20T04:22:48.282413",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:42.148343",
+      "time": "2026-06-20T04:22:48.376593",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "title": "I used sound waves to make espresso",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:42.297072",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "source": "Hacker News",
-      "time": "2026-06-19T05:10:42.444104",
+      "time": "2026-06-20T04:22:48.577559",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:42.592565",
+      "time": "2026-06-20T04:22:48.670974",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:42.739192",
+      "time": "2026-06-20T04:22:48.788848",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:42.885214",
+      "time": "2026-06-20T04:22:48.892052",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Cell-based architecture for resilient payment systems",
-      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "source": "Hacker News",
-      "time": "2026-06-19T05:10:43.034888",
+      "time": "2026-06-20T04:22:49.005937",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "yansc153/huajiao-finance-writer",
+      "url": "https://github.com/yansc153/huajiao-finance-writer",
+      "source": "GitHub",
+      "time": "2026-06-20T04:22:49.905093",
+      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-19T05:10:43.972662"
+  "updated_at": "2026-06-20T04:22:49.905601"
 }

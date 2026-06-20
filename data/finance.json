@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-06-19T05:10:43.972930"
+  "news": [
+    {
+      "title": "Surprising Economics of Load-Balanced Systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "source": "Hacker News",
+      "time": "2026-06-20T04:22:48.469830",
+      "heat": 800,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-06-20T04:22:49.905917"
 }
