@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-06-21T05:06:33.931571"
+  "news": [
+    {
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "source": "Hacker News",
+      "time": "2026-06-22T05:18:13.578680",
+      "heat": 550,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-06-22T05:18:14.061686"
 }

@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Renting a sewing machine from the library",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:31.595732",
+      "time": "2026-06-22T05:18:12.612684",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Epoll vs. io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:31.746941",
+      "time": "2026-06-22T05:18:12.713583",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Developers don't understand CORS (2019)",
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:31.902412",
+      "time": "2026-06-22T05:18:12.810023",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
+      "title": "Sakana Fugu",
+      "url": "https://sakana.ai/fugu/",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:32.061419",
+      "time": "2026-06-22T05:18:12.912528",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "url": "https://townsquare.cauenapier.com/",
+      "title": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:32.190509",
+      "time": "2026-06-22T05:18:13.013813",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:32.333795",
+      "time": "2026-06-22T05:18:13.146765",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "15-minute at-home Lyme disease tick test",
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
+      "title": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:32.483279",
+      "time": "2026-06-22T05:18:13.242001",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "When I reject AI code even if it works",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:32.613274",
+      "time": "2026-06-22T05:18:13.359014",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Project Fetch: Phase Two",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
+      "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:32.748200",
+      "time": "2026-06-22T05:18:13.474901",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
       "source": "Hacker News",
-      "time": "2026-06-21T05:06:32.903167",
+      "time": "2026-06-22T05:18:13.578680",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-21T05:06:33.930633"
+  "updated_at": "2026-06-22T05:18:14.060789"
 }
