@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Did my old job only exist because of fraud?",
-      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:12.612684",
+      "time": "2026-06-23T04:12:11.401696",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Help I accidentally a wigglegram",
-      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:12.713583",
+      "time": "2026-06-23T04:12:11.514681",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:12.810023",
+      "time": "2026-06-23T04:12:11.626446",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Sakana Fugu",
-      "url": "https://sakana.ai/fugu/",
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:12.912528",
+      "time": "2026-06-23T04:12:11.740302",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Everything is logarithms",
-      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:13.013813",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "source": "Hacker News",
-      "time": "2026-06-22T05:18:13.146765",
+      "time": "2026-06-23T04:12:11.967215",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Memory Safe Inline Assembly",
-      "url": "https://fil-c.org/inlineasm",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:13.242001",
+      "time": "2026-06-23T04:12:12.076363",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "title": "An Introduction to YOLO26",
+      "url": "https://blog.roboflow.com/yolo26/",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:13.359014",
+      "time": "2026-06-23T04:12:12.187008",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Efficient C++ Programming for Modern C++ CPUs, Chapter 4/part 2",
-      "url": "https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736",
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
       "source": "Hacker News",
-      "time": "2026-06-22T05:18:13.474901",
+      "time": "2026-06-23T04:12:12.299514",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "WilonityInc/WilonityLoader",
-      "url": "https://github.com/WilonityInc/WilonityLoader",
+      "title": "Japanese symbols that speak without words",
+      "url": "https://arun.is/blog/japan-symbols/",
+      "source": "Hacker News",
+      "time": "2026-06-23T04:12:12.413008",
+      "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "WMarok/WilonityV3",
+      "url": "https://github.com/WMarok/WilonityV3",
       "source": "GitHub",
-      "time": "2026-06-22T05:18:14.060656",
-      "heat": 75,
+      "time": "2026-06-23T04:12:13.572126",
+      "heat": 51,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-22T05:18:14.061235"
+  "updated_at": "2026-06-23T04:12:13.572638"
 }

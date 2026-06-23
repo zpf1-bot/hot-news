@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-06-22T05:18:14.061523"
+  "news": [
+    {
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "source": "Hacker News",
+      "time": "2026-06-23T04:12:11.856003",
+      "heat": 800,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-06-23T04:12:13.572907"
 }
