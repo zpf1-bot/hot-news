@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:11.401696",
+      "time": "2026-06-24T04:15:11.257804",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Runing GLM-5.2 on local hardware",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:11.514681",
+      "time": "2026-06-24T04:15:11.321025",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:11.626446",
+      "time": "2026-06-24T04:15:11.394410",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:11.740302",
+      "time": "2026-06-24T04:15:11.464942",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:11.856003",
+      "time": "2026-06-24T04:15:11.540787",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Cyberdecks, going analog, and convivial technology",
-      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:11.967215",
+      "time": "2026-06-24T04:15:11.605845",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:12.076363",
+      "time": "2026-06-24T04:15:11.669008",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "An Introduction to YOLO26",
-      "url": "https://blog.roboflow.com/yolo26/",
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:12.187008",
+      "time": "2026-06-24T04:15:11.742550",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "My Mathematical Regression",
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "title": "Extreme Heat conference cancelled due to extreme heat warning",
+      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:12.299514",
+      "time": "2026-06-24T04:15:11.807346",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Japanese symbols that speak without words",
-      "url": "https://arun.is/blog/japan-symbols/",
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
       "source": "Hacker News",
-      "time": "2026-06-23T04:12:12.413008",
+      "time": "2026-06-24T04:15:11.868584",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-23T04:12:13.572240"
+  "updated_at": "2026-06-24T04:15:12.673249"
 }
