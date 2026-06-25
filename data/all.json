@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.257804",
+      "time": "2026-06-25T04:15:23.998345",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
+      "title": "Ending All Respiratory Infections",
+      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.321025",
+      "time": "2026-06-25T04:15:24.067464",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.394410",
+      "time": "2026-06-25T04:15:24.132772",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.464942",
+      "time": "2026-06-25T04:15:24.227788",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "In memory of the man who put red and green squiggles under words",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.540787",
+      "time": "2026-06-25T04:15:24.292927",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Printing Gaussian Splats",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.605845",
+      "time": "2026-06-25T04:15:24.362648",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "title": "Show HN: Write SaaS apps where users control where their data is stored",
+      "url": "https://github.com/wolfoo2931/linkedrecords/",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.669008",
+      "time": "2026-06-25T04:15:24.438402",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "title": "Dostoyevsky isn't difficult",
+      "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.742550",
+      "time": "2026-06-25T04:15:24.508451",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Extreme Heat conference cancelled due to extreme heat warning",
-      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.807346",
+      "time": "2026-06-25T04:15:24.573968",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "title": "Mixing Visual and Textual Code",
+      "url": "https://arxiv.org/abs/2603.15855",
       "source": "Hacker News",
-      "time": "2026-06-24T04:15:11.868584",
+      "time": "2026-06-25T04:15:24.639226",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-24T04:15:12.673249"
+  "updated_at": "2026-06-25T04:15:25.415824"
 }
