@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "source": "Hacker News",
-      "time": "2026-06-26T04:21:44.827067",
-      "heat": 850,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-06-26T04:21:45.955948"
+  "news": [],
+  "updated_at": "2026-06-27T04:08:22.205231"
 }

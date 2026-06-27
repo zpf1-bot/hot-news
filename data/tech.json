@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:44.575083",
+      "time": "2026-06-27T04:08:20.308660",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:44.665487",
+      "time": "2026-06-27T04:08:20.402959",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:44.748843",
+      "time": "2026-06-27T04:08:20.513629",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:44.906788",
+      "time": "2026-06-27T04:08:20.724774",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
-      "url": "https://news.ycombinator.com/item?id=48644463",
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:44.986709",
+      "time": "2026-06-27T04:08:20.819235",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:45.080293",
+      "time": "2026-06-27T04:08:20.951910",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
-      "url": "https://gchandbook.org/",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:45.159480",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Oxide computer 3D rack guided tour",
-      "url": "https://explorer.oxide.computer/",
-      "source": "Hacker News",
-      "time": "2026-06-26T04:21:45.238072",
+      "time": "2026-06-27T04:08:21.149298",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "url": "https://github.com/plbrault/youre-the-os",
+      "title": "Hellishly Slow Level 13 Deflate Compression",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
       "source": "Hacker News",
-      "time": "2026-06-26T04:21:45.334593",
+      "time": "2026-06-27T04:08:21.241221",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "xiaohuailabs/xiaohu-ip-studio",
-      "url": "https://github.com/xiaohuailabs/xiaohu-ip-studio",
+      "title": "zanetanasta/Seed-Generator",
+      "url": "https://github.com/zanetanasta/Seed-Generator",
       "source": "GitHub",
-      "time": "2026-06-26T04:21:45.955158",
-      "heat": 63,
+      "time": "2026-06-27T04:08:22.204347",
+      "heat": 55,
+      "category": "tech"
+    },
+    {
+      "title": "leifstout/dataServiceTyped",
+      "url": "https://github.com/leifstout/dataServiceTyped",
+      "source": "GitHub",
+      "time": "2026-06-27T04:08:22.204379",
+      "heat": 6,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-26T04:21:45.955664"
+  "updated_at": "2026-06-27T04:08:22.204960"
 }
