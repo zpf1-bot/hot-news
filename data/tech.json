@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:20.308660",
+      "time": "2026-06-28T04:41:18.973172",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:20.402959",
+      "time": "2026-06-28T04:41:19.063105",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:20.513629",
+      "time": "2026-06-28T04:41:19.151189",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:20.724774",
+      "time": "2026-06-28T04:41:19.248409",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "source": "Hacker News",
+      "time": "2026-06-28T04:41:19.348470",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:20.819235",
+      "time": "2026-06-28T04:41:19.450977",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:20.951910",
+      "time": "2026-06-28T04:41:19.545571",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "url": "https://www.sfwriter.com/wordstar.htm",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:21.149298",
+      "time": "2026-06-28T04:41:19.643163",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Space Shuttle Endeavour's 20-story vertical display",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+      "source": "Hacker News",
+      "time": "2026-06-28T04:41:19.733333",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Hellishly Slow Level 13 Deflate Compression",
-      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "title": "Regular expressions that work \"everywhere\"",
+      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
       "source": "Hacker News",
-      "time": "2026-06-27T04:08:21.241221",
+      "time": "2026-06-28T04:41:19.825529",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "zanetanasta/Seed-Generator",
-      "url": "https://github.com/zanetanasta/Seed-Generator",
-      "source": "GitHub",
-      "time": "2026-06-27T04:08:22.204347",
-      "heat": 55,
-      "category": "tech"
-    },
-    {
-      "title": "leifstout/dataServiceTyped",
-      "url": "https://github.com/leifstout/dataServiceTyped",
-      "source": "GitHub",
-      "time": "2026-06-27T04:08:22.204379",
-      "heat": 6,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-27T04:08:22.204960"
+  "updated_at": "2026-06-28T04:41:20.591559"
 }
