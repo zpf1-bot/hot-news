@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:18.973172",
+      "time": "2026-06-29T04:49:52.171868",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.063105",
+      "time": "2026-06-29T04:49:52.276510",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.151189",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.248409",
+      "time": "2026-06-29T04:49:52.493627",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.348470",
+      "time": "2026-06-29T04:49:52.600863",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.450977",
+      "time": "2026-06-29T04:49:52.696576",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "title": "Deciphering Basmala",
+      "url": "https://blog.plover.com/lang/bismillah.html",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.545571",
+      "time": "2026-06-29T04:49:52.788009",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.643163",
+      "time": "2026-06-29T04:49:52.874950",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Space Shuttle Endeavour's 20-story vertical display",
-      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+      "title": "Show HN: Zanagrams",
+      "url": "https://zanagrams.com/",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.733333",
+      "time": "2026-06-29T04:49:52.982699",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Regular expressions that work \"everywhere\"",
-      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
+      "title": "Idler Magazine",
+      "url": "https://www.idler.co.uk/",
       "source": "Hacker News",
-      "time": "2026-06-28T04:41:19.825529",
+      "time": "2026-06-29T04:49:53.086031",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "mego1123/Easy-Class",
+      "url": "https://github.com/mego1123/Easy-Class",
+      "source": "GitHub",
+      "time": "2026-06-29T04:49:53.780705",
+      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-28T04:41:20.591559"
+  "updated_at": "2026-06-29T04:49:53.781296"
 }
