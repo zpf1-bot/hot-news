@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.171868",
+      "time": "2026-06-30T04:16:40.694807",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Age verification is just a precursor to automated attribution of speech",
-      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.276510",
+      "time": "2026-06-30T04:16:40.780495",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.493627",
+      "time": "2026-06-30T04:16:40.865663",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "url": "https://fil-c.org/context_switches",
+      "source": "Hacker News",
+      "time": "2026-06-30T04:16:40.948652",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.600863",
+      "time": "2026-06-30T04:16:41.038046",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.696576",
+      "time": "2026-06-30T04:16:41.117041",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Deciphering Basmala",
-      "url": "https://blog.plover.com/lang/bismillah.html",
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.788009",
+      "time": "2026-06-30T04:16:41.201864",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "title": "Scientists find molecular-level evidence for two structures in liquid water",
+      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.874950",
+      "time": "2026-06-30T04:16:41.287447",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: Zanagrams",
-      "url": "https://zanagrams.com/",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:52.982699",
+      "time": "2026-06-30T04:16:41.366532",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Idler Magazine",
-      "url": "https://www.idler.co.uk/",
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
       "source": "Hacker News",
-      "time": "2026-06-29T04:49:53.086031",
+      "time": "2026-06-30T04:16:41.451816",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "mego1123/Easy-Class",
-      "url": "https://github.com/mego1123/Easy-Class",
-      "source": "GitHub",
-      "time": "2026-06-29T04:49:53.780705",
-      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-29T04:49:53.781296"
+  "updated_at": "2026-06-30T04:16:42.252091"
 }
