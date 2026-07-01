@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:40.694807",
+      "time": "2026-07-01T04:44:57.538322",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:40.780495",
+      "time": "2026-07-01T04:44:57.630303",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "title": "Supersonic flight returning to US after half-century ban",
+      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:40.865663",
+      "time": "2026-07-01T04:44:57.749929",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-      "url": "https://fil-c.org/context_switches",
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:40.948652",
+      "time": "2026-07-01T04:44:57.831420",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:41.038046",
+      "time": "2026-07-01T04:44:57.909234",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:41.117041",
+      "time": "2026-07-01T04:44:58.004599",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:41.201864",
+      "time": "2026-07-01T04:44:58.087586",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:41.287447",
+      "time": "2026-07-01T04:44:58.173485",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "source": "Hacker News",
-      "time": "2026-06-30T04:16:41.366532",
-      "heat": 600,
+      "time": "2026-07-01T04:44:58.341764",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "source": "Hacker News",
-      "time": "2026-06-30T04:16:41.451816",
-      "heat": 550,
+      "title": "Zeeshan2899/System_Backup___Restore",
+      "url": "https://github.com/Zeeshan2899/System_Backup___Restore",
+      "source": "GitHub",
+      "time": "2026-07-01T04:44:58.940077",
+      "heat": 223,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-06-30T04:16:42.252091"
+  "updated_at": "2026-07-01T04:44:58.940482"
 }
