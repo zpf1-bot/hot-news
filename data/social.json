@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-07-01T04:44:58.940922"
+  "news": [
+    {
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "source": "Hacker News",
+      "time": "2026-07-02T04:11:57.945032",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-07-02T04:11:59.178061"
 }

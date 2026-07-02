@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title": "Bring Back Crappy Forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:57.538322",
+      "time": "2026-07-02T04:11:57.054478",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:57.630303",
+      "time": "2026-07-02T04:11:57.202440",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Supersonic flight returning to US after half-century ban",
-      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:57.749929",
+      "time": "2026-07-02T04:11:57.350144",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
+      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:57.831420",
+      "time": "2026-07-02T04:11:57.504091",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:57.909234",
+      "time": "2026-07-02T04:11:57.650342",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Forestiere Underground Gardens",
-      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:58.004599",
+      "time": "2026-07-02T04:11:57.797597",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:58.087586",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "source": "Hacker News",
-      "time": "2026-07-01T04:44:58.173485",
+      "time": "2026-07-02T04:11:58.086049",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
       "source": "Hacker News",
-      "time": "2026-07-01T04:44:58.341764",
+      "time": "2026-07-02T04:11:58.229287",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "source": "Hacker News",
+      "time": "2026-07-02T04:11:58.374991",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Zeeshan2899/System_Backup___Restore",
-      "url": "https://github.com/Zeeshan2899/System_Backup___Restore",
+      "title": "Captureandencoder/Marvel-Rivals-Menu-2026",
+      "url": "https://github.com/Captureandencoder/Marvel-Rivals-Menu-2026",
       "source": "GitHub",
-      "time": "2026-07-01T04:44:58.940077",
-      "heat": 223,
+      "time": "2026-07-02T04:11:59.177027",
+      "heat": 51,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-01T04:44:58.940482"
+  "updated_at": "2026-07-02T04:11:59.177562"
 }
