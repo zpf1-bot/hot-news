@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Bring Back Crappy Forums",
-      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:57.054478",
+      "time": "2026-07-03T03:58:36.725326",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "ZCode – Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
+      "title": "CarPlay Is Additive",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:57.202440",
+      "time": "2026-07-03T03:58:36.836324",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:57.350144",
+      "time": "2026-07-03T03:58:36.957692",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:57.504091",
+      "time": "2026-07-03T03:58:37.069954",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:57.650342",
+      "time": "2026-07-03T03:58:37.183973",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:57.797597",
+      "time": "2026-07-03T03:58:37.296979",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "What to learn to be a graphics programmer",
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:58.086049",
+      "time": "2026-07-03T03:58:37.409910",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "source": "Hacker News",
+      "time": "2026-07-03T03:58:37.529987",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
       "source": "Hacker News",
-      "time": "2026-07-02T04:11:58.229287",
-      "heat": 600,
-      "category": "tech"
-    },
-    {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "source": "Hacker News",
-      "time": "2026-07-02T04:11:58.374991",
+      "time": "2026-07-03T03:58:37.746102",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Captureandencoder/Marvel-Rivals-Menu-2026",
-      "url": "https://github.com/Captureandencoder/Marvel-Rivals-Menu-2026",
+      "title": "LunaGeller/competitor-analysis-skill",
+      "url": "https://github.com/LunaGeller/competitor-analysis-skill",
       "source": "GitHub",
-      "time": "2026-07-02T04:11:59.177027",
-      "heat": 51,
+      "time": "2026-07-03T03:58:38.879228",
+      "heat": 13,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-02T04:11:59.177562"
+  "updated_at": "2026-07-03T03:58:38.879744"
 }
