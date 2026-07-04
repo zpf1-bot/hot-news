@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "source": "Hacker News",
-      "time": "2026-07-03T03:58:37.638135",
-      "heat": 600,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-07-03T03:58:38.880035"
+  "news": [],
+  "updated_at": "2026-07-04T03:52:13.925084"
 }

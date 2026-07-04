@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:36.725326",
+      "time": "2026-07-04T03:52:12.317608",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:36.836324",
+      "time": "2026-07-04T03:52:12.410799",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:36.957692",
+      "time": "2026-07-04T03:52:12.500669",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Right to Local Intelligence",
-      "url": "https://righttointelligence.org/",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:37.069954",
+      "time": "2026-07-04T03:52:12.610329",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:37.183973",
+      "time": "2026-07-04T03:52:12.700890",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:37.296979",
+      "time": "2026-07-04T03:52:12.824999",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Exapunks (2018)",
-      "url": "https://www.zachtronics.com/exapunks/",
+      "title": "The circuit that lets your brain think and see",
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:37.409910",
+      "time": "2026-07-04T03:52:12.933653",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "An American Privacy Emergency",
-      "url": "https://scottaaronson.blog/?p=9902",
+      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
+      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:37.529987",
+      "time": "2026-07-04T03:52:13.031959",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Podman v6.0.0",
-      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "title": "Synthesis is harder than analysis",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
       "source": "Hacker News",
-      "time": "2026-07-03T03:58:37.746102",
-      "heat": 550,
+      "time": "2026-07-04T03:52:13.143414",
+      "heat": 600,
       "category": "tech"
     },
     {
-      "title": "LunaGeller/competitor-analysis-skill",
-      "url": "https://github.com/LunaGeller/competitor-analysis-skill",
-      "source": "GitHub",
-      "time": "2026-07-03T03:58:38.879228",
-      "heat": 13,
+      "title": "Odin, Wikipedia and engagement farming",
+      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "source": "Hacker News",
+      "time": "2026-07-04T03:52:13.235532",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-03T03:58:38.879744"
+  "updated_at": "2026-07-04T03:52:13.924822"
 }
