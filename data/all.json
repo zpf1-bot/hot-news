@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Giant trees have no trouble pumping water to top branches: new research",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:12.317608",
+      "time": "2026-07-05T04:11:14.321892",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:12.410799",
+      "time": "2026-07-05T04:11:14.428156",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:12.500669",
+      "time": "2026-07-05T04:11:14.532722",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:12.610329",
+      "time": "2026-07-05T04:11:14.638309",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:12.700890",
+      "time": "2026-07-05T04:11:14.756195",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "SearXNG: A free internet metasearch engine",
-      "url": "https://github.com/searxng/searxng",
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:12.824999",
+      "time": "2026-07-05T04:11:14.863606",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:12.933653",
+      "time": "2026-07-05T04:11:14.962172",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:13.031959",
+      "time": "2026-07-05T04:11:15.067618",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Synthesis is harder than analysis",
-      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "url": "https://peteris.rocks/blog/htop/",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:13.143414",
+      "time": "2026-07-05T04:11:15.171865",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Odin, Wikipedia and engagement farming",
-      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
+      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
       "source": "Hacker News",
-      "time": "2026-07-04T03:52:13.235532",
+      "time": "2026-07-05T04:11:15.269091",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-04T03:52:13.924366"
+  "updated_at": "2026-07-05T04:11:16.305776"
 }
