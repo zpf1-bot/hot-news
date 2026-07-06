@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:14.321892",
+      "time": "2026-07-06T04:18:29.222733",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:14.428156",
+      "time": "2026-07-06T04:18:29.329384",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:14.532722",
+      "time": "2026-07-06T04:18:29.441318",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:14.638309",
+      "time": "2026-07-06T04:18:29.545498",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:14.756195",
+      "time": "2026-07-06T04:18:29.651238",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
+      "title": "Does Code Cleanliness Affect Coding Agents?",
+      "url": "https://arxiv.org/abs/2605.20049",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:14.863606",
+      "time": "2026-07-06T04:18:29.756212",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
-      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "title": "Completing a computer science degree on Coursera",
+      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:14.962172",
+      "time": "2026-07-06T04:18:29.857045",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "url": "https://homegames.io",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:15.067618",
+      "time": "2026-07-06T04:18:29.950769",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "url": "https://peteris.rocks/blog/htop/",
+      "title": "The Private Capture of Public Genius",
+      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:15.171865",
+      "time": "2026-07-06T04:18:30.043542",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
-      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "title": "The Age of Personalized Hardware Is Coming",
+      "url": "https://geastack.com/blog-the-age-of-personalized-hardware-is-coming",
       "source": "Hacker News",
-      "time": "2026-07-05T04:11:15.269091",
+      "time": "2026-07-06T04:18:30.149693",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-05T04:11:16.305776"
+  "updated_at": "2026-07-06T04:18:31.134277"
 }
