@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.222733",
+      "time": "2026-07-07T04:07:59.563518",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.329384",
+      "time": "2026-07-07T04:07:59.695868",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Has_not_been_viewed_much",
-      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.441318",
+      "time": "2026-07-07T04:07:59.824606",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.545498",
+      "time": "2026-07-07T04:07:59.980628",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Building relationships with customers through support didn't turn out as hoped",
-      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.651238",
+      "time": "2026-07-07T04:08:00.089959",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Does Code Cleanliness Affect Coding Agents?",
-      "url": "https://arxiv.org/abs/2605.20049",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.756212",
+      "time": "2026-07-07T04:08:00.236564",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Completing a computer science degree on Coursera",
-      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.857045",
+      "time": "2026-07-07T04:08:00.393331",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:29.950769",
+      "time": "2026-07-07T04:08:00.551226",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The Private Capture of Public Genius",
-      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:30.043542",
+      "time": "2026-07-07T04:08:00.660109",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Age of Personalized Hardware Is Coming",
-      "url": "https://geastack.com/blog-the-age-of-personalized-hardware-is-coming",
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
       "source": "Hacker News",
-      "time": "2026-07-06T04:18:30.149693",
+      "time": "2026-07-07T04:08:00.767051",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-06T04:18:31.134695"
+  "updated_at": "2026-07-07T04:08:01.746085"
 }
