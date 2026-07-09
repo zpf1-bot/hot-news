@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Is The Economist Always Wrong?",
-      "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-      "source": "Hacker News",
-      "time": "2026-07-08T03:32:53.905011",
-      "heat": 1000,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-07-08T03:32:54.861587"
+  "news": [],
+  "updated_at": "2026-07-09T04:01:40.676069"
 }
