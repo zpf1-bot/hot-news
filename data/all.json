@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:38.548759",
+      "time": "2026-07-10T04:01:52.438764",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "I Think I Have LLM Burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:38.668825",
+      "time": "2026-07-10T04:01:52.547732",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "title": "Focus",
+      "url": "https://boz.com/articles/focus",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:38.783579",
+      "time": "2026-07-10T04:01:52.643058",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:38.900183",
+      "time": "2026-07-10T04:01:52.733804",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Cloudflare Drop",
-      "url": "https://www.cloudflare.com/drop/",
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:39.011950",
+      "time": "2026-07-10T04:01:52.826591",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:39.125144",
+      "time": "2026-07-10T04:01:52.934076",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:39.240937",
+      "time": "2026-07-10T04:01:53.033832",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
-      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+      "title": "Star Just Ate a Planet, and It's Not Done Yet",
+      "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:39.360947",
+      "time": "2026-07-10T04:01:53.124680",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
+      "title": "Hy3",
+      "url": "https://hy.tencent.com/research/hy3",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:39.471556",
+      "time": "2026-07-10T04:01:53.218289",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Unicode's transliteration rules are Turing-complete",
-      "url": "https://seriot.ch/computation/uts35/",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "url": "https://github.com/malisper/pgrust",
       "source": "Hacker News",
-      "time": "2026-07-09T04:01:39.593636",
+      "time": "2026-07-10T04:01:53.313348",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-09T04:01:40.675364"
+  "updated_at": "2026-07-10T04:01:54.341628"
 }
