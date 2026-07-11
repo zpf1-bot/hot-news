@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:52.438764",
+      "time": "2026-07-11T03:28:51.694693",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:52.547732",
+      "time": "2026-07-11T03:28:51.812551",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Focus",
-      "url": "https://boz.com/articles/focus",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:52.643058",
+      "time": "2026-07-11T03:28:51.963409",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Ben Bernanke Joins Anthropic Oversight Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "title": "An iroh powered smart fan",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:52.733804",
+      "time": "2026-07-11T03:28:52.090666",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
+      "title": "The footgun of right-to-left decorative characters",
+      "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:52.826591",
+      "time": "2026-07-11T03:28:52.265605",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
+      "title": "An update on residential proxies and the scraper situation",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:52.934076",
+      "time": "2026-07-11T03:28:52.406307",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:53.033832",
+      "time": "2026-07-11T03:28:52.517794",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Star Just Ate a Planet, and It's Not Done Yet",
-      "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:53.124680",
+      "time": "2026-07-11T03:28:52.643463",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Hy3",
-      "url": "https://hy.tencent.com/research/hy3",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:53.218289",
+      "time": "2026-07-11T03:28:52.758461",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "url": "https://github.com/malisper/pgrust",
+      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
       "source": "Hacker News",
-      "time": "2026-07-10T04:01:53.313348",
+      "time": "2026-07-11T03:28:52.869584",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-10T04:01:54.342055"
+  "updated_at": "2026-07-11T03:28:53.746057"
 }
