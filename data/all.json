@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:51.694693",
+      "time": "2026-07-12T03:40:30.997035",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:51.812551",
+      "time": "2026-07-12T03:40:31.133405",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:51.963409",
+      "time": "2026-07-12T03:40:31.241882",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "An iroh powered smart fan",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:52.090666",
+      "time": "2026-07-12T03:40:31.354859",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The footgun of right-to-left decorative characters",
-      "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:52.265605",
+      "time": "2026-07-12T03:40:31.463152",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:52.406307",
+      "time": "2026-07-12T03:40:31.570139",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:52.517794",
+      "time": "2026-07-12T03:40:31.688826",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "title": "The Energetic Costs of Cellular Computation (2012)",
+      "url": "https://arxiv.org/abs/1203.5426",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:52.643463",
+      "time": "2026-07-12T03:40:31.800273",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:52.758461",
+      "time": "2026-07-12T03:40:31.911780",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+      "title": "A Erlang style pure Scheme Webserver and further",
+      "url": "https://igropyr.com",
       "source": "Hacker News",
-      "time": "2026-07-11T03:28:52.869584",
+      "time": "2026-07-12T03:40:32.075315",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-11T03:28:53.745691"
+  "updated_at": "2026-07-12T03:40:33.078156"
 }
