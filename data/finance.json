@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "Ask HN: Add flag for AI-generated articles",
-      "url": "https://news.ycombinator.com/item?id=48886741",
+      "title": "Fundamentals of Wireless Communication",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
       "source": "Hacker News",
-      "time": "2026-07-13T03:42:25.089623",
-      "heat": 800,
+      "time": "2026-07-14T03:17:52.778740",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "url": "https://elasticity.institute/rsi-paper.pdf",
+      "source": "Hacker News",
+      "time": "2026-07-14T03:17:53.019859",
+      "heat": 750,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-13T03:42:26.301871"
+  "updated_at": "2026-07-14T03:17:53.360869"
 }
