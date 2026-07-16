@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:25.575563",
+      "time": "2026-07-16T03:24:25.051189",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:25.722563",
+      "time": "2026-07-16T03:24:25.150844",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-      "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+      "url": "https://davidobando.github.io/gsharp/",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:25.862941",
+      "time": "2026-07-16T03:24:25.252606",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:25.993910",
+      "time": "2026-07-16T03:24:25.345935",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:26.190653",
+      "time": "2026-07-16T03:24:25.449891",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-      "url": "https://www.starfleetmath.com/",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:26.317887",
+      "time": "2026-07-16T03:24:25.551626",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "title": "Bluesky Trademarks ATProto",
+      "url": "https://atproto.com/blog/at-protocol-trademark",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:26.552545",
+      "time": "2026-07-16T03:24:25.639421",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:26.877853",
+      "time": "2026-07-16T03:24:25.725621",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "title": "CatchCat – Pokémon Go for Cats, IRL",
+      "url": "https://www.catchcat.lol/",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:27.020560",
+      "time": "2026-07-16T03:24:25.831112",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
       "source": "Hacker News",
-      "time": "2026-07-15T03:17:27.222718",
+      "time": "2026-07-16T03:24:25.932368",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-15T03:17:28.230189"
+  "updated_at": "2026-07-16T03:24:26.646654"
 }
