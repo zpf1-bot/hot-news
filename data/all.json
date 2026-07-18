@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.299232",
+      "time": "2026-07-18T03:16:00.275673",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.361371",
+      "time": "2026-07-18T03:16:00.418158",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.426112",
+      "time": "2026-07-18T03:16:00.679206",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.495266",
+      "time": "2026-07-18T03:16:01.079608",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.558987",
+      "time": "2026-07-18T03:16:01.234861",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.631492",
+      "time": "2026-07-18T03:16:01.406120",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "url": "https://moonstone.sh/",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.699823",
+      "time": "2026-07-18T03:16:01.616785",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.759730",
+      "time": "2026-07-18T03:16:01.782730",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Simulating everything, sort of: The promise and limits of world models",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.822895",
+      "time": "2026-07-18T03:16:01.924899",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Solod: Go can be a better C",
-      "url": "https://solod.dev",
+      "title": "DrDroid (YC W23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
       "source": "Hacker News",
-      "time": "2026-07-17T03:26:53.886291",
+      "time": "2026-07-18T03:16:02.068230",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-17T03:26:54.512504"
+  "updated_at": "2026-07-18T03:16:02.772733"
 }
