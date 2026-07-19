@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:00.275673",
+      "time": "2026-07-19T03:36:42.944024",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:00.679206",
+      "time": "2026-07-19T03:36:43.047827",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "source": "Hacker News",
+      "time": "2026-07-19T03:36:43.159462",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:01.079608",
+      "time": "2026-07-19T03:36:43.260551",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:01.234861",
+      "time": "2026-07-19T03:36:43.374230",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:01.406120",
+      "time": "2026-07-19T03:36:43.479190",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "url": "https://moonstone.sh/",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:01.616785",
+      "time": "2026-07-19T03:36:43.586038",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-      "url": "https://prathosh.in/vagdhenu/",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:01.782730",
+      "time": "2026-07-19T03:36:43.687177",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:01.924899",
+      "time": "2026-07-19T03:36:43.788022",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "DrDroid (YC W23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+      "title": "Harness Engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
       "source": "Hacker News",
-      "time": "2026-07-18T03:16:02.068230",
+      "time": "2026-07-19T03:36:43.880059",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "sxnnywu/loopy",
-      "url": "https://github.com/sxnnywu/loopy",
-      "source": "GitHub",
-      "time": "2026-07-18T03:16:02.772637",
-      "heat": 7,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-18T03:16:02.773077"
+  "updated_at": "2026-07-19T03:36:44.534161"
 }

@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-07-18T03:16:02.773595"
+  "news": [
+    {
+      "title": "Chzeky/ClawNote",
+      "url": "https://github.com/Chzeky/ClawNote",
+      "source": "GitHub",
+      "time": "2026-07-19T03:36:44.533641",
+      "heat": 2,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-07-19T03:36:44.534611"
 }
