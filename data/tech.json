@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:42.944024",
+      "time": "2026-07-20T03:50:58.242851",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.047827",
+      "time": "2026-07-20T03:50:58.336835",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.159462",
+      "time": "2026-07-20T03:50:58.424655",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.260551",
+      "time": "2026-07-20T03:50:58.513624",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.374230",
+      "time": "2026-07-20T03:50:58.599675",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.479190",
+      "time": "2026-07-20T03:50:58.690319",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.586038",
+      "time": "2026-07-20T03:50:58.770784",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.687177",
+      "time": "2026-07-20T03:50:58.928601",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
-      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.788022",
+      "time": "2026-07-20T03:50:59.064554",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Harness Engineering",
-      "url": "https://github.com/lopopolo/harness-engineering",
+      "title": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
       "source": "Hacker News",
-      "time": "2026-07-19T03:36:43.880059",
+      "time": "2026-07-20T03:50:59.151288",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-19T03:36:44.534161"
+  "updated_at": "2026-07-20T03:50:59.808977"
 }
