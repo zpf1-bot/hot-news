@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.242851",
+      "time": "2026-07-21T03:30:41.874620",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "title": "Jellyfin founder Andrew leaves team",
+      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.336835",
+      "time": "2026-07-21T03:30:42.003355",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.424655",
+      "time": "2026-07-21T03:30:42.146325",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.513624",
+      "time": "2026-07-21T03:30:42.243606",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.599675",
+      "time": "2026-07-21T03:30:42.329931",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.690319",
+      "time": "2026-07-21T03:30:42.422014",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.770784",
+      "time": "2026-07-21T03:30:42.516766",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:58.928601",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "url": "https://github.com/hgaiser/moonshine",
-      "source": "Hacker News",
-      "time": "2026-07-20T03:50:59.064554",
+      "time": "2026-07-21T03:30:42.682638",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Who Is America's Homer?",
-      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
       "source": "Hacker News",
-      "time": "2026-07-20T03:50:59.151288",
+      "time": "2026-07-21T03:30:42.771419",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "c9nny/mirror",
+      "url": "https://github.com/c9nny/mirror",
+      "source": "GitHub",
+      "time": "2026-07-21T03:30:43.230586",
+      "heat": 21,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-20T03:50:59.808977"
+  "updated_at": "2026-07-21T03:30:43.231317"
 }
