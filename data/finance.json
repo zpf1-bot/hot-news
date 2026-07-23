@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-07-22T03:29:19.933717"
+  "news": [
+    {
+      "title": "Codeberg Bans Cryptocurrency Projects",
+      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+      "source": "Hacker News",
+      "time": "2026-07-23T03:34:13.125959",
+      "heat": 750,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-07-23T03:34:14.538271"
 }
