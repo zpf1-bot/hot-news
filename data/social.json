@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-07-23T03:34:14.538471"
+  "news": [
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "source": "Hacker News",
+      "time": "2026-07-24T03:30:40.928857",
+      "heat": 750,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-07-24T03:30:42.014169"
 }
