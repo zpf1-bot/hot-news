@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "98.css",
-      "url": "https://jdan.github.io/98.css/#status-bar",
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:40.241528",
+      "time": "2026-07-25T03:28:07.012829",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:40.377479",
+      "time": "2026-07-25T03:28:07.160376",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The Visual 6502",
-      "url": "http://visual6502.org/JSSim/index.html",
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:40.520488",
+      "time": "2026-07-25T03:28:07.308132",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:40.669558",
+      "time": "2026-07-25T03:28:07.865796",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:40.804879",
+      "time": "2026-07-25T03:28:08.018016",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:41.052405",
+      "time": "2026-07-25T03:28:08.164748",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "source": "Hacker News",
+      "time": "2026-07-25T03:28:08.308175",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:41.328444",
-      "heat": 600,
+      "time": "2026-07-25T03:28:08.453701",
+      "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Freeze-Casting",
-      "url": "https://en.wikipedia.org/wiki/Freeze-casting",
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:41.470439",
+      "time": "2026-07-25T03:28:08.737897",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "dudscode/criando-roadmap",
-      "url": "https://github.com/dudscode/criando-roadmap",
+      "title": "HeFeicc/monopoly-go-community-hub",
+      "url": "https://github.com/HeFeicc/monopoly-go-community-hub",
       "source": "GitHub",
-      "time": "2026-07-24T03:30:42.013101",
-      "heat": 13,
-      "category": "tech"
-    },
-    {
-      "title": "Nicolas-zn/lowcode3d",
-      "url": "https://github.com/Nicolas-zn/lowcode3d",
-      "source": "GitHub",
-      "time": "2026-07-24T03:30:42.013113",
-      "heat": 12,
+      "time": "2026-07-25T03:28:09.446044",
+      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-24T03:30:42.013653"
+  "updated_at": "2026-07-25T03:28:09.446556"
 }

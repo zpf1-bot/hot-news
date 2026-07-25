@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
-      "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
+      "title": "Designing an Ethernet Switch ASIC",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
       "source": "Hacker News",
-      "time": "2026-07-24T03:30:41.181265",
-      "heat": 650,
+      "time": "2026-07-25T03:28:08.592310",
+      "heat": 600,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-24T03:30:42.013965"
+  "updated_at": "2026-07-25T03:28:09.446817"
 }
