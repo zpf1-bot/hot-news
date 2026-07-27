@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-07-26T03:41:28.275401"
+  "news": [
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "source": "Hacker News",
+      "time": "2026-07-27T03:51:08.397627",
+      "heat": 1000,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-07-27T03:51:10.712838"
 }

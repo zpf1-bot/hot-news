@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:26.682668",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "yaoleifly/ai-stock-pool",
-      "url": "https://github.com/yaoleifly/ai-stock-pool",
-      "source": "GitHub",
-      "time": "2026-07-26T03:41:28.242956",
-      "heat": 6,
+      "time": "2026-07-27T03:51:08.545742",
+      "heat": 950,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-26T03:41:28.275180"
+  "updated_at": "2026-07-27T03:51:10.712629"
 }

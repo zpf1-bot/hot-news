@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "JetZero",
-      "url": "https://www.jetzero.aero",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:26.256352",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-      "url": "https://golfcoursebrowser.com/",
-      "source": "Hacker News",
-      "time": "2026-07-26T03:41:26.397518",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "source": "Hacker News",
-      "time": "2026-07-26T03:41:26.540624",
+      "time": "2026-07-27T03:51:08.693885",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Systems and Delays",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:26.827686",
+      "time": "2026-07-27T03:51:08.843089",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "source": "Hacker News",
+      "time": "2026-07-27T03:51:08.995577",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:26.972010",
+      "time": "2026-07-27T03:51:09.144395",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:27.121641",
+      "time": "2026-07-27T03:51:09.317340",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "title": "Jacobian Conjecture for Baby",
+      "url": "https://muchmirul.github.io/jacobian-conjecture/",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:27.283903",
+      "time": "2026-07-27T03:51:09.534874",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Git rebase -I is not that scary",
-      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:27.432543",
+      "time": "2026-07-27T03:51:09.738492",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
       "source": "Hacker News",
-      "time": "2026-07-26T03:41:27.582482",
+      "time": "2026-07-27T03:51:09.929963",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "kerogenesis/InputRedirect",
-      "url": "https://github.com/kerogenesis/InputRedirect",
+      "title": "zhx8702/agent-console",
+      "url": "https://github.com/zhx8702/agent-console",
       "source": "GitHub",
-      "time": "2026-07-26T03:41:28.242943",
-      "heat": 11,
+      "time": "2026-07-27T03:51:10.711869",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "vgzinhodev/vg-animations",
+      "url": "https://github.com/vgzinhodev/vg-animations",
+      "source": "GitHub",
+      "time": "2026-07-27T03:51:10.711880",
+      "heat": 7,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-26T03:41:28.274741"
+  "updated_at": "2026-07-27T03:51:10.712350"
 }
