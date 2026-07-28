@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:08.397627",
+      "time": "2026-07-28T03:21:59.696928",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
+      "title": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:08.545742",
+      "time": "2026-07-28T03:21:59.801531",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:08.693885",
+      "time": "2026-07-28T03:21:59.898790",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:08.843089",
+      "time": "2026-07-28T03:21:59.999307",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "url": "https://github.com/vercel-labs/scriptc",
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:08.995577",
+      "time": "2026-07-28T03:22:00.097813",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:09.144395",
+      "time": "2026-07-28T03:22:00.195238",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:09.317340",
+      "time": "2026-07-28T03:22:00.279463",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Jacobian Conjecture for Baby",
-      "url": "https://muchmirul.github.io/jacobian-conjecture/",
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:09.534874",
+      "time": "2026-07-28T03:22:00.362441",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "title": "EYG: A Programming Language for Humans",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:09.738492",
+      "time": "2026-07-28T03:22:00.463346",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
       "source": "Hacker News",
-      "time": "2026-07-27T03:51:09.929963",
+      "time": "2026-07-28T03:22:00.561161",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-27T03:51:10.711975"
+  "updated_at": "2026-07-28T03:22:01.062779"
 }
