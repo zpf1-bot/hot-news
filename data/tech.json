@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
       "source": "Hacker News",
-      "time": "2026-07-28T03:21:59.696928",
+      "time": "2026-07-29T03:24:21.435953",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Using an open model feels surprisingly good",
-      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
       "source": "Hacker News",
-      "time": "2026-07-28T03:21:59.801531",
+      "time": "2026-07-29T03:24:21.581270",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
       "source": "Hacker News",
-      "time": "2026-07-28T03:21:59.898790",
+      "time": "2026-07-29T03:24:21.724593",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
       "source": "Hacker News",
-      "time": "2026-07-28T03:21:59.999307",
+      "time": "2026-07-29T03:24:21.867866",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
       "source": "Hacker News",
-      "time": "2026-07-28T03:22:00.097813",
+      "time": "2026-07-29T03:24:22.021473",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
       "source": "Hacker News",
-      "time": "2026-07-28T03:22:00.195238",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "source": "Hacker News",
-      "time": "2026-07-28T03:22:00.279463",
+      "time": "2026-07-29T03:24:22.424357",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "title": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
       "source": "Hacker News",
-      "time": "2026-07-28T03:22:00.362441",
+      "time": "2026-07-29T03:24:22.598193",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
       "source": "Hacker News",
-      "time": "2026-07-28T03:22:00.463346",
+      "time": "2026-07-29T03:24:22.746223",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-      "url": "https://github.com/FrigadeHQ/yap",
+      "title": "ReFrame – The EPaper Camera",
+      "url": "https://reframe.camera/",
       "source": "Hacker News",
-      "time": "2026-07-28T03:22:00.561161",
+      "time": "2026-07-29T03:24:22.891977",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "harinishri2204-cpu/Pollu-Sence",
+      "url": "https://github.com/harinishri2204-cpu/Pollu-Sence",
+      "source": "GitHub",
+      "time": "2026-07-29T03:24:23.637760",
+      "heat": 10,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-28T03:22:01.063280"
+  "updated_at": "2026-07-29T03:24:23.638272"
 }
