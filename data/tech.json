@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:21.435953",
+      "time": "2026-07-30T02:56:41.670662",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:21.581270",
+      "time": "2026-07-30T02:56:41.760908",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
+      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:21.724593",
+      "time": "2026-07-30T02:56:41.863648",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:21.867866",
+      "time": "2026-07-30T02:56:41.983295",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:22.021473",
+      "time": "2026-07-30T02:56:42.077368",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:22.424357",
+      "time": "2026-07-30T02:56:42.200153",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "source": "Hacker News",
+      "time": "2026-07-30T02:56:42.286178",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Teach yourself programming in ten years (1998)",
-      "url": "https://www.norvig.com/21-days.html",
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:22.598193",
+      "time": "2026-07-30T02:56:42.385547",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "url": "https://www.hubble.md/",
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:22.746223",
+      "time": "2026-07-30T02:56:42.469615",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "ReFrame – The EPaper Camera",
-      "url": "https://reframe.camera/",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "source": "Hacker News",
-      "time": "2026-07-29T03:24:22.891977",
+      "time": "2026-07-30T02:56:42.569928",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "harinishri2204-cpu/Pollu-Sence",
-      "url": "https://github.com/harinishri2204-cpu/Pollu-Sence",
-      "source": "GitHub",
-      "time": "2026-07-29T03:24:23.637760",
-      "heat": 10,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-29T03:24:23.638272"
+  "updated_at": "2026-07-30T02:56:43.094333"
 }

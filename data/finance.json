@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
-      "source": "Hacker News",
-      "time": "2026-07-29T03:24:22.163499",
-      "heat": 750,
+      "title": "alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill",
+      "url": "https://github.com/alphaparkinc/genpark-e-commerce-listing-conversion-rate-optimizer-skill",
+      "source": "GitHub",
+      "time": "2026-07-30T02:56:43.093815",
+      "heat": 9,
+      "category": "tech"
+    },
+    {
+      "title": "alphaparkinc/genpark-e-commerce-inventory-stockout-dead-listing-alert-skill",
+      "url": "https://github.com/alphaparkinc/genpark-e-commerce-inventory-stockout-dead-listing-alert-skill",
+      "source": "GitHub",
+      "time": "2026-07-30T02:56:43.093820",
+      "heat": 9,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-07-29T03:24:23.638589"
+  "updated_at": "2026-07-30T02:56:43.094636"
 }
