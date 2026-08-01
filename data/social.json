@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-07-31T03:39:22.261918"
+  "news": [
+    {
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "source": "Hacker News",
+      "time": "2026-08-01T03:38:33.477389",
+      "heat": 550,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-01T03:38:34.081714"
 }
