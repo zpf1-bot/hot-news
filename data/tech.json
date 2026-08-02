@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:32.222283",
+      "time": "2026-08-02T03:38:38.822198",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "title": "Plug-in solar is coming. Plug-in batteries should follow",
+      "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:32.366479",
+      "time": "2026-08-02T03:38:38.908831",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:32.514837",
+      "time": "2026-08-02T03:38:39.007254",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:32.646467",
+      "time": "2026-08-02T03:38:39.111828",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "BMW Is Showing Full-Screen Ads on Its Cars' Main Dashboard Control Display",
-      "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:32.787944",
+      "time": "2026-08-02T03:38:39.217963",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The development pipeline is a production system",
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:32.926484",
+      "time": "2026-08-02T03:38:39.319216",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Software for One",
-      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "title": "The teenage hitmen recruited to kill across Europe",
+      "url": "https://www.bbc.com/news/articles/czrjyevmv61o",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:33.047209",
+      "time": "2026-08-02T03:38:39.406351",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:33.195593",
+      "time": "2026-08-02T03:38:39.529283",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
       "source": "Hacker News",
-      "time": "2026-08-01T03:38:33.353439",
+      "time": "2026-08-02T03:38:39.629932",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "gabefishercb508/abay-bot-workflow-tools",
-      "url": "https://github.com/gabefishercb508/abay-bot-workflow-tools",
-      "source": "GitHub",
-      "time": "2026-08-01T03:38:34.080795",
-      "heat": 52,
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "source": "Hacker News",
+      "time": "2026-08-02T03:38:39.734037",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-01T03:38:34.081289"
+  "updated_at": "2026-08-02T03:38:40.290595"
 }
