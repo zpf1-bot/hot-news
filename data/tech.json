@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:38.822198",
+      "time": "2026-08-03T03:40:57.626887",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Plug-in solar is coming. Plug-in batteries should follow",
-      "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:38.908831",
+      "time": "2026-08-03T03:40:57.735846",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.007254",
+      "time": "2026-08-03T03:40:57.843896",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.111828",
+      "time": "2026-08-03T03:40:57.956603",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
+      "title": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.217963",
+      "time": "2026-08-03T03:40:58.071428",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "ASRock BC-250: Building the Budget Steam Machine",
-      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.319216",
+      "time": "2026-08-03T03:40:58.186928",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The teenage hitmen recruited to kill across Europe",
-      "url": "https://www.bbc.com/news/articles/czrjyevmv61o",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.406351",
+      "time": "2026-08-03T03:40:58.323468",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.529283",
+      "time": "2026-08-03T03:40:58.435731",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.629932",
+      "time": "2026-08-03T03:40:58.548260",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Four Time Scales for Technology Development and Deployment",
-      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
       "source": "Hacker News",
-      "time": "2026-08-02T03:38:39.734037",
+      "time": "2026-08-03T03:40:58.656619",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-02T03:38:40.290595"
+  "updated_at": "2026-08-03T03:40:59.779467"
 }
