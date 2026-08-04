@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:57.626887",
+      "time": "2026-08-04T03:25:43.016660",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "url": "https://github.com/johnsonjh/cpm386",
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:57.735846",
+      "time": "2026-08-04T03:25:43.159134",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:57.843896",
+      "time": "2026-08-04T03:25:43.304611",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Karpathy’s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:57.956603",
+      "time": "2026-08-04T03:25:43.457389",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: ssh ssh.place",
-      "url": "https://ssh.place",
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:58.071428",
+      "time": "2026-08-04T03:25:43.600184",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156683",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:58.186928",
+      "time": "2026-08-04T03:25:43.742967",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "title": "That time when I failed the Microsoft interview",
+      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:58.323468",
+      "time": "2026-08-04T03:25:43.889372",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156682",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:58.435731",
+      "time": "2026-08-04T03:25:44.035744",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:58.548260",
+      "time": "2026-08-04T03:25:44.181090",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Note-Taking and Personal Knowledge Management",
-      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
       "source": "Hacker News",
-      "time": "2026-08-03T03:40:58.656619",
+      "time": "2026-08-04T03:25:44.328817",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-03T03:40:59.779077"
+  "updated_at": "2026-08-04T03:25:45.105434"
 }
