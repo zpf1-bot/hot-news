@@ -1,4 +1,29 @@
 {
-  "news": [],
-  "updated_at": "2026-08-04T03:25:45.106145"
+  "news": [
+    {
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "source": "Hacker News",
+      "time": "2026-08-05T03:20:34.948951",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+      "source": "Hacker News",
+      "time": "2026-08-05T03:20:35.843779",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "source": "Hacker News",
+      "time": "2026-08-05T03:20:36.132202",
+      "heat": 600,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-05T03:20:36.997699"
 }

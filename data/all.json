@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:43.016660",
+      "time": "2026-08-05T03:20:34.948951",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:43.159134",
+      "time": "2026-08-05T03:20:35.098762",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:43.304611",
+      "time": "2026-08-05T03:20:35.242324",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:43.457389",
+      "time": "2026-08-05T03:20:35.391120",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:43.600184",
+      "time": "2026-08-05T03:20:35.544153",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:43.742967",
+      "time": "2026-08-05T03:20:35.694303",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "That time when I failed the Microsoft interview",
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:43.889372",
+      "time": "2026-08-05T03:20:35.843779",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156682",
+      "title": "Bugtraq Is Back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:44.035744",
+      "time": "2026-08-05T03:20:35.987418",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:44.181090",
+      "time": "2026-08-05T03:20:36.132202",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
       "source": "Hacker News",
-      "time": "2026-08-04T03:25:44.328817",
+      "time": "2026-08-05T03:20:36.277933",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-04T03:25:45.105434"
+  "updated_at": "2026-08-05T03:20:36.996995"
 }
