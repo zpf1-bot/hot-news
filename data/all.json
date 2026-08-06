@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:34.948951",
+      "time": "2026-08-06T03:23:24.762097",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:35.098762",
+      "time": "2026-08-06T03:23:24.828118",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:35.242324",
+      "time": "2026-08-06T03:23:24.893735",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:35.391120",
+      "time": "2026-08-06T03:23:24.959291",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:35.544153",
+      "time": "2026-08-06T03:23:25.021651",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:35.694303",
+      "time": "2026-08-06T03:23:25.079998",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:35.843779",
+      "time": "2026-08-06T03:23:25.143630",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Bugtraq Is Back",
-      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:35.987418",
+      "time": "2026-08-06T03:23:25.203835",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:36.132202",
+      "time": "2026-08-06T03:23:25.271405",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
       "source": "Hacker News",
-      "time": "2026-08-05T03:20:36.277933",
+      "time": "2026-08-06T03:23:25.329469",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-05T03:20:36.996995"
+  "updated_at": "2026-08-06T03:23:26.103595"
 }
