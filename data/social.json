@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-08-06T03:23:26.104534"
+  "news": [
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "source": "Hacker News",
+      "time": "2026-08-07T03:09:46.854268",
+      "heat": 800,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-07T03:09:48.161620"
 }
