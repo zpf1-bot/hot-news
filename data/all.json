@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:46.181718",
+      "time": "2026-08-08T02:07:02.288925",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:46.279411",
+      "time": "2026-08-08T02:07:02.437693",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:46.368156",
+      "time": "2026-08-08T02:07:02.588193",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:46.450959",
+      "time": "2026-08-08T02:07:02.730798",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:46.854268",
+      "time": "2026-08-08T02:07:02.883979",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:46.936786",
+      "time": "2026-08-08T02:07:03.034505",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:47.014941",
+      "time": "2026-08-08T02:07:03.183202",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:47.196218",
+      "time": "2026-08-08T02:07:03.330410",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:47.276315",
+      "time": "2026-08-08T02:07:03.474298",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
       "source": "Hacker News",
-      "time": "2026-08-07T03:09:47.388883",
+      "time": "2026-08-08T02:07:03.617597",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-07T03:09:48.160811"
+  "updated_at": "2026-08-08T02:07:04.409311"
 }
