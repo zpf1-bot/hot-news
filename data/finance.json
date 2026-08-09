@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source": "Hacker News",
-      "time": "2026-08-08T02:07:03.330410",
-      "heat": 650,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-08-08T02:07:04.409993"
+  "news": [],
+  "updated_at": "2026-08-09T02:18:42.045492"
 }
