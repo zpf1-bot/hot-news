@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "title": "The UK's War on Anonymity Has Come to America",
+      "url": "https://www.effort.news/uk-lobby",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:33.980173",
+      "time": "2026-08-11T02:16:07.772492",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "How We Pushed CDC into Postgres",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.037928",
+      "time": "2026-08-11T02:16:07.921232",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.099913",
+      "time": "2026-08-11T02:16:08.067738",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.162169",
+      "time": "2026-08-11T02:16:08.225640",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.221248",
+      "time": "2026-08-11T02:16:08.369890",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49233423",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.284209",
+      "time": "2026-08-11T02:16:08.513303",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.350889",
+      "time": "2026-08-11T02:16:08.663892",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.419107",
+      "time": "2026-08-11T02:16:08.812535",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.479041",
+      "time": "2026-08-11T02:16:08.956997",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
       "source": "Hacker News",
-      "time": "2026-08-10T02:23:34.537031",
+      "time": "2026-08-11T02:16:09.105289",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-10T02:23:35.263084"
+  "updated_at": "2026-08-11T02:16:09.762326"
 }
