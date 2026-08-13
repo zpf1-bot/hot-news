@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:54.192704",
+      "time": "2026-08-13T02:33:38.800769",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:54.339187",
+      "time": "2026-08-13T02:33:38.905806",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:54.482065",
+      "time": "2026-08-13T02:33:39.014442",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:54.626118",
+      "time": "2026-08-13T02:33:39.139709",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
+      "title": "What's New in Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:54.771914",
+      "time": "2026-08-13T02:33:39.274163",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:54.917616",
+      "time": "2026-08-13T02:33:39.389759",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Making holograms with a pen plotter",
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:55.068025",
+      "time": "2026-08-13T02:33:39.498306",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "url": "https://photosynthesis.camera",
+      "title": "Build Wide, Ship Narrow",
+      "url": "https://adapt.com/blog/build-wide-ship-narrow",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:55.221718",
+      "time": "2026-08-13T02:33:39.605024",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Grok Bot",
-      "url": "https://x.ai/bot",
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:55.367382",
+      "time": "2026-08-13T02:33:39.717456",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-      "url": "https://line9.ai/diagram",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "source": "Hacker News",
-      "time": "2026-08-12T02:31:55.513976",
+      "time": "2026-08-13T02:33:39.821077",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-12T02:31:56.271977"
+  "updated_at": "2026-08-13T02:33:40.645018"
 }
