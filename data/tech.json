@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:38.800769",
+      "time": "2026-08-14T02:32:01.837205",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
+      "title": "Bluesky Protocol Services",
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:38.905806",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.014442",
+      "time": "2026-08-14T02:32:02.031577",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.139709",
+      "time": "2026-08-14T02:32:02.138271",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "What's New in Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.274163",
+      "time": "2026-08-14T02:32:02.283519",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.389759",
+      "time": "2026-08-14T02:32:02.794878",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.498306",
+      "time": "2026-08-14T02:32:02.965094",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Build Wide, Ship Narrow",
-      "url": "https://adapt.com/blog/build-wide-ship-narrow",
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.605024",
+      "time": "2026-08-14T02:32:03.086922",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.717456",
-      "heat": 600,
+      "time": "2026-08-14T02:32:03.296035",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "source": "Hacker News",
-      "time": "2026-08-13T02:33:39.821077",
-      "heat": 550,
+      "title": "flickzoz/mcp-guard",
+      "url": "https://github.com/flickzoz/mcp-guard",
+      "source": "GitHub",
+      "time": "2026-08-14T02:32:04.148559",
+      "heat": 70,
+      "category": "tech"
+    },
+    {
+      "title": "emailhayday10-coder/agent-doctor",
+      "url": "https://github.com/emailhayday10-coder/agent-doctor",
+      "source": "GitHub",
+      "time": "2026-08-14T02:32:04.148573",
+      "heat": 52,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-13T02:33:40.645353"
+  "updated_at": "2026-08-14T02:32:04.148985"
 }

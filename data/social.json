@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-08-13T02:33:40.645671"
+  "news": [
+    {
+      "title": "SparrowMap – Cameras that watch government vehicles",
+      "url": "https://sparrowmap.com/",
+      "source": "Hacker News",
+      "time": "2026-08-14T02:32:01.934673",
+      "heat": 950,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-14T02:32:04.149231"
 }
