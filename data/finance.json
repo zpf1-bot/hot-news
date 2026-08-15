@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "NP-overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "source": "Hacker News",
-      "time": "2026-08-14T02:32:03.187887",
-      "heat": 600,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-08-14T02:32:04.149149"
+  "news": [],
+  "updated_at": "2026-08-15T01:41:33.669937"
 }

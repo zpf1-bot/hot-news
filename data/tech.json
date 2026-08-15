@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:01.837205",
+      "time": "2026-08-15T01:41:31.315588",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:02.031577",
+      "time": "2026-08-15T01:41:31.650866",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:02.138271",
+      "time": "2026-08-15T01:41:31.821037",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
+      "title": "The Ploopy A+ Trackball Is Here",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:02.283519",
+      "time": "2026-08-15T01:41:32.047971",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "title": "The case for overhauling American science",
+      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:02.794878",
+      "time": "2026-08-15T01:41:32.236848",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:02.965094",
+      "time": "2026-08-15T01:41:32.421519",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:03.086922",
+      "time": "2026-08-15T01:41:32.608809",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "title": "RISC-V: They should have known better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
       "source": "Hacker News",
-      "time": "2026-08-14T02:32:03.296035",
+      "time": "2026-08-15T01:41:32.757009",
+      "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+      "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+      "source": "Hacker News",
+      "time": "2026-08-15T01:41:32.898991",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "flickzoz/mcp-guard",
-      "url": "https://github.com/flickzoz/mcp-guard",
+      "title": "KyroGeorge2/FIFA-13-Local-FUT",
+      "url": "https://github.com/KyroGeorge2/FIFA-13-Local-FUT",
       "source": "GitHub",
-      "time": "2026-08-14T02:32:04.148559",
-      "heat": 70,
-      "category": "tech"
-    },
-    {
-      "title": "emailhayday10-coder/agent-doctor",
-      "url": "https://github.com/emailhayday10-coder/agent-doctor",
-      "source": "GitHub",
-      "time": "2026-08-14T02:32:04.148573",
-      "heat": 52,
+      "time": "2026-08-15T01:41:33.669081",
+      "heat": 4,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-14T02:32:04.148985"
+  "updated_at": "2026-08-15T01:41:33.669634"
 }
