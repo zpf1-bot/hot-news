@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.494247",
-      "heat": 550,
+      "time": "2026-08-18T01:41:33.230616",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "Hacker News",
+      "time": "2026-08-18T01:41:33.466969",
+      "heat": 700,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-17T01:46:38.152335"
+  "updated_at": "2026-08-18T01:41:34.338219"
 }

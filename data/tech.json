@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The Life and Death of Direct File [pdf]",
-      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:36.734286",
+      "time": "2026-08-18T01:41:32.935936",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:36.895823",
+      "time": "2026-08-18T01:41:33.015866",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source": "Hacker News",
+      "time": "2026-08-18T01:41:33.095153",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:36.976861",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.062933",
+      "time": "2026-08-18T01:41:33.309333",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.143512",
+      "time": "2026-08-18T01:41:33.387841",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.239985",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Reticulum – Decentralized Mesh Network",
-      "url": "https://reticulum.network/",
-      "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.319428",
+      "time": "2026-08-18T01:41:33.551752",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "title": "The Road to MS-DOS 2.0",
+      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.407020",
+      "time": "2026-08-18T01:41:33.640431",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "noaa-apt/kiwi-reload",
-      "url": "https://github.com/noaa-apt/kiwi-reload",
-      "source": "GitHub",
-      "time": "2026-08-17T01:46:38.151520",
-      "heat": 5,
+      "title": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "source": "Hacker News",
+      "time": "2026-08-18T01:41:33.717166",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "isadev0/AioAuth-Ready-Auth-System",
-      "url": "https://github.com/isadev0/AioAuth-Ready-Auth-System",
+      "title": "optativa-universal/react-modal",
+      "url": "https://github.com/optativa-universal/react-modal",
       "source": "GitHub",
-      "time": "2026-08-17T01:46:38.151533",
-      "heat": 2,
+      "time": "2026-08-18T01:41:34.337367",
+      "heat": 4,
+      "category": "tech"
+    },
+    {
+      "title": "SiYusup/kerja-kelompok-belajar-git",
+      "url": "https://github.com/SiYusup/kerja-kelompok-belajar-git",
+      "source": "GitHub",
+      "time": "2026-08-18T01:41:34.337378",
+      "heat": 3,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-17T01:46:38.152068"
+  "updated_at": "2026-08-18T01:41:34.337921"
 }

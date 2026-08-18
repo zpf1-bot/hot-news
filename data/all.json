@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The Life and Death of Direct File [pdf]",
-      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:36.734286",
+      "time": "2026-08-18T01:41:32.935936",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:36.815824",
+      "time": "2026-08-18T01:41:33.015866",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:36.895823",
+      "time": "2026-08-18T01:41:33.095153",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:36.976861",
+      "time": "2026-08-18T01:41:33.230616",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.062933",
+      "time": "2026-08-18T01:41:33.309333",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.143512",
+      "time": "2026-08-18T01:41:33.387841",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.239985",
+      "time": "2026-08-18T01:41:33.466969",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Reticulum – Decentralized Mesh Network",
-      "url": "https://reticulum.network/",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.319428",
+      "time": "2026-08-18T01:41:33.551752",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "title": "The Road to MS-DOS 2.0",
+      "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.407020",
+      "time": "2026-08-18T01:41:33.640431",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "title": "Olo (Color)",
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
       "source": "Hacker News",
-      "time": "2026-08-17T01:46:37.494247",
+      "time": "2026-08-18T01:41:33.717166",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-17T01:46:38.151637"
+  "updated_at": "2026-08-18T01:41:34.337497"
 }
