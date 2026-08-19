@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "source": "Hacker News",
-      "time": "2026-08-18T01:41:33.230616",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "source": "Hacker News",
-      "time": "2026-08-18T01:41:33.466969",
-      "heat": 700,
+      "title": "McBee94/Crypto_Balance",
+      "url": "https://github.com/McBee94/Crypto_Balance",
+      "source": "GitHub",
+      "time": "2026-08-19T01:43:40.082223",
+      "heat": 3,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-18T01:41:34.338219"
+  "updated_at": "2026-08-19T01:43:40.083043"
 }

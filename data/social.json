@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-08-18T01:41:34.338451"
+  "news": [
+    {
+      "title": "lliq69/bytevirt-vps-selection",
+      "url": "https://github.com/lliq69/bytevirt-vps-selection",
+      "source": "GitHub",
+      "time": "2026-08-19T01:43:40.082233",
+      "heat": 1,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-19T01:43:40.083206"
 }
