@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:38.859155",
+      "time": "2026-08-20T01:42:09.758850",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:38.928932",
+      "time": "2026-08-20T01:42:09.857590",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.008389",
+      "time": "2026-08-20T01:42:09.955594",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Cerebras CS4",
-      "url": "https://www.cerebras.ai/cs4",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.071103",
+      "time": "2026-08-20T01:42:10.054081",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.132792",
+      "time": "2026-08-20T01:42:10.154835",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.213392",
+      "time": "2026-08-20T01:42:10.260700",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.272890",
+      "time": "2026-08-20T01:42:10.361780",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.356223",
+      "time": "2026-08-20T01:42:10.464798",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.416807",
+      "time": "2026-08-20T01:42:10.564399",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "url": "https://inco.ai/blog/dflash2/",
       "source": "Hacker News",
-      "time": "2026-08-19T01:43:39.478014",
+      "time": "2026-08-20T01:42:10.668699",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-19T01:43:40.082330"
+  "updated_at": "2026-08-20T01:42:11.728984"
 }
