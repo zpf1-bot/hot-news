@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:09.758850",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "source": "Hacker News",
-      "time": "2026-08-20T01:42:09.857590",
+      "time": "2026-08-21T01:47:26.370574",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "title": "There's no such thing as a small software team anymore",
+      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:09.955594",
+      "time": "2026-08-21T01:47:26.513108",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:10.054081",
+      "time": "2026-08-21T01:47:26.661588",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "title": "Leutenegger/vanity-eth",
+      "url": "https://github.com/Leutenegger/vanity-eth",
+      "source": "GitHub",
+      "time": "2026-08-21T01:47:28.501952",
+      "heat": 801,
+      "category": "tech"
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:10.154835",
+      "time": "2026-08-21T01:47:26.813401",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:10.260700",
+      "time": "2026-08-21T01:47:26.962424",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:10.361780",
+      "time": "2026-08-21T01:47:27.119196",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:10.464798",
+      "time": "2026-08-21T01:47:27.265298",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "title": "Stealth Model",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:10.564399",
+      "time": "2026-08-21T01:47:27.408942",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "url": "https://inco.ai/blog/dflash2/",
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
       "source": "Hacker News",
-      "time": "2026-08-20T01:42:10.668699",
+      "time": "2026-08-21T01:47:27.556499",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-20T01:42:11.729371"
+  "updated_at": "2026-08-21T01:47:28.502451"
 }
