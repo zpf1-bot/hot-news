@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The August 17 outage, and the work ahead",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:26.370574",
+      "time": "2026-08-22T01:40:57.521391",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "source": "Hacker News",
+      "time": "2026-08-22T01:40:57.618372",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "There's no such thing as a small software team anymore",
-      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:26.513108",
+      "time": "2026-08-22T01:40:57.713387",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:26.661588",
+      "time": "2026-08-22T01:40:57.804772",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Leutenegger/vanity-eth",
-      "url": "https://github.com/Leutenegger/vanity-eth",
-      "source": "GitHub",
-      "time": "2026-08-21T01:47:28.501952",
-      "heat": 801,
-      "category": "tech"
-    },
-    {
-      "title": "I like 'em thick: an apology to my English teachers",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:26.813401",
+      "time": "2026-08-22T01:40:57.895518",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:26.962424",
+      "time": "2026-08-22T01:40:57.990115",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:27.119196",
+      "time": "2026-08-22T01:40:58.085718",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
+      "title": "HN: The Good Parts (2016)",
+      "url": "https://danluu.com/hn-comments/",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:27.265298",
+      "time": "2026-08-22T01:40:58.173832",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Stealth Model",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:27.408942",
+      "time": "2026-08-22T01:40:58.268447",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
       "source": "Hacker News",
-      "time": "2026-08-21T01:47:27.556499",
+      "time": "2026-08-22T01:40:58.361265",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-21T01:47:28.502451"
+  "updated_at": "2026-08-22T01:40:58.949987"
 }
