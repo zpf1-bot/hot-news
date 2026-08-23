@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "url": "https://marcua.net/minitools/figmimic/",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:57.521391",
+      "time": "2026-08-23T01:50:42.283301",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:57.618372",
+      "time": "2026-08-23T01:50:42.423313",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:57.713387",
+      "time": "2026-08-23T01:50:42.585892",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:57.804772",
+      "time": "2026-08-23T01:50:42.734661",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:57.895518",
+      "time": "2026-08-23T01:50:42.883173",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:57.990115",
+      "time": "2026-08-23T01:50:43.027276",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:58.085718",
+      "time": "2026-08-23T01:50:43.169791",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "HN: The Good Parts (2016)",
-      "url": "https://danluu.com/hn-comments/",
+      "title": "I set a trap for a book-marketing scammer (2025)",
+      "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:58.173832",
+      "time": "2026-08-23T01:50:43.309259",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "title": "typ.ing",
+      "url": "https://typ.ing/",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:58.268447",
+      "time": "2026-08-23T01:50:43.454999",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
       "source": "Hacker News",
-      "time": "2026-08-22T01:40:58.361265",
+      "time": "2026-08-23T01:50:43.601905",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-22T01:40:58.949577"
+  "updated_at": "2026-08-23T01:50:44.288869"
 }
