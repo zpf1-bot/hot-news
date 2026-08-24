@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-      "url": "https://marcua.net/minitools/figmimic/",
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:42.283301",
+      "time": "2026-08-24T01:48:25.620811",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:42.423313",
+      "time": "2026-08-24T01:48:25.736532",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:42.585892",
+      "time": "2026-08-24T01:48:25.848954",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:42.734661",
+      "time": "2026-08-24T01:48:25.951444",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:42.883173",
+      "time": "2026-08-24T01:48:26.053812",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:43.027276",
+      "time": "2026-08-24T01:48:26.161431",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:43.169791",
+      "time": "2026-08-24T01:48:26.264551",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "typ.ing",
-      "url": "https://typ.ing/",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:43.454999",
+      "time": "2026-08-24T01:48:26.371761",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "source": "Hacker News",
+      "time": "2026-08-24T01:48:26.472750",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "RF Cafe",
-      "url": "https://www.rfcafe.com/",
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
       "source": "Hacker News",
-      "time": "2026-08-23T01:50:43.601905",
+      "time": "2026-08-24T01:48:26.566433",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "nicodapta/fleet_widget",
-      "url": "https://github.com/nicodapta/fleet_widget",
-      "source": "GitHub",
-      "time": "2026-08-23T01:50:44.288769",
-      "heat": 3,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-23T01:50:44.289232"
+  "updated_at": "2026-08-24T01:48:27.296234"
 }
