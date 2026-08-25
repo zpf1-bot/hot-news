@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-08-24T01:48:27.296681"
+  "news": [
+    {
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "source": "Hacker News",
+      "time": "2026-08-25T01:42:33.213250",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "Velocity07/Portfolio",
+      "url": "https://github.com/Velocity07/Portfolio",
+      "source": "GitHub",
+      "time": "2026-08-25T01:42:34.395256",
+      "heat": 1,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-25T01:42:34.396264"
 }

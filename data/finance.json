@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-08-24T01:48:27.296518"
+  "news": [
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "source": "Hacker News",
+      "time": "2026-08-25T01:42:33.049988",
+      "heat": 900,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-25T01:42:34.396079"
 }
