@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:32.882587",
+      "time": "2026-08-26T01:48:16.732686",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:32.963667",
+      "time": "2026-08-26T01:48:16.830614",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:33.127721",
+      "time": "2026-08-26T01:48:16.927869",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "source": "Hacker News",
+      "time": "2026-08-26T01:48:17.025660",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:33.296851",
+      "time": "2026-08-26T01:48:17.222147",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:33.381556",
+      "time": "2026-08-26T01:48:17.335880",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Where did all the public bathrooms go?",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:33.464705",
+      "time": "2026-08-26T01:48:17.432493",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:33.549047",
+      "time": "2026-08-26T01:48:17.530394",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Jabber/XMPP: 25 Years of Digital Independence",
-      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:33.636968",
+      "time": "2026-08-26T01:48:17.627492",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "pokemon225/ax-platform-mcp",
-      "url": "https://github.com/pokemon225/ax-platform-mcp",
+      "title": "byRyo/Brawl-Movement",
+      "url": "https://github.com/byRyo/Brawl-Movement",
       "source": "GitHub",
-      "time": "2026-08-25T01:42:34.395232",
+      "time": "2026-08-26T01:48:18.555026",
       "heat": 5,
-      "category": "tech"
-    },
-    {
-      "title": "1533120914/fhuman",
-      "url": "https://github.com/1533120914/fhuman",
-      "source": "GitHub",
-      "time": "2026-08-25T01:42:34.395244",
-      "heat": 3,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-25T01:42:34.395798"
+  "updated_at": "2026-08-26T01:48:18.555516"
 }

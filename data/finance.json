@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
       "source": "Hacker News",
-      "time": "2026-08-25T01:42:33.049988",
-      "heat": 900,
+      "time": "2026-08-26T01:48:17.123798",
+      "heat": 800,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-25T01:42:34.396079"
+  "updated_at": "2026-08-26T01:48:18.555814"
 }
