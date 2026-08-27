@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:16.732686",
+      "time": "2026-08-27T08:55:19.038654",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:16.830614",
+      "time": "2026-08-27T08:55:19.136353",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:16.927869",
+      "time": "2026-08-27T08:55:19.238151",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:17.025660",
+      "time": "2026-08-27T08:55:19.334197",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Black hole singularity is a surface not a point",
-      "url": "https://arxiv.org/abs/2608.21590",
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:17.222147",
+      "time": "2026-08-27T08:55:19.433228",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "source": "Hacker News",
+      "time": "2026-08-27T08:55:19.535823",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:17.335880",
+      "time": "2026-08-27T08:55:19.636415",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
+      "title": "U.S. State Department pauses immigrant visa applications",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:17.432493",
+      "time": "2026-08-27T08:55:19.739289",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
+      "title": "An ongoing 3D-printer AGPL violation",
+      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:17.530394",
+      "time": "2026-08-27T08:55:19.847433",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "title": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
       "source": "Hacker News",
-      "time": "2026-08-26T01:48:17.627492",
+      "time": "2026-08-27T08:55:19.949604",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "byRyo/Brawl-Movement",
-      "url": "https://github.com/byRyo/Brawl-Movement",
-      "source": "GitHub",
-      "time": "2026-08-26T01:48:18.555026",
-      "heat": 5,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-26T01:48:18.555516"
+  "updated_at": "2026-08-27T08:55:20.907667"
 }
