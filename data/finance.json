@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Sovereign Tech Agency invests €500k in Flatpak",
-      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-      "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.608805",
-      "heat": 850,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-08-28T11:07:53.668287"
+  "news": [],
+  "updated_at": "2026-08-29T06:52:30.678126"
 }

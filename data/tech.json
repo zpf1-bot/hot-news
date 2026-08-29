@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
-      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.370401",
+      "time": "2026-08-29T06:52:28.599419",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.451538",
+      "time": "2026-08-29T06:52:28.741181",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.518322",
+      "time": "2026-08-29T06:52:28.888708",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "507 Mechanical Movements",
-      "url": "https://507movements.com/",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.668041",
+      "time": "2026-08-29T06:52:29.031089",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "source": "Hacker News",
+      "time": "2026-08-29T06:52:29.173898",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.754610",
+      "time": "2026-08-29T06:52:29.312432",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.835799",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
-      "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.906935",
+      "time": "2026-08-29T06:52:29.607376",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Doctors are finally learning to manage antidepressant withdrawal",
-      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:52.968215",
+      "time": "2026-08-29T06:52:29.750761",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
       "source": "Hacker News",
-      "time": "2026-08-28T11:07:53.031766",
+      "time": "2026-08-29T06:52:29.895308",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "d4ncboz/jailbreak",
-      "url": "https://github.com/d4ncboz/jailbreak",
+      "title": "felixmelanson/crono-vision",
+      "url": "https://github.com/felixmelanson/crono-vision",
       "source": "GitHub",
-      "time": "2026-08-28T11:07:53.667035",
-      "heat": 50,
+      "time": "2026-08-29T06:52:30.677463",
+      "heat": 13,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-28T11:07:53.667908"
+  "updated_at": "2026-08-29T06:52:30.677923"
 }
