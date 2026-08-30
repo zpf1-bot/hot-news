@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-08-29T06:52:30.678126"
+  "news": [
+    {
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "source": "Hacker News",
+      "time": "2026-08-30T05:06:37.703526",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-08-30T05:06:38.502284"
 }

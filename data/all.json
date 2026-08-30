@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:28.599419",
+      "time": "2026-08-30T05:06:37.200648",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
+      "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:28.741181",
+      "time": "2026-08-30T05:06:37.291344",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:28.888708",
+      "time": "2026-08-30T05:06:37.370970",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.031089",
+      "time": "2026-08-30T05:06:37.457185",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Htmx 4.0",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.173898",
+      "time": "2026-08-30T05:06:37.538002",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "U.S. sanctions against the A/I Collective",
-      "url": "https://www.inventati.org/",
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.312432",
+      "time": "2026-08-30T05:06:37.620220",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.467668",
+      "time": "2026-08-30T05:06:37.703526",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "url": "https://github.com/gbin/defragger",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.607376",
+      "time": "2026-08-30T05:06:37.785820",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.750761",
+      "time": "2026-08-30T05:06:37.870265",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.895308",
+      "time": "2026-08-30T05:06:37.953681",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-29T06:52:30.677578"
+  "updated_at": "2026-08-30T05:06:38.501504"
 }

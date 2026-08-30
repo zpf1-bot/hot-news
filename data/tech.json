@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:28.599419",
+      "time": "2026-08-30T05:06:37.200648",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:28.741181",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "source": "Hacker News",
-      "time": "2026-08-29T06:52:28.888708",
+      "time": "2026-08-30T05:06:37.370970",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.031089",
+      "time": "2026-08-30T05:06:37.457185",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Htmx 4.0",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.173898",
+      "time": "2026-08-30T05:06:37.538002",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "U.S. sanctions against the A/I Collective",
-      "url": "https://www.inventati.org/",
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.312432",
+      "time": "2026-08-30T05:06:37.620220",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I accidentally turned LLM memory into program analysis",
-      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "url": "https://github.com/gbin/defragger",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.607376",
+      "time": "2026-08-30T05:06:37.785820",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.750761",
+      "time": "2026-08-30T05:06:37.870265",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.895308",
-      "heat": 550,
+      "title": "alphaparkinc/genpark-photorealistic-prompt-expansion-aesthetics-director-skill",
+      "url": "https://github.com/alphaparkinc/genpark-photorealistic-prompt-expansion-aesthetics-director-skill",
+      "source": "GitHub",
+      "time": "2026-08-30T05:06:38.501374",
+      "heat": 8,
       "category": "tech"
     },
     {
-      "title": "felixmelanson/crono-vision",
-      "url": "https://github.com/felixmelanson/crono-vision",
+      "title": "alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill",
+      "url": "https://github.com/alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill",
       "source": "GitHub",
-      "time": "2026-08-29T06:52:30.677463",
-      "heat": 13,
+      "time": "2026-08-30T05:06:38.501387",
+      "heat": 8,
+      "category": "tech"
+    },
+    {
+      "title": "alphaparkinc/genpark-multi-tenant-gitlab-webhook-event-router-skill",
+      "url": "https://github.com/alphaparkinc/genpark-multi-tenant-gitlab-webhook-event-router-skill",
+      "source": "GitHub",
+      "time": "2026-08-30T05:06:38.501389",
+      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-29T06:52:30.677923"
+  "updated_at": "2026-08-30T05:06:38.501929"
 }

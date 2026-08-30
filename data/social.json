@@ -1,13 +1,29 @@
 {
   "news": [
     {
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
       "source": "Hacker News",
-      "time": "2026-08-29T06:52:29.467668",
-      "heat": 700,
+      "time": "2026-08-30T05:06:37.291344",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "source": "Hacker News",
+      "time": "2026-08-30T05:06:37.953681",
+      "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "alphaparkinc/genpark-high-fidelity-neural-world-dynamics-simulator-skill",
+      "url": "https://github.com/alphaparkinc/genpark-high-fidelity-neural-world-dynamics-simulator-skill",
+      "source": "GitHub",
+      "time": "2026-08-30T05:06:38.501395",
+      "heat": 8,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-29T06:52:30.678241"
+  "updated_at": "2026-08-30T05:06:38.502494"
 }
