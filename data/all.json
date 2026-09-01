@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "title": "Fastpotify",
+      "url": "https://fastpotify.rocks/",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:30.870879",
+      "time": "2026-09-01T04:49:50.791533",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "P99 0 ms* autocomplete for 240M domain names",
-      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+      "url": "https://antigravity.google/docs/boost/",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:30.980228",
+      "time": "2026-09-01T04:49:50.874827",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.087926",
+      "time": "2026-09-01T04:49:50.952910",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "It takes 5 cloud services to hear my doorbell",
-      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.198005",
+      "time": "2026-09-01T04:49:51.036924",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.304647",
+      "time": "2026-09-01T04:49:51.121262",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "My hobby of building miniatures and taking pretty pictures",
-      "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+      "title": "Restroom Archive",
+      "url": "https://restroomarchive.com",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.416088",
+      "time": "2026-09-01T04:49:51.207845",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.519367",
+      "time": "2026-09-01T04:49:51.285144",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Internet centralization and the original sin of NAT",
-      "url": "https://dreamstation.systems/personal/ntppost.html",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.632576",
+      "time": "2026-09-01T04:49:51.366625",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "title": "Dwarf Fortress is getting the mother of all magic updates",
+      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.742233",
+      "time": "2026-09-01T04:49:51.453065",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "url": "https://github.com/fregacmols/RotaryCell",
       "source": "Hacker News",
-      "time": "2026-08-31T05:14:31.849825",
+      "time": "2026-09-01T04:49:51.530851",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-08-31T05:14:32.796354"
+  "updated_at": "2026-09-01T04:49:52.017278"
 }

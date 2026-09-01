@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-08-31T05:14:32.797025"
+  "news": [
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "source": "Hacker News",
+      "time": "2026-09-01T04:49:51.285144",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-09-01T04:49:52.018150"
 }
