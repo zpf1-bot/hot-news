@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Fastpotify",
-      "url": "https://fastpotify.rocks/",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "source": "Hacker News",
-      "time": "2026-09-01T04:49:50.791533",
+      "time": "2026-09-02T04:10:39.578305",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
-      "url": "https://antigravity.google/docs/boost/",
+      "title": "WebFPGA",
+      "url": "https://webfpga.io/",
       "source": "Hacker News",
-      "time": "2026-09-01T04:49:50.874827",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "source": "Hacker News",
-      "time": "2026-09-01T04:49:50.952910",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "source": "Hacker News",
-      "time": "2026-09-01T04:49:51.036924",
+      "time": "2026-09-02T04:10:40.018121",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Evidence of Fraud in an Influential Study About Procrastination",
-      "url": "https://datacolada.org/138",
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
       "source": "Hacker News",
-      "time": "2026-09-01T04:49:51.121262",
+      "time": "2026-09-02T04:10:40.161520",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Restroom Archive",
-      "url": "https://restroomarchive.com",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
       "source": "Hacker News",
-      "time": "2026-09-01T04:49:51.207845",
+      "time": "2026-09-02T04:10:40.310899",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
       "source": "Hacker News",
-      "time": "2026-09-01T04:49:51.366625",
+      "time": "2026-09-02T04:10:40.454041",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Hacker News",
+      "time": "2026-09-02T04:10:40.601241",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Dwarf Fortress is getting the mother of all magic updates",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+      "title": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
       "source": "Hacker News",
-      "time": "2026-09-01T04:49:51.453065",
+      "time": "2026-09-02T04:10:40.745947",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-      "url": "https://github.com/fregacmols/RotaryCell",
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
       "source": "Hacker News",
-      "time": "2026-09-01T04:49:51.530851",
+      "time": "2026-09-02T04:10:40.893807",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "AMAP-ML/DreamX-Creator",
-      "url": "https://github.com/AMAP-ML/DreamX-Creator",
+      "title": "Leoruiz197/1TIAPR-2026",
+      "url": "https://github.com/Leoruiz197/1TIAPR-2026",
       "source": "GitHub",
-      "time": "2026-09-01T04:49:52.017178",
-      "heat": 36,
+      "time": "2026-09-02T04:10:41.650867",
+      "heat": 18,
+      "category": "tech"
+    },
+    {
+      "title": "zeroa234/ryza-ai-revive",
+      "url": "https://github.com/zeroa234/ryza-ai-revive",
+      "source": "GitHub",
+      "time": "2026-09-02T04:10:41.650878",
+      "heat": 7,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-01T04:49:52.017699"
+  "updated_at": "2026-09-02T04:10:41.651380"
 }

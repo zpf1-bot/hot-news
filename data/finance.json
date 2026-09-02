@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "FractionDefender2/crypto-arbitrage-scanner",
-      "url": "https://github.com/FractionDefender2/crypto-arbitrage-scanner",
-      "source": "GitHub",
-      "time": "2026-09-01T04:49:52.017194",
-      "heat": 23,
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "source": "Hacker News",
+      "time": "2026-09-02T04:10:39.727181",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "True Rate of Unemployment",
+      "url": "https://www.lisep.org/tru",
+      "source": "Hacker News",
+      "time": "2026-09-02T04:10:39.870768",
+      "heat": 900,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-01T04:49:52.017977"
+  "updated_at": "2026-09-02T04:10:41.651657"
 }
