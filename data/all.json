@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:15.531335",
+      "time": "2026-09-05T04:09:37.804381",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:15.623868",
+      "time": "2026-09-05T04:09:37.910071",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Project Xanadu: Even More Hindsight",
-      "url": "https://gwern.net/xanadu",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:15.731498",
+      "time": "2026-09-05T04:09:38.012710",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:15.826034",
+      "time": "2026-09-05T04:09:38.120035",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "A Mysterious Kidney Disease Has Arrived in Texas",
-      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+      "title": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:15.915990",
+      "time": "2026-09-05T04:09:38.248401",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:16.018957",
+      "time": "2026-09-05T04:09:38.362336",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:16.110178",
+      "time": "2026-09-05T04:09:38.478733",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "How an MIT research project became the Julia programming language",
-      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:16.202861",
+      "time": "2026-09-05T04:09:38.601859",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "From Hookswitch to Grave",
-      "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+      "title": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:16.301850",
+      "time": "2026-09-05T04:09:38.694333",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "source": "Hacker News",
-      "time": "2026-09-04T04:13:16.404165",
+      "time": "2026-09-05T04:09:38.827197",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-04T04:13:16.935130"
+  "updated_at": "2026-09-05T04:09:39.439322"
 }
