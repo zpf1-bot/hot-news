@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-09-06T04:17:38.055794"
+  "news": [
+    {
+      "title": "rifkydelta/mcp-stockbit",
+      "url": "https://github.com/rifkydelta/mcp-stockbit",
+      "source": "GitHub",
+      "time": "2026-09-07T04:16:49.702194",
+      "heat": 10,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-09-07T04:16:49.702980"
 }
