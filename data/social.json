@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-09-07T04:16:49.703166"
+  "news": [
+    {
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "source": "Hacker News",
+      "time": "2026-09-08T04:17:22.855861",
+      "heat": 600,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-09-08T04:17:23.515183"
 }

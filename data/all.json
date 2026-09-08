@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.289156",
+      "time": "2026-09-08T04:17:22.195608",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.372804",
+      "time": "2026-09-08T04:17:22.280135",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The NX bit is not just about security",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.457151",
+      "time": "2026-09-08T04:17:22.359497",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.534701",
+      "time": "2026-09-08T04:17:22.443611",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.618468",
+      "time": "2026-09-08T04:17:22.529957",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.701467",
+      "time": "2026-09-08T04:17:22.613150",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I'm a seeing-eye dog for a computer",
-      "url": "https://claytonwramsey.com/blog/seeing-eye/",
+      "title": "A Screensaver for LG's Spying Smart TVs",
+      "url": "https://weowntheglass.com",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.788081",
+      "time": "2026-09-08T04:17:22.696558",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.875446",
+      "time": "2026-09-08T04:17:22.777851",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "url": "https://github.com/marsbos/mador",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:48.958471",
+      "time": "2026-09-08T04:17:22.855861",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
       "source": "Hacker News",
-      "time": "2026-09-07T04:16:49.048404",
+      "time": "2026-09-08T04:17:22.933664",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-07T04:16:49.702286"
+  "updated_at": "2026-09-08T04:17:23.514326"
 }
