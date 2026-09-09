@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.195608",
+      "time": "2026-09-09T04:23:07.691270",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.280135",
+      "time": "2026-09-09T04:23:07.772957",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.359497",
+      "time": "2026-09-09T04:23:07.859188",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.443611",
+      "time": "2026-09-09T04:23:07.937921",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "John Margolies' photographs of roadside America",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.529957",
+      "time": "2026-09-09T04:23:08.025351",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.613150",
+      "time": "2026-09-09T04:23:08.109723",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "A Screensaver for LG's Spying Smart TVs",
-      "url": "https://weowntheglass.com",
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.696558",
+      "time": "2026-09-09T04:23:08.192157",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.777851",
+      "time": "2026-09-09T04:23:08.281637",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+      "url": "https://gpu-lexer.vercel.app/",
       "source": "Hacker News",
-      "time": "2026-09-08T04:17:22.933664",
-      "heat": 550,
+      "time": "2026-09-09T04:23:08.377574",
+      "heat": 600,
       "category": "tech"
     },
     {
-      "title": "rsamwilson2323-cloud/train-track-builder",
-      "url": "https://github.com/rsamwilson2323-cloud/train-track-builder",
-      "source": "GitHub",
-      "time": "2026-09-08T04:17:23.514197",
-      "heat": 5,
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "source": "Hacker News",
+      "time": "2026-09-09T04:23:08.458496",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-08T04:17:23.514754"
+  "updated_at": "2026-09-09T04:23:09.147113"
 }
