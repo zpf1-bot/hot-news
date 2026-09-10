@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Trees use a \"muscle\", tension wood, to correct their posture",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:07.691270",
+      "time": "2026-09-10T04:20:22.821850",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:07.772957",
+      "time": "2026-09-10T04:20:22.927654",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:07.859188",
+      "time": "2026-09-10T04:20:23.030898",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "How to build a printer",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:07.937921",
+      "time": "2026-09-10T04:20:23.136030",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:08.025351",
+      "time": "2026-09-10T04:20:23.237883",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:08.109723",
+      "time": "2026-09-10T04:20:23.341394",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Mercury 2.5",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "title": "Show HN: Compute polynomials twice as fast",
+      "url": "https://thomasahle.com/fast-polynomials/",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:08.192157",
+      "time": "2026-09-10T04:20:23.445049",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "An Accidental Blackboard",
-      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:08.281637",
+      "time": "2026-09-10T04:20:23.562274",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-      "url": "https://gpu-lexer.vercel.app/",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:08.377574",
+      "time": "2026-09-10T04:20:23.663577",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "DaVinci Resolve 21.1",
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
       "source": "Hacker News",
-      "time": "2026-09-09T04:23:08.458496",
+      "time": "2026-09-10T04:20:23.765816",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-09T04:23:09.146707"
+  "updated_at": "2026-09-10T04:20:24.580640"
 }
