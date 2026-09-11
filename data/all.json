@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:22.821850",
+      "time": "2026-09-11T04:19:44.065851",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:22.927654",
+      "time": "2026-09-11T04:19:44.145216",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "title": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "source": "GitHub",
+      "time": "2026-09-11T04:19:45.466350",
+      "heat": 917,
+      "category": "tech"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.030898",
+      "time": "2026-09-11T04:19:44.224056",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.136030",
+      "time": "2026-09-11T04:19:44.335862",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.237883",
+      "time": "2026-09-11T04:19:44.421004",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.341394",
+      "time": "2026-09-11T04:19:44.505490",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: Compute polynomials twice as fast",
-      "url": "https://thomasahle.com/fast-polynomials/",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.445049",
+      "time": "2026-09-11T04:19:44.590920",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.562274",
+      "time": "2026-09-11T04:19:44.671239",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
       "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.663577",
+      "time": "2026-09-11T04:19:44.759916",
       "heat": 600,
-      "category": "tech"
-    },
-    {
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "source": "Hacker News",
-      "time": "2026-09-10T04:20:23.765816",
-      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-10T04:20:24.580640"
+  "updated_at": "2026-09-11T04:19:45.466478"
 }

@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-09-10T04:20:24.581333"
+  "news": [
+    {
+      "title": "Faizpi/bank-sampah",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "source": "GitHub",
+      "time": "2026-09-11T04:19:45.466350",
+      "heat": 917,
+      "category": "tech"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "source": "Hacker News",
+      "time": "2026-09-11T04:19:44.224056",
+      "heat": 900,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-09-11T04:19:45.467147"
 }
