@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Google no longer provides direct URLs in search results",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:27.650916",
+      "time": "2026-09-13T04:31:52.514509",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:27.973633",
+      "time": "2026-09-13T04:31:52.638513",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Pandas Should Go Extinct",
-      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:28.124831",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "source": "Hacker News",
-      "time": "2026-09-12T04:18:28.287427",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "source": "Hacker News",
-      "time": "2026-09-12T04:18:28.409232",
+      "time": "2026-09-13T04:31:52.969037",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:28.554715",
+      "time": "2026-09-13T04:31:53.074149",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "title": "From Git to Fossil",
+      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:28.717274",
+      "time": "2026-09-13T04:31:53.182422",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "title": "The Succession Crisis That Tore England Apart",
+      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:28.853002",
+      "time": "2026-09-13T04:31:53.288989",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:29.055332",
+      "time": "2026-09-13T04:31:53.407715",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Project Blinkenlights",
-      "url": "https://blinkenlights.de/en/",
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
       "source": "Hacker News",
-      "time": "2026-09-12T04:18:29.204505",
+      "time": "2026-09-13T04:31:53.517320",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "kevincox2/facebook-reporting",
+      "url": "https://github.com/kevincox2/facebook-reporting",
+      "source": "GitHub",
+      "time": "2026-09-13T04:31:54.416430",
+      "heat": 26,
+      "category": "tech"
+    },
+    {
+      "title": "Monkkim/agent2-new",
+      "url": "https://github.com/Monkkim/agent2-new",
+      "source": "GitHub",
+      "time": "2026-09-13T04:31:54.416443",
+      "heat": 11,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-12T04:18:29.922522"
+  "updated_at": "2026-09-13T04:31:54.416873"
 }
