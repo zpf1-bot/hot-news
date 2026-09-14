@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "Hacker News",
-      "time": "2026-09-13T04:31:52.757886",
-      "heat": 900,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-09-13T04:31:54.417135"
+  "news": [],
+  "updated_at": "2026-09-14T04:38:05.236723"
 }

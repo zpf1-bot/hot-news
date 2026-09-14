@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "Hacker News",
-      "time": "2026-09-13T04:31:52.866044",
-      "heat": 850,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-09-13T04:31:54.417043"
+  "news": [],
+  "updated_at": "2026-09-14T04:38:05.236638"
 }
