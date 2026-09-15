@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:03.112472",
+      "time": "2026-09-15T04:38:31.226607",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:03.250654",
+      "time": "2026-09-15T04:38:31.337170",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:03.405442",
+      "time": "2026-09-15T04:38:31.451954",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:03.552364",
+      "time": "2026-09-15T04:38:31.561377",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "title": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
+      "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:03.699576",
+      "time": "2026-09-15T04:38:31.693487",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Open-Source AI and Open Models Reading List",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:03.883714",
+      "time": "2026-09-15T04:38:31.840272",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:04.010384",
+      "time": "2026-09-15T04:38:32.046858",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Apple's Dimensional Drawings",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:04.110601",
+      "time": "2026-09-15T04:38:32.223075",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:04.263529",
+      "time": "2026-09-15T04:38:32.349064",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Malicious Use of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/1802.07228",
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
       "source": "Hacker News",
-      "time": "2026-09-14T04:38:04.407946",
+      "time": "2026-09-15T04:38:32.479177",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-14T04:38:05.236053"
+  "updated_at": "2026-09-15T04:38:33.135225"
 }
