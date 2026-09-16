@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
-      "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
-      "source": "Hacker News",
-      "time": "2026-09-15T04:38:31.693487",
-      "heat": 800,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-09-15T04:38:33.135931"
+  "news": [],
+  "updated_at": "2026-09-16T04:33:40.739718"
 }

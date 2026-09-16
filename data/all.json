@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:31.226607",
+      "time": "2026-09-16T04:33:39.466215",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:31.337170",
+      "time": "2026-09-16T04:33:39.550742",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:31.451954",
+      "time": "2026-09-16T04:33:39.632494",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:31.561377",
+      "time": "2026-09-16T04:33:39.716383",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
-      "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:31.693487",
+      "time": "2026-09-16T04:33:39.796854",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:31.840272",
+      "time": "2026-09-16T04:33:39.878654",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:32.046858",
+      "time": "2026-09-16T04:33:39.963328",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:32.223075",
+      "time": "2026-09-16T04:33:40.043309",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:32.349064",
+      "time": "2026-09-16T04:33:40.124161",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
       "source": "Hacker News",
-      "time": "2026-09-15T04:38:32.479177",
+      "time": "2026-09-16T04:33:40.208062",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-15T04:38:33.135225"
+  "updated_at": "2026-09-16T04:33:40.739083"
 }
