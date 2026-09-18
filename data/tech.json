@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "url": "https://ryan.science/blog/keys-not-included",
+      "title": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.097711",
+      "time": "2026-09-18T04:24:22.528886",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.191689",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "The Painful Truth: The RAM Crisis Is Only Just the Beginning",
-      "url": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
-      "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.291631",
+      "time": "2026-09-18T04:24:22.794745",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.382859",
+      "time": "2026-09-18T04:24:23.004109",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.475838",
+      "time": "2026-09-18T04:24:23.170027",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.563721",
+      "time": "2026-09-18T04:24:23.340077",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.652822",
+      "time": "2026-09-18T04:24:23.445182",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
+      "title": "Waymo in Singapore",
+      "url": "https://waymo.com/waymo-in-singapore/",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.741842",
+      "time": "2026-09-18T04:24:23.594883",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Small programming tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.833799",
+      "time": "2026-09-18T04:24:23.762969",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Developing provably correct Rust code with Verus",
-      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
       "source": "Hacker News",
-      "time": "2026-09-17T04:38:57.927753",
+      "time": "2026-09-18T04:24:23.868814",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "imbbbbb/BarBar-support",
+      "url": "https://github.com/imbbbbb/BarBar-support",
+      "source": "GitHub",
+      "time": "2026-09-18T04:24:24.478328",
+      "heat": 17,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-17T04:38:58.560164"
+  "updated_at": "2026-09-18T04:24:24.478891"
 }

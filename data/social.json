@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-09-17T04:38:58.560611"
+  "news": [
+    {
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "source": "Hacker News",
+      "time": "2026-09-18T04:24:22.636942",
+      "heat": 950,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-09-18T04:24:24.479363"
 }
