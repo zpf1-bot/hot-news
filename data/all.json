@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:22.528886",
+      "time": "2026-09-19T04:21:25.213207",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:22.636942",
+      "time": "2026-09-19T04:21:25.365599",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:22.794745",
+      "time": "2026-09-19T04:21:25.461688",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:23.004109",
+      "time": "2026-09-19T04:21:25.616599",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:23.170027",
+      "time": "2026-09-19T04:21:25.758547",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Alibaba releases Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:23.340077",
+      "time": "2026-09-19T04:21:25.906096",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Wax motor",
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:23.445182",
+      "time": "2026-09-19T04:21:26.059327",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Waymo in Singapore",
-      "url": "https://waymo.com/waymo-in-singapore/",
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "url": "https://liveworld.info/",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:23.594883",
+      "time": "2026-09-19T04:21:26.154598",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:23.762969",
+      "time": "2026-09-19T04:21:26.296812",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
       "source": "Hacker News",
-      "time": "2026-09-18T04:24:23.868814",
+      "time": "2026-09-19T04:21:26.462968",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-18T04:24:24.478466"
+  "updated_at": "2026-09-19T04:21:27.155558"
 }
