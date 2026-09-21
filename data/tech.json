@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:52.987998",
+      "time": "2026-09-21T04:38:16.107584",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "source": "Hacker News",
+      "time": "2026-09-21T04:38:16.212355",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "English: A vs. An",
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:53.133401",
+      "time": "2026-09-21T04:38:16.326212",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
-      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:53.278619",
+      "time": "2026-09-21T04:38:16.429301",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Measure internet censorship",
-      "url": "https://ooni.org/install",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:53.428231",
+      "time": "2026-09-21T04:38:16.529625",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
+      "title": "The Effect of CRTs on Pixel Art (2024)",
+      "url": "https://datagubbe.se/crt/",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:53.572859",
+      "time": "2026-09-21T04:38:16.637409",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:53.721120",
-      "heat": 700,
+      "time": "2026-09-21T04:38:16.835377",
+      "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:54.008749",
+      "time": "2026-09-21T04:38:16.934141",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "An open source roguelike adventure through dungeons",
-      "url": "https://crawl.develz.org/",
+      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:54.153461",
+      "time": "2026-09-21T04:38:17.034171",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "nathanlab2/facebook-reporting-bot",
-      "url": "https://github.com/nathanlab2/facebook-reporting-bot",
+      "title": "walkinglabs/university-skill",
+      "url": "https://github.com/walkinglabs/university-skill",
       "source": "GitHub",
-      "time": "2026-09-20T04:39:54.683523",
-      "heat": 35,
-      "category": "tech"
-    },
-    {
-      "title": "Haruka-Network/CrispAI",
-      "url": "https://github.com/Haruka-Network/CrispAI",
-      "source": "GitHub",
-      "time": "2026-09-20T04:39:54.683532",
-      "heat": 10,
+      "time": "2026-09-21T04:38:17.844878",
+      "heat": 12,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-20T04:39:54.683991"
+  "updated_at": "2026-09-21T04:38:17.845391"
 }

