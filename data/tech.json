@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.107584",
+      "time": "2026-09-22T04:34:12.398973",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.212355",
+      "time": "2026-09-22T04:34:12.506604",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.326212",
+      "time": "2026-09-22T04:34:12.614324",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.429301",
+      "time": "2026-09-22T04:34:12.714218",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.529625",
+      "time": "2026-09-22T04:34:12.822899",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "url": "https://datagubbe.se/crt/",
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.637409",
+      "time": "2026-09-22T04:34:12.929745",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.835377",
+      "time": "2026-09-22T04:34:13.034348",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "url": "https://gwern.net/blog/2022/pdf-forgery",
+      "source": "Hacker News",
+      "time": "2026-09-22T04:34:13.137574",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:16.934141",
+      "time": "2026-09-22T04:34:13.239766",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "source": "Hacker News",
-      "time": "2026-09-21T04:38:17.034171",
+      "time": "2026-09-22T04:34:13.341771",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "walkinglabs/university-skill",
-      "url": "https://github.com/walkinglabs/university-skill",
-      "source": "GitHub",
-      "time": "2026-09-21T04:38:17.844878",
-      "heat": 12,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-21T04:38:17.845391"
+  "updated_at": "2026-09-22T04:34:14.123258"
 }
