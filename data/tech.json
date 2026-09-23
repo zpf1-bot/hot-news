@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:12.398973",
+      "time": "2026-09-23T04:30:27.975673",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:12.506604",
+      "time": "2026-09-23T04:30:28.079477",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:12.614324",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "source": "Hacker News",
-      "time": "2026-09-22T04:34:12.714218",
+      "time": "2026-09-23T04:30:28.287336",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:12.822899",
+      "time": "2026-09-23T04:30:28.410876",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
+      "title": "Transit rewards (Waymo pays you to take the train)",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:12.929745",
+      "time": "2026-09-23T04:30:28.521552",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:13.034348",
+      "time": "2026-09-23T04:30:28.629236",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-      "url": "https://gwern.net/blog/2022/pdf-forgery",
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "url": "https://github.com/xCuri0/ReBarUEFI",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:13.137574",
+      "time": "2026-09-23T04:30:28.731164",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "title": "Data-Only Attacks Are Easier Than You Think",
+      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:13.239766",
+      "time": "2026-09-23T04:30:28.842382",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
       "source": "Hacker News",
-      "time": "2026-09-22T04:34:13.341771",
+      "time": "2026-09-23T04:30:28.948515",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "joinboatwrightcheer/graveyard-keeper-2-modkit",
+      "url": "https://github.com/joinboatwrightcheer/graveyard-keeper-2-modkit",
+      "source": "GitHub",
+      "time": "2026-09-23T04:30:29.805025",
+      "heat": 44,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-22T04:34:14.123258"
+  "updated_at": "2026-09-23T04:30:29.805451"
 }
