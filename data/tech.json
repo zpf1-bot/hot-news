@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:27.975673",
+      "time": "2026-09-24T04:27:49.146652",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.079477",
+      "time": "2026-09-24T04:27:49.242220",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
+      "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.287336",
+      "time": "2026-09-24T04:27:49.433149",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.410876",
+      "time": "2026-09-24T04:27:49.525043",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Transit rewards (Waymo pays you to take the train)",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.521552",
+      "time": "2026-09-24T04:27:49.618411",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.629236",
+      "time": "2026-09-24T04:27:49.723362",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.731164",
+      "time": "2026-09-24T04:27:49.813451",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Data-Only Attacks Are Easier Than You Think",
-      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "title": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.842382",
+      "time": "2026-09-24T04:27:49.907563",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "title": "Making portable my unportable transputer C compiler",
+      "url": "https://nanochess.org/transputer_c_compiler.html",
       "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.948515",
+      "time": "2026-09-24T04:27:50.007758",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "joinboatwrightcheer/graveyard-keeper-2-modkit",
-      "url": "https://github.com/joinboatwrightcheer/graveyard-keeper-2-modkit",
+      "title": "MIT-CDFG/Survey-AI-for-3D-modeling-Robotics",
+      "url": "https://github.com/MIT-CDFG/Survey-AI-for-3D-modeling-Robotics",
       "source": "GitHub",
-      "time": "2026-09-23T04:30:29.805025",
-      "heat": 44,
+      "time": "2026-09-24T04:27:50.599382",
+      "heat": 10,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-23T04:30:29.805451"
+  "updated_at": "2026-09-24T04:27:50.599875"
 }

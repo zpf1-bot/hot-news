@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
-      "source": "Hacker News",
-      "time": "2026-09-23T04:30:28.186099",
-      "heat": 900,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-09-23T04:30:29.805686"
+  "news": [],
+  "updated_at": "2026-09-24T04:27:50.600304"
 }
