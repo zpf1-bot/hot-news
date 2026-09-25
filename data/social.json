@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-09-24T04:27:50.600304"
+  "news": [
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "source": "Hacker News",
+      "time": "2026-09-25T04:39:22.240181",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-09-25T04:39:24.391976"
 }

@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.146652",
+      "time": "2026-09-25T04:39:21.561205",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.242220",
+      "time": "2026-09-25T04:39:21.669472",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.333739",
+      "time": "2026-09-25T04:39:21.781937",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-      "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.433149",
+      "time": "2026-09-25T04:39:21.898266",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.525043",
+      "time": "2026-09-25T04:39:22.012156",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.618411",
+      "time": "2026-09-25T04:39:22.127656",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.723362",
+      "time": "2026-09-25T04:39:22.240181",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.813451",
+      "time": "2026-09-25T04:39:22.355234",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:49.907563",
+      "time": "2026-09-25T04:39:23.361647",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Making portable my unportable transputer C compiler",
-      "url": "https://nanochess.org/transputer_c_compiler.html",
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
       "source": "Hacker News",
-      "time": "2026-09-24T04:27:50.007758",
+      "time": "2026-09-25T04:39:23.481896",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-24T04:27:50.599486"
+  "updated_at": "2026-09-25T04:39:24.391217"
 }
