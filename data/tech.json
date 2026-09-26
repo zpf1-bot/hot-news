@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:21.561205",
+      "time": "2026-09-26T04:42:12.413430",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:21.669472",
+      "time": "2026-09-26T04:42:12.527844",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:21.781937",
+      "time": "2026-09-26T04:42:12.641839",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:21.898266",
+      "time": "2026-09-26T04:42:12.754700",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:22.012156",
+      "time": "2026-09-26T04:42:12.869623",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:22.127656",
+      "time": "2026-09-26T04:42:12.986011",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:22.355234",
+      "time": "2026-09-26T04:42:13.123178",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Postgres SELECT DISTINCT Does Not Scale",
+      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "source": "Hacker News",
+      "time": "2026-09-26T04:42:13.235613",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:23.361647",
+      "time": "2026-09-26T04:42:13.350722",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "title": "Two and a half years without a gallbladder",
+      "url": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
       "source": "Hacker News",
-      "time": "2026-09-25T04:39:23.481896",
+      "time": "2026-09-26T04:42:13.462870",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "architectds/collabosm",
-      "url": "https://github.com/architectds/collabosm",
-      "source": "GitHub",
-      "time": "2026-09-25T04:39:24.391100",
-      "heat": 21,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-25T04:39:24.391614"
+  "updated_at": "2026-09-26T04:42:14.080602"
 }
