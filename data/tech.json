@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:12.413430",
+      "time": "2026-09-27T05:03:45.753521",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "We're gonna need a lot more mathematicians",
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:12.527844",
+      "time": "2026-09-27T05:03:45.852978",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:12.641839",
+      "time": "2026-09-27T05:03:45.967966",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:12.754700",
+      "time": "2026-09-27T05:03:46.062391",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:12.869623",
+      "time": "2026-09-27T05:03:46.163924",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:12.986011",
+      "time": "2026-09-27T05:03:46.257582",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "title": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:13.123178",
+      "time": "2026-09-27T05:03:46.356958",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Postgres SELECT DISTINCT Does Not Scale",
-      "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:13.235613",
+      "time": "2026-09-27T05:03:46.453917",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:13.350722",
+      "time": "2026-09-27T05:03:46.551383",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Two and a half years without a gallbladder",
-      "url": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "url": "https://francisbach.com/spectral_log_density_estimation/",
       "source": "Hacker News",
-      "time": "2026-09-26T04:42:13.462870",
+      "time": "2026-09-27T05:03:46.643925",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-26T04:42:14.080602"
+  "updated_at": "2026-09-27T05:03:47.303511"
 }
