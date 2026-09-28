@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-09-27T05:03:47.303801"
+  "news": [
+    {
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "source": "Hacker News",
+      "time": "2026-09-28T05:05:38.351673",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "alphaparkinc/genpark-deadlock-detector-banker-resource-graph-skill",
+      "url": "https://github.com/alphaparkinc/genpark-deadlock-detector-banker-resource-graph-skill",
+      "source": "GitHub",
+      "time": "2026-09-28T05:05:40.447802",
+      "heat": 7,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-09-28T05:05:40.448557"
 }

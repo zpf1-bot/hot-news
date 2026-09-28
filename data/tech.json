@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "url": "https://arxiv.org/abs/2110.01834",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:45.753521",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "source": "Hacker News",
-      "time": "2026-09-27T05:03:45.852978",
+      "time": "2026-09-28T05:05:38.724169",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:45.967966",
+      "time": "2026-09-28T05:05:38.902091",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:46.062391",
+      "time": "2026-09-28T05:05:39.157665",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "If we do not stop to help each other, what do we become?",
-      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:46.163924",
+      "time": "2026-09-28T05:05:39.341824",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:46.257582",
+      "time": "2026-09-28T05:05:39.436832",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "What is the size of Yemen? (2024)",
-      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "title": "There is more to code review than (automatable) detection",
+      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:46.356958",
+      "time": "2026-09-28T05:05:39.527058",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:46.453917",
+      "time": "2026-09-28T05:05:39.622307",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
       "source": "Hacker News",
-      "time": "2026-09-27T05:03:46.551383",
-      "heat": 600,
+      "time": "2026-09-28T05:05:39.807125",
+      "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
-      "url": "https://francisbach.com/spectral_log_density_estimation/",
-      "source": "Hacker News",
-      "time": "2026-09-27T05:03:46.643925",
-      "heat": 550,
+      "title": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+      "url": "https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+      "source": "GitHub",
+      "time": "2026-09-28T05:05:40.447780",
+      "heat": 201,
+      "category": "tech"
+    },
+    {
+      "title": "Alpha-Park/genpark-hubx-ai-apps-orchestration-skill",
+      "url": "https://github.com/Alpha-Park/genpark-hubx-ai-apps-orchestration-skill",
+      "source": "GitHub",
+      "time": "2026-09-28T05:05:40.447792",
+      "heat": 7,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-27T05:03:47.303511"
+  "updated_at": "2026-09-28T05:05:40.448291"
 }
