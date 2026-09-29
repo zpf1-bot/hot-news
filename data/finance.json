@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:38.351673",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "alphaparkinc/genpark-deadlock-detector-banker-resource-graph-skill",
-      "url": "https://github.com/alphaparkinc/genpark-deadlock-detector-banker-resource-graph-skill",
-      "source": "GitHub",
-      "time": "2026-09-28T05:05:40.447802",
-      "heat": 7,
+      "time": "2026-09-29T05:29:24.968799",
+      "heat": 900,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-28T05:05:40.448557"
+  "updated_at": "2026-09-29T05:29:26.356685"
 }

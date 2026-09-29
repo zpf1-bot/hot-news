@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:38.351673",
+      "time": "2026-09-29T05:29:24.805151",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
-      "url": "https://arxiv.org/abs/2110.01834",
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:38.724169",
+      "time": "2026-09-29T05:29:24.886647",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:38.902091",
+      "time": "2026-09-29T05:29:24.968799",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Nissan's third generation e-POWER powertrain",
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "url": "https://lolchat.rip/",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:39.157665",
+      "time": "2026-09-29T05:29:25.051188",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:39.341824",
+      "time": "2026-09-29T05:29:25.150263",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:39.436832",
+      "time": "2026-09-29T05:29:25.233676",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "There is more to code review than (automatable) detection",
-      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "title": "Tank Body Problem",
+      "url": "http://www.jimsitu.com",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:39.527058",
+      "time": "2026-09-29T05:29:25.320462",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:39.622307",
+      "time": "2026-09-29T05:29:25.455558",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
-      "url": "https://www.inkandswitch.com/essay/malleable-software/",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:39.712483",
+      "time": "2026-09-29T05:29:25.611139",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Don't couple your Go code to GitHub",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
       "source": "Hacker News",
-      "time": "2026-09-28T05:05:39.807125",
+      "time": "2026-09-29T05:29:25.725991",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-28T05:05:40.447897"
+  "updated_at": "2026-09-29T05:29:26.355991"
 }
