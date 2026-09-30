@@ -1,13 +1,21 @@
 {
   "news": [
     {
-      "title": "Pirating the Pirates",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
       "source": "Hacker News",
-      "time": "2026-09-29T05:29:24.968799",
-      "heat": 900,
+      "time": "2026-09-30T05:17:59.313322",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "source": "Hacker News",
+      "time": "2026-09-30T05:17:59.877822",
+      "heat": 700,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-29T05:29:26.356685"
+  "updated_at": "2026-09-30T05:18:01.871733"
 }
