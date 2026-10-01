@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.313322",
+      "time": "2026-10-01T05:32:26.170832",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "LinkedIn Larpmaxxing",
-      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.424687",
+      "time": "2026-10-01T05:32:26.274834",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.516094",
+      "time": "2026-10-01T05:32:26.380514",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.605039",
+      "time": "2026-10-01T05:32:26.484927",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/#transition",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.692328",
+      "time": "2026-10-01T05:32:26.591139",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.789914",
+      "time": "2026-10-01T05:32:26.711247",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.877822",
+      "time": "2026-10-01T05:32:26.822735",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "title": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
       "source": "Hacker News",
-      "time": "2026-09-30T05:17:59.972229",
+      "time": "2026-10-01T05:32:26.928651",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "America.gov",
-      "url": "https://america.gov/",
+      "title": "TUI Games in 80x24",
+      "url": "https://www.incredible.rs/#blog/tui-games-in-80x24.md",
       "source": "Hacker News",
-      "time": "2026-09-30T05:18:00.061554",
+      "time": "2026-10-01T05:32:27.036414",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
+      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+      "url": "https://github.com/TantrixAuto/yantra",
       "source": "Hacker News",
-      "time": "2026-09-30T05:18:00.170104",
+      "time": "2026-10-01T05:32:27.150369",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-09-30T05:18:01.871028"
+  "updated_at": "2026-10-01T05:32:28.114637"
 }
