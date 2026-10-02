@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.170832",
+      "time": "2026-10-02T05:19:46.812101",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "url": "https://www.thespacereview.com/article/4951/1",
+      "title": "DeepSeek Harness",
+      "url": "https://www.deepseek.com/en/harness/",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.274834",
+      "time": "2026-10-02T05:19:46.973859",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.380514",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.484927",
+      "time": "2026-10-02T05:19:47.207936",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "EDG C++ front-end goes public",
-      "url": "https://edgcpp.org/#transition",
+      "title": "Meta's Muse is fantastic for web scraping",
+      "url": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.591139",
+      "time": "2026-10-02T05:19:47.319869",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.711247",
+      "time": "2026-10-02T05:19:47.426699",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.822735",
+      "time": "2026-10-02T05:19:47.537772",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "A brief history of the Bloomberg terminal",
-      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:26.928651",
+      "time": "2026-10-02T05:19:47.648130",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "TUI Games in 80x24",
-      "url": "https://www.incredible.rs/#blog/tui-games-in-80x24.md",
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:27.036414",
+      "time": "2026-10-02T05:19:47.760365",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "url": "https://github.com/TantrixAuto/yantra",
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
       "source": "Hacker News",
-      "time": "2026-10-01T05:32:27.150369",
+      "time": "2026-10-02T05:19:47.872789",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "YusufAbdulah/Auto-Mining-ATF-Dashboard",
+      "url": "https://github.com/YusufAbdulah/Auto-Mining-ATF-Dashboard",
+      "source": "GitHub",
+      "time": "2026-10-02T05:19:48.745330",
+      "heat": 15,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-01T05:32:28.114984"
+  "updated_at": "2026-10-02T05:19:48.745860"
 }
