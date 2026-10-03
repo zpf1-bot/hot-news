@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-02T05:19:48.746155"
+  "news": [
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "source": "Hacker News",
+      "time": "2026-10-03T05:02:35.647831",
+      "heat": 550,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-03T05:02:36.246876"
 }
