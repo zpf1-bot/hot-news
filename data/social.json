@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "source": "Hacker News",
-      "time": "2026-10-03T05:02:34.828253",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "source": "Hacker News",
-      "time": "2026-10-03T05:02:35.059509",
-      "heat": 800,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-10-03T05:02:36.247046"
+  "news": [],
+  "updated_at": "2026-10-04T05:35:19.080551"
 }

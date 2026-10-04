@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
       "source": "Hacker News",
-      "time": "2026-10-03T05:02:34.601717",
+      "time": "2026-10-04T05:35:17.639449",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "title": "Why don't more developers \"use the platform\"?",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
       "source": "Hacker News",
-      "time": "2026-10-03T05:02:34.712778",
+      "time": "2026-10-04T05:35:17.727521",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Cloudflare OHTTP gateway",
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "title": "So you think you could be an electrician?",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
       "source": "Hacker News",
-      "time": "2026-10-03T05:02:34.947217",
+      "time": "2026-10-04T05:35:17.811928",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source": "Hacker News",
+      "time": "2026-10-04T05:35:17.894932",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Apple Pass Designer",
-      "url": "https://developer.apple.com/pass-designer/",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
       "source": "Hacker News",
-      "time": "2026-10-03T05:02:35.183464",
+      "time": "2026-10-04T05:35:17.977545",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "source": "Hacker News",
+      "time": "2026-10-04T05:35:18.060120",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Extra Big Ass Intelligence",
-      "url": "https://www.extrabigassintelligence.com/",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
       "source": "Hacker News",
-      "time": "2026-10-03T05:02:35.297157",
+      "time": "2026-10-04T05:35:18.140995",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
       "source": "Hacker News",
-      "time": "2026-10-03T05:02:35.409860",
+      "time": "2026-10-04T05:35:18.231521",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
       "source": "Hacker News",
-      "time": "2026-10-03T05:02:35.530270",
+      "time": "2026-10-04T05:35:18.317099",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "perkel666/MegaCapybara",
-      "url": "https://github.com/perkel666/MegaCapybara",
-      "source": "GitHub",
-      "time": "2026-10-03T05:02:36.246084",
-      "heat": 10,
-      "category": "tech"
-    },
-    {
-      "title": "PeterWarrington/XP-Code",
-      "url": "https://github.com/PeterWarrington/XP-Code",
-      "source": "GitHub",
-      "time": "2026-10-03T05:02:36.246097",
-      "heat": 7,
-      "category": "tech"
-    },
-    {
-      "title": "madisonrickert/jev-permission-gate",
-      "url": "https://github.com/madisonrickert/jev-permission-gate",
-      "source": "GitHub",
-      "time": "2026-10-03T05:02:36.246098",
-      "heat": 6,
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "source": "Hacker News",
+      "time": "2026-10-04T05:35:18.399585",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-03T05:02:36.246617"
+  "updated_at": "2026-10-04T05:35:19.080128"
 }
