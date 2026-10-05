@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
       "source": "Hacker News",
-      "time": "2026-10-04T05:35:17.639449",
-      "heat": 1000,
-      "category": "tech"
-    },
-    {
-      "title": "Why don't more developers \"use the platform\"?",
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "source": "Hacker News",
-      "time": "2026-10-04T05:35:17.727521",
+      "time": "2026-10-05T05:18:46.616259",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "So you think you could be an electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
       "source": "Hacker News",
-      "time": "2026-10-04T05:35:17.811928",
+      "time": "2026-10-05T05:18:46.711245",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "url": "https://frn.sh/go-gc/",
       "source": "Hacker News",
-      "time": "2026-10-04T05:35:17.894932",
+      "time": "2026-10-05T05:18:46.819229",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "title": "Infidel goes wild",
+      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
       "source": "Hacker News",
-      "time": "2026-10-04T05:35:17.977545",
+      "time": "2026-10-05T05:18:46.916984",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
       "source": "Hacker News",
-      "time": "2026-10-04T05:35:18.060120",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "source": "Hacker News",
-      "time": "2026-10-04T05:35:18.140995",
+      "time": "2026-10-05T05:18:47.110533",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "The Tao of Backup",
+      "url": "http://www.taobackup.com/index.html",
       "source": "Hacker News",
-      "time": "2026-10-04T05:35:18.231521",
+      "time": "2026-10-05T05:18:47.218056",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
       "source": "Hacker News",
-      "time": "2026-10-04T05:35:18.317099",
+      "time": "2026-10-05T05:18:47.315724",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "source": "Hacker News",
-      "time": "2026-10-04T05:35:18.399585",
-      "heat": 550,
+      "title": "bpinheiroms/open-apuracao-brazil",
+      "url": "https://github.com/bpinheiroms/open-apuracao-brazil",
+      "source": "GitHub",
+      "time": "2026-10-05T05:18:48.298073",
+      "heat": 20,
+      "category": "tech"
+    },
+    {
+      "title": "0xgetz/tokenmix-bulk-creator",
+      "url": "https://github.com/0xgetz/tokenmix-bulk-creator",
+      "source": "GitHub",
+      "time": "2026-10-05T05:18:48.298086",
+      "heat": 10,
+      "category": "tech"
+    },
+    {
+      "title": "jdx/jactionlint",
+      "url": "https://github.com/jdx/jactionlint",
+      "source": "GitHub",
+      "time": "2026-10-05T05:18:48.298088",
+      "heat": 6,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-04T05:35:19.080128"
+  "updated_at": "2026-10-05T05:18:48.298599"
 }
