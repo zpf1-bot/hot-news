@@ -1,29 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-      "source": "Hacker News",
-      "time": "2026-10-05T05:18:47.016701",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-      "source": "Hacker News",
-      "time": "2026-10-05T05:18:47.425062",
-      "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "Dun-John/worldspring",
-      "url": "https://github.com/Dun-John/worldspring",
-      "source": "GitHub",
-      "time": "2026-10-05T05:18:48.298085",
-      "heat": 10,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-10-05T05:18:48.299071"
+  "news": [],
+  "updated_at": "2026-10-06T06:02:35.623951"
 }

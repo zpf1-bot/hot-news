@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
       "source": "Hacker News",
-      "time": "2026-10-05T05:18:46.616259",
+      "time": "2026-10-06T06:02:33.699079",
+      "heat": 1000,
+      "category": "tech"
+    },
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "source": "Hacker News",
+      "time": "2026-10-06T06:02:33.824314",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
       "source": "Hacker News",
-      "time": "2026-10-05T05:18:46.711245",
+      "time": "2026-10-06T06:02:33.952491",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "A 40ms Go garbage collector pause caused by swap",
-      "url": "https://frn.sh/go-gc/",
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
       "source": "Hacker News",
-      "time": "2026-10-05T05:18:46.819229",
+      "time": "2026-10-06T06:02:34.087562",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "source": "Hacker News",
-      "time": "2026-10-05T05:18:46.916984",
+      "time": "2026-10-06T06:02:34.218589",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
       "source": "Hacker News",
-      "time": "2026-10-05T05:18:47.110533",
+      "time": "2026-10-06T06:02:34.346615",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "source": "Hacker News",
+      "time": "2026-10-06T06:02:34.439371",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
       "source": "Hacker News",
-      "time": "2026-10-05T05:18:47.218056",
+      "time": "2026-10-06T06:02:34.562580",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
       "source": "Hacker News",
-      "time": "2026-10-05T05:18:47.315724",
+      "time": "2026-10-06T06:02:34.687597",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "bpinheiroms/open-apuracao-brazil",
-      "url": "https://github.com/bpinheiroms/open-apuracao-brazil",
-      "source": "GitHub",
-      "time": "2026-10-05T05:18:48.298073",
-      "heat": 20,
-      "category": "tech"
-    },
-    {
-      "title": "0xgetz/tokenmix-bulk-creator",
-      "url": "https://github.com/0xgetz/tokenmix-bulk-creator",
-      "source": "GitHub",
-      "time": "2026-10-05T05:18:48.298086",
-      "heat": 10,
-      "category": "tech"
-    },
-    {
-      "title": "jdx/jactionlint",
-      "url": "https://github.com/jdx/jactionlint",
-      "source": "GitHub",
-      "time": "2026-10-05T05:18:48.298088",
-      "heat": 6,
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "source": "Hacker News",
+      "time": "2026-10-06T06:02:34.848273",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-05T05:18:48.298599"
+  "updated_at": "2026-10-06T06:02:35.623706"
 }
