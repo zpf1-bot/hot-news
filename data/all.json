@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "title": "Terence Tao Responds to the OpenAI Math Drop",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:04.612025",
+      "time": "2026-10-08T05:46:11.945946",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:04.747535",
+      "time": "2026-10-08T05:46:12.072918",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:04.856619",
+      "time": "2026-10-08T05:46:12.213793",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "title": "A 100x faster* alternative to homebrew",
+      "url": "https://github.com/zerobrewhq/zerobrew",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:04.963087",
+      "time": "2026-10-08T05:46:12.347307",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:05.065069",
+      "time": "2026-10-08T05:46:12.475061",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:05.165973",
+      "time": "2026-10-08T05:46:12.613709",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:05.277091",
+      "time": "2026-10-08T05:46:12.714404",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:05.382568",
+      "time": "2026-10-08T05:46:12.854013",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "What Is Codemode",
-      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:05.486016",
+      "time": "2026-10-08T05:46:12.986345",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "url": "https://bigwords.page/",
       "source": "Hacker News",
-      "time": "2026-10-07T05:38:05.594559",
+      "time": "2026-10-08T05:46:13.080949",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-07T05:38:06.533328"
+  "updated_at": "2026-10-08T05:46:14.046502"
 }
