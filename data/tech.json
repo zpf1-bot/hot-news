@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Terence Tao Responds to the OpenAI Math Drop",
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "title": "Show HN: Quake ported to safe Rust, playable in browser",
+      "url": "https://quake-srp.pages.dev/",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:11.945946",
+      "time": "2026-10-09T05:50:40.774107",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "title": "Reducing undefined behavior in the C language",
+      "url": "https://lwn.net/Articles/1095811/",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.072918",
+      "time": "2026-10-09T05:50:40.908373",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Living off-grid: Hundred Rabbits",
-      "url": "https://100r.ca/site/home.html",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.213793",
+      "time": "2026-10-09T05:50:41.011474",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "A 100x faster* alternative to homebrew",
-      "url": "https://github.com/zerobrewhq/zerobrew",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.347307",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.475061",
+      "time": "2026-10-09T05:50:41.284055",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.613709",
+      "time": "2026-10-09T05:50:41.383167",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.714404",
+      "time": "2026-10-09T05:50:41.518173",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.854013",
+      "time": "2026-10-09T05:50:41.653863",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:12.986345",
+      "time": "2026-10-09T05:50:41.748623",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
       "source": "Hacker News",
-      "time": "2026-10-08T05:46:13.080949",
+      "time": "2026-10-09T05:50:41.855182",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "RuoJi6/ARTEX",
+      "url": "https://github.com/RuoJi6/ARTEX",
+      "source": "GitHub",
+      "time": "2026-10-09T05:50:42.608093",
+      "heat": 24,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-08T05:46:14.046869"
+  "updated_at": "2026-10-09T05:50:42.608593"
 }
