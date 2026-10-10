@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: Quake ported to safe Rust, playable in browser",
-      "url": "https://quake-srp.pages.dev/",
+      "title": "Lobbying",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:40.774107",
+      "time": "2026-10-10T05:33:32.277975",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Reducing undefined behavior in the C language",
-      "url": "https://lwn.net/Articles/1095811/",
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:40.908373",
+      "time": "2026-10-10T05:33:32.420829",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.011474",
+      "time": "2026-10-10T05:33:32.570368",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.141642",
+      "time": "2026-10-10T05:33:32.708269",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.284055",
+      "time": "2026-10-10T05:33:32.830956",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.383167",
+      "time": "2026-10-10T05:33:32.967136",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.518173",
+      "time": "2026-10-10T05:33:33.094808",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Yes, and",
-      "url": "https://htmx.org/essays/yes-and/",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.653863",
+      "time": "2026-10-10T05:33:33.237812",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.748623",
+      "time": "2026-10-10T05:33:33.366470",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The value of not getting to the point (2015)",
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "title": "If AI is conscient, then we are making slaves",
+      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
       "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.855182",
+      "time": "2026-10-10T05:33:33.515345",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-09T05:50:42.608216"
+  "updated_at": "2026-10-10T05:33:34.234010"
 }

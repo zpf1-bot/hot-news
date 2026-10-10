@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "source": "Hacker News",
-      "time": "2026-10-09T05:50:41.141642",
-      "heat": 850,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-10-09T05:50:42.608857"
+  "news": [],
+  "updated_at": "2026-10-10T05:33:34.234876"
 }
