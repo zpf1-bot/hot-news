@@ -1,13 +1,13 @@
 {
   "news": [
     {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "title": "Retrofitting language models to operate over bytes",
+      "url": "https://www.nature.com/articles/s41586-026-11111-4",
       "source": "Hacker News",
-      "time": "2026-10-10T05:33:33.094808",
-      "heat": 700,
+      "time": "2026-10-11T05:29:14.284012",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-10T05:33:34.234679"
+  "updated_at": "2026-10-11T05:29:15.200888"
 }

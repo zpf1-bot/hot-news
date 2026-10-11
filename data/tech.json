@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Lobbying",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
       "source": "Hacker News",
-      "time": "2026-10-10T05:33:32.277975",
+      "time": "2026-10-11T05:29:13.269340",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
       "source": "Hacker News",
-      "time": "2026-10-10T05:33:32.420829",
+      "time": "2026-10-11T05:29:13.422929",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
       "source": "Hacker News",
-      "time": "2026-10-10T05:33:32.570368",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "source": "Hacker News",
-      "time": "2026-10-10T05:33:32.708269",
+      "time": "2026-10-11T05:29:13.656967",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
-      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "url": "https://github.com/othermod/PSPi-Version-6",
       "source": "Hacker News",
-      "time": "2026-10-10T05:33:32.830956",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "source": "Hacker News",
-      "time": "2026-10-10T05:33:32.967136",
+      "time": "2026-10-11T05:29:13.850194",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
+      "title": "AI agents in a stand-up call",
+      "url": "https://atoll92.github.io/agent-standup/",
       "source": "Hacker News",
-      "time": "2026-10-10T05:33:33.237812",
+      "time": "2026-10-11T05:29:13.977837",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "source": "Hacker News",
+      "time": "2026-10-11T05:29:14.075435",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
       "source": "Hacker News",
-      "time": "2026-10-10T05:33:33.366470",
+      "time": "2026-10-11T05:29:14.175104",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "If AI is conscient, then we are making slaves",
-      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
-      "source": "Hacker News",
-      "time": "2026-10-10T05:33:33.515345",
-      "heat": 550,
+      "title": "Blacktramagnify/rvc",
+      "url": "https://github.com/Blacktramagnify/rvc",
+      "source": "GitHub",
+      "time": "2026-10-11T05:29:15.200197",
+      "heat": 20,
       "category": "tech"
     },
     {
-      "title": "updatesanninconduit/WUWA-Menu-Undetected",
-      "url": "https://github.com/updatesanninconduit/WUWA-Menu-Undetected",
+      "title": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
       "source": "GitHub",
-      "time": "2026-10-10T05:33:34.233896",
-      "heat": 61,
+      "time": "2026-10-11T05:29:15.200210",
+      "heat": 20,
+      "category": "tech"
+    },
+    {
+      "title": "Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill",
+      "url": "https://github.com/Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill",
+      "source": "GitHub",
+      "time": "2026-10-11T05:29:15.200211",
+      "heat": 7,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-10T05:33:34.234365"
+  "updated_at": "2026-10-11T05:29:15.200670"
 }
