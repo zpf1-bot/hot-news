@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
       "source": "Hacker News",
-      "time": "2026-10-11T05:29:13.269340",
+      "time": "2026-10-12T05:39:51.971474",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
       "source": "Hacker News",
-      "time": "2026-10-11T05:29:13.422929",
+      "time": "2026-10-12T05:39:52.063230",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
       "source": "Hacker News",
-      "time": "2026-10-11T05:29:13.656967",
+      "time": "2026-10-12T05:39:52.143496",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "source": "Hacker News",
+      "time": "2026-10-12T05:39:52.232041",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "PSPi 6 – Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
+      "title": "Calculus with Julia",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
       "source": "Hacker News",
-      "time": "2026-10-11T05:29:13.850194",
+      "time": "2026-10-12T05:39:52.313410",
+      "heat": 800,
+      "category": "tech"
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "source": "Hacker News",
+      "time": "2026-10-12T05:39:52.398889",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "AI agents in a stand-up call",
-      "url": "https://atoll92.github.io/agent-standup/",
+      "title": "Doory – Open-Source Canva",
+      "url": "https://github.com/shaongitbd/doory",
       "source": "Hacker News",
-      "time": "2026-10-11T05:29:13.977837",
+      "time": "2026-10-12T05:39:52.480711",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
+      "title": "Yandex bot traffic down 99% after data center attack",
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
       "source": "Hacker News",
-      "time": "2026-10-11T05:29:14.075435",
+      "time": "2026-10-12T05:39:52.570289",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
-      "time": "2026-10-11T05:29:14.175104",
+      "time": "2026-10-12T05:39:52.653102",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Blacktramagnify/rvc",
-      "url": "https://github.com/Blacktramagnify/rvc",
-      "source": "GitHub",
-      "time": "2026-10-11T05:29:15.200197",
-      "heat": 20,
-      "category": "tech"
-    },
-    {
-      "title": "chenwei810/Semiconductor_Manufacturing_Introduction",
-      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
-      "source": "GitHub",
-      "time": "2026-10-11T05:29:15.200210",
-      "heat": 20,
-      "category": "tech"
-    },
-    {
-      "title": "Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill",
-      "url": "https://github.com/Alpha-Park/genpark-sequential-reasoning-branch-and-backtrack-engine-skill",
-      "source": "GitHub",
-      "time": "2026-10-11T05:29:15.200211",
-      "heat": 7,
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "source": "Hacker News",
+      "time": "2026-10-12T05:39:52.742287",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-11T05:29:15.200670"
+  "updated_at": "2026-10-12T05:39:53.388170"
 }
