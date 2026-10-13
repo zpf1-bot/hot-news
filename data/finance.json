@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-12T05:39:53.388451"
+  "news": [
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "source": "Hacker News",
+      "time": "2026-10-13T06:35:36.126829",
+      "heat": 750,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-13T06:35:38.658700"
 }

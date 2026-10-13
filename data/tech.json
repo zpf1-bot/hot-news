@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:51.971474",
+      "time": "2026-10-13T06:35:35.650263",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.063230",
+      "time": "2026-10-13T06:35:35.744666",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.143496",
+      "time": "2026-10-13T06:35:35.841904",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.232041",
+      "time": "2026-10-13T06:35:35.935746",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Calculus with Julia",
-      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.313410",
+      "time": "2026-10-13T06:35:36.034606",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.398889",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "Doory – Open-Source Canva",
-      "url": "https://github.com/shaongitbd/doory",
-      "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.480711",
+      "time": "2026-10-13T06:35:36.231866",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Yandex bot traffic down 99% after data center attack",
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.570289",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.653102",
+      "time": "2026-10-13T06:35:37.853867",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Terence Tao: Math 2.0 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "title": "The Dock on Mac, from OS 10 to macOS 27",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
       "source": "Hacker News",
-      "time": "2026-10-12T05:39:52.742287",
+      "time": "2026-10-13T06:35:37.988687",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "source": "GitHub",
+      "time": "2026-10-13T06:35:38.657821",
+      "heat": 81,
+      "category": "tech"
+    },
+    {
+      "title": "keyu-tian-sabotage/keyu-tian-sabotage.github.io",
+      "url": "https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io",
+      "source": "GitHub",
+      "time": "2026-10-13T06:35:38.657832",
+      "heat": 49,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-12T05:39:53.388170"
+  "updated_at": "2026-10-13T06:35:38.658397"
 }

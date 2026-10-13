@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-12T05:39:53.388614"
+  "news": [
+    {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "source": "Hacker News",
+      "time": "2026-10-13T06:35:37.185356",
+      "heat": 650,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-13T06:35:38.658950"
 }
