@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
       "source": "Hacker News",
-      "time": "2026-10-13T06:35:35.650263",
+      "time": "2026-10-14T04:36:49.168721",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
       "source": "Hacker News",
-      "time": "2026-10-13T06:35:35.744666",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "source": "Hacker News",
-      "time": "2026-10-13T06:35:35.841904",
+      "time": "2026-10-14T04:36:49.401315",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
       "source": "Hacker News",
-      "time": "2026-10-13T06:35:35.935746",
+      "time": "2026-10-14T04:36:49.563219",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "title": "Sound – Bartosz Ciechanowski",
+      "url": "https://ciechanow.ski/sound/",
       "source": "Hacker News",
-      "time": "2026-10-13T06:35:36.034606",
+      "time": "2026-10-14T04:36:49.713791",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Who is vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "source": "Hacker News",
-      "time": "2026-10-13T06:35:36.231866",
+      "time": "2026-10-14T04:36:49.867215",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "source": "Hacker News",
+      "time": "2026-10-14T04:36:50.002581",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
+      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
       "source": "Hacker News",
-      "time": "2026-10-13T06:35:37.853867",
+      "time": "2026-10-14T04:36:50.153215",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "source": "Hacker News",
+      "time": "2026-10-14T04:36:50.257554",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Dock on Mac, from OS 10 to macOS 27",
-      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "title": "Is 'Attention' the Essence of Intelligence?",
+      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
       "source": "Hacker News",
-      "time": "2026-10-13T06:35:37.988687",
+      "time": "2026-10-14T04:36:50.357100",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "Arekejoker/qwen21-nsfw-pose-skill",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "title": "yxhpy/qwen3.8-flash-next-local-deploy",
+      "url": "https://github.com/yxhpy/qwen3.8-flash-next-local-deploy",
       "source": "GitHub",
-      "time": "2026-10-13T06:35:38.657821",
-      "heat": 81,
-      "category": "tech"
-    },
-    {
-      "title": "keyu-tian-sabotage/keyu-tian-sabotage.github.io",
-      "url": "https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io",
-      "source": "GitHub",
-      "time": "2026-10-13T06:35:38.657832",
-      "heat": 49,
+      "time": "2026-10-14T04:36:51.244275",
+      "heat": 15,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-13T06:35:38.658397"
+  "updated_at": "2026-10-14T04:36:51.244691"
 }
