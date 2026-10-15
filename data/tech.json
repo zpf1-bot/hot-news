@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:49.168721",
+      "time": "2026-10-15T04:19:09.871375",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
+      "title": "Future of Cancer Care Today (FCCT)",
+      "url": "https://sijbrandijfoundation.org/fcct",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:49.401315",
+      "time": "2026-10-15T04:19:09.983579",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "source": "Hacker News",
+      "time": "2026-10-15T04:19:10.100415",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:49.563219",
+      "time": "2026-10-15T04:19:10.211847",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Sound – Bartosz Ciechanowski",
-      "url": "https://ciechanow.ski/sound/",
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:49.713791",
+      "time": "2026-10-15T04:19:10.323814",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:49.867215",
+      "time": "2026-10-15T04:19:10.440298",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:50.002581",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "url": "https://blumify.io/people",
-      "source": "Hacker News",
-      "time": "2026-10-14T04:36:50.153215",
+      "time": "2026-10-15T04:19:10.657797",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "title": "Donaldson Futuro House in Idyllwild, California, USA",
+      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:50.257554",
+      "time": "2026-10-15T04:19:10.770824",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Is 'Attention' the Essence of Intelligence?",
-      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
       "source": "Hacker News",
-      "time": "2026-10-14T04:36:50.357100",
+      "time": "2026-10-15T04:19:10.883986",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "yxhpy/qwen3.8-flash-next-local-deploy",
-      "url": "https://github.com/yxhpy/qwen3.8-flash-next-local-deploy",
+      "title": "GhostParakeet/deadlock-tool",
+      "url": "https://github.com/GhostParakeet/deadlock-tool",
       "source": "GitHub",
-      "time": "2026-10-14T04:36:51.244275",
-      "heat": 15,
+      "time": "2026-10-15T04:19:11.786447",
+      "heat": 79,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-14T04:36:51.244691"
+  "updated_at": "2026-10-15T04:19:11.786916"
 }
