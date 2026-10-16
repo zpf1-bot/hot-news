@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:09.871375",
+      "time": "2026-10-16T04:14:41.689509",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Future of Cancer Care Today (FCCT)",
-      "url": "https://sijbrandijfoundation.org/fcct",
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:09.983579",
+      "time": "2026-10-16T04:14:41.797615",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://github.com/Saffsanity/sill",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:10.100415",
+      "time": "2026-10-16T04:14:41.908344",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:10.211847",
+      "time": "2026-10-16T04:14:42.014287",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:10.323814",
+      "time": "2026-10-16T04:14:42.126946",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:10.440298",
+      "time": "2026-10-16T04:14:42.239658",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Do dentists know what they're doing?",
-      "url": "https://mapwriting.substack.com/p/dentists",
+      "title": "What I self-host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:10.657797",
+      "time": "2026-10-16T04:14:42.350187",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "source": "Hacker News",
+      "time": "2026-10-16T04:14:42.476069",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Donaldson Futuro House in Idyllwild, California, USA",
-      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+      "title": "Non-Determinism Doesn't Matter",
+      "url": "https://sklar.rocks/non-determinism-doesnt-matter/",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:10.770824",
+      "time": "2026-10-16T04:14:42.584147",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Double Headed Stack Allocator",
-      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
       "source": "Hacker News",
-      "time": "2026-10-15T04:19:10.883986",
+      "time": "2026-10-16T04:14:42.693632",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "GhostParakeet/deadlock-tool",
-      "url": "https://github.com/GhostParakeet/deadlock-tool",
-      "source": "GitHub",
-      "time": "2026-10-15T04:19:11.786447",
-      "heat": 79,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-15T04:19:11.786916"
+  "updated_at": "2026-10-16T04:14:43.724074"
 }
