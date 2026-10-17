@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:41.689509",
+      "time": "2026-10-17T04:05:04.947508",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:41.797615",
+      "time": "2026-10-17T04:05:05.090886",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:41.908344",
+      "time": "2026-10-17T04:05:05.253059",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:42.014287",
+      "time": "2026-10-17T04:05:05.355685",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:42.126946",
+      "time": "2026-10-17T04:05:05.457038",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:42.239658",
+      "time": "2026-10-17T04:05:05.591367",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "What I self-host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:42.350187",
+      "time": "2026-10-17T04:05:05.696574",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:42.476069",
+      "time": "2026-10-17T04:05:05.843179",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Non-Determinism Doesn't Matter",
-      "url": "https://sklar.rocks/non-determinism-doesnt-matter/",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "source": "Hacker News",
-      "time": "2026-10-16T04:14:42.584147",
+      "time": "2026-10-17T04:05:05.943759",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "BIPM decides to stop adding leap seconds to UTC",
-      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-      "source": "Hacker News",
-      "time": "2026-10-16T04:14:42.693632",
-      "heat": 550,
+      "title": "kerrdec97/PS5-Backport-GUI",
+      "url": "https://github.com/kerrdec97/PS5-Backport-GUI",
+      "source": "GitHub",
+      "time": "2026-10-17T04:05:06.777824",
+      "heat": 15,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-16T04:14:43.724074"
+  "updated_at": "2026-10-17T04:05:06.778343"
 }

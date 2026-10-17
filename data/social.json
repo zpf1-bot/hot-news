@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-16T04:14:43.724372"
+  "news": [
+    {
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "url": "https://fakeipedia.org",
+      "source": "Hacker News",
+      "time": "2026-10-17T04:05:06.048155",
+      "heat": 550,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-17T04:05:06.778848"
 }
