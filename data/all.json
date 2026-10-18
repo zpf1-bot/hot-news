@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Ultramarine 1 Flash",
-      "url": "https://www.paperinstruments.com/ultramarine",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:04.947508",
+      "time": "2026-10-18T04:12:40.609493",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.090886",
+      "time": "2026-10-18T04:12:40.695482",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.253059",
+      "time": "2026-10-18T04:12:40.787870",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.355685",
+      "time": "2026-10-18T04:12:40.878133",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Waymo in Toronto",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.457038",
+      "time": "2026-10-18T04:12:40.961814",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.591367",
+      "time": "2026-10-18T04:12:41.050607",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.696574",
+      "time": "2026-10-18T04:12:41.135710",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.843179",
+      "time": "2026-10-18T04:12:41.225399",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:05.943759",
+      "time": "2026-10-18T04:12:41.349419",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-      "url": "https://fakeipedia.org",
+      "title": "Custom server to revive neato bots",
+      "url": "https://github.com/vacuula/vacuula",
       "source": "Hacker News",
-      "time": "2026-10-17T04:05:06.048155",
+      "time": "2026-10-18T04:12:41.430047",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-17T04:05:06.777953"
+  "updated_at": "2026-10-18T04:12:42.108258"
 }
