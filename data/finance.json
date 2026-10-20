@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-19T04:21:46.909408"
+  "news": [
+    {
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "source": "Hacker News",
+      "time": "2026-10-20T04:32:34.216920",
+      "heat": 650,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-20T04:32:34.993342"
 }

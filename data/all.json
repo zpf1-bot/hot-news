@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.242244",
+      "time": "2026-10-20T04:32:33.721394",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.320174",
+      "time": "2026-10-20T04:32:33.792240",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.435106",
+      "time": "2026-10-20T04:32:33.863341",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Superlite: A Faster Alternatie to Superpowers",
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.521700",
+      "time": "2026-10-20T04:32:33.936298",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "title": "Weball: Play Katamari on Websites",
+      "url": "https://www.funwithcomputervision.com/weball/",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.615038",
+      "time": "2026-10-20T04:32:34.009806",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Laptop Based on 6502 CPU",
-      "url": "https://www.maddox.pro/?p=448",
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.732460",
+      "time": "2026-10-20T04:32:34.074223",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/issues/82345",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.821664",
+      "time": "2026-10-20T04:32:34.143028",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:45.953069",
+      "time": "2026-10-20T04:32:34.216920",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "The DNS Museum",
-      "url": "https://dns.museum",
+      "title": "It's still ok to enjoy programming",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:46.050875",
+      "time": "2026-10-20T04:32:34.288234",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
       "source": "Hacker News",
-      "time": "2026-10-19T04:21:46.152627",
+      "time": "2026-10-20T04:32:34.357847",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-19T04:21:46.908753"
+  "updated_at": "2026-10-20T04:32:34.992713"
 }
