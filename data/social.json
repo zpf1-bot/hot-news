@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-20T04:32:34.993493"
+  "news": [
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "source": "Hacker News",
+      "time": "2026-10-21T04:25:02.203488",
+      "heat": 950,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-21T04:25:04.071245"
 }
