@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The Future of CSS",
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:02.073035",
+      "time": "2026-10-22T04:23:35.216293",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "title": "Epic Games Inc v Apple Inc",
+      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:02.341398",
+      "time": "2026-10-22T04:23:35.331670",
+      "heat": 950,
+      "category": "tech"
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "source": "Hacker News",
+      "time": "2026-10-22T04:23:35.447685",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:02.609176",
+      "time": "2026-10-22T04:23:35.565640",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "Hacker News",
+      "time": "2026-10-22T04:23:35.681355",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:02.741522",
+      "time": "2026-10-22T04:23:35.795985",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "title": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:02.870659",
+      "time": "2026-10-22T04:23:35.910579",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "eMudhra intermediate CA compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:02.998415",
+      "time": "2026-10-22T04:23:36.027893",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:03.128770",
+      "time": "2026-10-22T04:23:36.142236",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
       "source": "Hacker News",
-      "time": "2026-10-21T04:25:03.256613",
+      "time": "2026-10-22T04:23:36.256780",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "DLSS-5-Swapper-Download-2026/.github",
-      "url": "https://github.com/DLSS-5-Swapper-Download-2026/.github",
-      "source": "GitHub",
-      "time": "2026-10-21T04:25:04.070323",
-      "heat": 102,
-      "category": "tech"
-    },
-    {
-      "title": "WoYun520/dsh-purge",
-      "url": "https://github.com/WoYun520/dsh-purge",
-      "source": "GitHub",
-      "time": "2026-10-21T04:25:04.070329",
-      "heat": 61,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-21T04:25:04.070778"
+  "updated_at": "2026-10-22T04:23:36.889401"
 }
