@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-22T04:23:36.889854"
+  "news": [
+    {
+      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+      "source": "Hacker News",
+      "time": "2026-10-23T04:28:34.969166",
+      "heat": 800,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-23T04:28:36.450531"
 }
