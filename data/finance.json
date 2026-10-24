@@ -1,21 +1,13 @@
 {
   "news": [
     {
-      "title": "The Secret Life of Circuits is now in stock everywhere",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
       "source": "Hacker News",
-      "time": "2026-10-23T04:28:34.874445",
-      "heat": 850,
-      "category": "tech"
-    },
-    {
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "source": "Hacker News",
-      "time": "2026-10-23T04:28:35.469592",
-      "heat": 550,
+      "time": "2026-10-24T04:18:56.247086",
+      "heat": 650,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-23T04:28:36.450392"
+  "updated_at": "2026-10-24T04:18:57.135299"
 }
