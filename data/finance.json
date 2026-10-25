@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "source": "Hacker News",
-      "time": "2026-10-24T04:18:56.247086",
-      "heat": 650,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-10-24T04:18:57.135299"
+  "news": [],
+  "updated_at": "2026-10-25T04:22:38.587701"
 }
