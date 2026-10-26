@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Xbox Turns Down Netflix $500M Offer",
-      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.154861",
+      "time": "2026-10-26T04:25:38.684556",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.230637",
+      "time": "2026-10-26T04:25:38.758549",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Five Qwen3.8-27B models outperform Fable 5 Using GVS5H Harness",
-      "url": "https://github.com/slee-persis/GVS5H",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.299222",
+      "time": "2026-10-26T04:25:38.826909",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.365661",
+      "time": "2026-10-26T04:25:38.902656",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.433232",
+      "time": "2026-10-26T04:25:38.970156",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.510513",
+      "time": "2026-10-26T04:25:39.043421",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
+      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+      "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.587013",
+      "time": "2026-10-26T04:25:39.106883",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.669362",
+      "time": "2026-10-26T04:25:39.181547",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "url": "https://codeberg.org/Misom/FindMyWeb",
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.747267",
+      "time": "2026-10-26T04:25:39.253920",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "source": "Hacker News",
-      "time": "2026-10-25T04:22:37.816502",
+      "time": "2026-10-26T04:25:39.325934",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-25T04:22:38.587016"
+  "updated_at": "2026-10-26T04:25:39.928556"
 }
