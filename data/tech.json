@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "url": "https://titleart.dvy.io/",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:38.684556",
+      "time": "2026-10-27T04:44:47.612964",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:38.758549",
+      "time": "2026-10-27T04:44:47.699242",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:38.826909",
+      "time": "2026-10-27T04:44:47.796241",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: A Truly Modular Keyboard",
-      "url": "https://github.com/notaroomba/keybytes",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:38.902656",
+      "time": "2026-10-27T04:44:47.896189",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "url": "https://github.com/otya128/winevdm",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:38.970156",
+      "time": "2026-10-27T04:44:47.974202",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:39.043421",
+      "time": "2026-10-27T04:44:48.077178",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Attention Is Not What You Need (2025)",
-      "url": "https://arxiv.org/abs/2512.19428",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:39.181547",
+      "time": "2026-10-27T04:44:48.155809",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+      "source": "Hacker News",
+      "time": "2026-10-27T04:44:48.236475",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "F-Zero X on Nintendo 3DS",
-      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "title": "A Printer Printing onto Paper",
+      "url": "https://twitter.com/macrofying/status/2112904628509528219",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:39.253920",
+      "time": "2026-10-27T04:44:48.320465",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
       "source": "Hacker News",
-      "time": "2026-10-26T04:25:39.325934",
+      "time": "2026-10-27T04:44:48.404514",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "huangkiki/awesome-supermimic",
-      "url": "https://github.com/huangkiki/awesome-supermimic",
-      "source": "GitHub",
-      "time": "2026-10-26T04:25:39.928439",
-      "heat": 25,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-26T04:25:39.928899"
+  "updated_at": "2026-10-27T04:44:49.139230"
 }

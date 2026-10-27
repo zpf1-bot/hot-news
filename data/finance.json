@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-10-26T04:25:39.929128"
+  "news": [
+    {
+      "title": "alphaparkinc/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill",
+      "url": "https://github.com/alphaparkinc/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill",
+      "source": "GitHub",
+      "time": "2026-10-27T04:44:49.138693",
+      "heat": 7,
+      "category": "tech"
+    },
+    {
+      "title": "Alpha-Park/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill",
+      "url": "https://github.com/Alpha-Park/genpark-ctrip-hotel-corporate-policy-compliance-auditor-skill",
+      "source": "GitHub",
+      "time": "2026-10-27T04:44:49.138695",
+      "heat": 7,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-10-27T04:44:49.139548"
 }
