@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "title": "Git for US Legislation",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:47.612964",
+      "time": "2026-10-28T05:18:58.430534",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:47.699242",
+      "time": "2026-10-28T05:18:58.524425",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:47.796241",
-      "heat": 900,
-      "category": "tech"
-    },
-    {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "source": "Hacker News",
-      "time": "2026-10-27T04:44:47.896189",
+      "time": "2026-10-28T05:18:58.727117",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "url": "https://github.com/otya128/winevdm",
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:47.974202",
-      "heat": 800,
-      "category": "tech"
-    },
-    {
-      "title": "Type Server Protocol",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "source": "Hacker News",
-      "time": "2026-10-27T04:44:48.077178",
+      "time": "2026-10-28T05:18:58.962563",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:48.155809",
+      "time": "2026-10-28T05:18:59.065669",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
-      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+      "title": "A Love Letter to the Super Dimension Fortress",
+      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:48.236475",
+      "time": "2026-10-28T05:18:59.163093",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "A Printer Printing onto Paper",
-      "url": "https://twitter.com/macrofying/status/2112904628509528219",
+      "title": "Assembly Nights",
+      "url": "https://ratfactor.com/assembly-nights",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:48.320465",
+      "time": "2026-10-28T05:18:59.262781",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
       "source": "Hacker News",
-      "time": "2026-10-27T04:44:48.404514",
+      "time": "2026-10-28T05:18:59.362249",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "vaishantsah/watson-AI-osint-all-in-one",
+      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "source": "GitHub",
+      "time": "2026-10-28T05:19:00.370719",
+      "heat": 192,
+      "category": "tech"
+    },
+    {
+      "title": "addozhang/leancast",
+      "url": "https://github.com/addozhang/leancast",
+      "source": "GitHub",
+      "time": "2026-10-28T05:19:00.370733",
+      "heat": 37,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-27T04:44:49.139230"
+  "updated_at": "2026-10-28T05:19:00.371159"
 }
