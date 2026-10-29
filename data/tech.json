@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Git for US Legislation",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
       "source": "Hacker News",
-      "time": "2026-10-28T05:18:58.430534",
+      "time": "2026-10-29T05:29:46.917475",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "source": "Hacker News",
-      "time": "2026-10-28T05:18:58.524425",
+      "time": "2026-10-29T05:29:47.053962",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "title": "The 'else' keyword is probably a literal translation from German (2020)",
+      "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
       "source": "Hacker News",
-      "time": "2026-10-28T05:18:58.727117",
+      "time": "2026-10-29T05:29:47.186252",
+      "heat": 900,
+      "category": "tech"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "Hacker News",
+      "time": "2026-10-29T05:29:47.322088",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "source": "Hacker News",
-      "time": "2026-10-28T05:18:58.962563",
-      "heat": 750,
+      "time": "2026-10-29T05:29:47.456708",
+      "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
       "source": "Hacker News",
-      "time": "2026-10-28T05:18:59.065669",
+      "time": "2026-10-29T05:29:47.742449",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "A Love Letter to the Super Dimension Fortress",
-      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
       "source": "Hacker News",
-      "time": "2026-10-28T05:18:59.163093",
+      "time": "2026-10-29T05:29:47.873337",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Assembly Nights",
-      "url": "https://ratfactor.com/assembly-nights",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "source": "Hacker News",
-      "time": "2026-10-28T05:18:59.262781",
-      "heat": 600,
-      "category": "tech"
-    },
-    {
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "source": "Hacker News",
-      "time": "2026-10-28T05:18:59.362249",
+      "time": "2026-10-29T05:29:48.140923",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "vaishantsah/watson-AI-osint-all-in-one",
-      "url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "title": "soimy/c3rb3r-rescue",
+      "url": "https://github.com/soimy/c3rb3r-rescue",
       "source": "GitHub",
-      "time": "2026-10-28T05:19:00.370719",
-      "heat": 192,
+      "time": "2026-10-29T05:29:49.035738",
+      "heat": 14,
       "category": "tech"
     },
     {
-      "title": "addozhang/leancast",
-      "url": "https://github.com/addozhang/leancast",
+      "title": "guilhermealvestech/carrossel-skill",
+      "url": "https://github.com/guilhermealvestech/carrossel-skill",
       "source": "GitHub",
-      "time": "2026-10-28T05:19:00.370733",
-      "heat": 37,
+      "time": "2026-10-29T05:29:49.035748",
+      "heat": 13,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-28T05:19:00.371159"
+  "updated_at": "2026-10-29T05:29:49.036351"
 }

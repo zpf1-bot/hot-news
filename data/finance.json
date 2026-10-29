@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "source": "Hacker News",
-      "time": "2026-10-28T05:18:58.831111",
-      "heat": 800,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-10-28T05:19:00.371311"
+  "news": [],
+  "updated_at": "2026-10-29T05:29:49.036714"
 }
