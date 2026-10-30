@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:46.917475",
+      "time": "2026-10-30T05:29:35.037586",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:47.053962",
+      "time": "2026-10-30T05:29:35.112349",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "The 'else' keyword is probably a literal translation from German (2020)",
-      "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
+      "title": "Cuis: The Modern Smalltalk-80",
+      "url": "https://cuis.st/",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:47.186252",
+      "time": "2026-10-30T05:29:35.204293",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "url": "https://github.com/da-luce/astroterm",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:47.322088",
+      "time": "2026-10-30T05:29:35.304331",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:47.456708",
+      "time": "2026-10-30T05:29:35.375301",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:47.742449",
+      "time": "2026-10-30T05:29:35.619970",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+      "source": "Hacker News",
+      "time": "2026-10-30T05:29:35.693217",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "title": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:47.873337",
+      "time": "2026-10-30T05:29:35.772802",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
       "source": "Hacker News",
-      "time": "2026-10-29T05:29:48.140923",
+      "time": "2026-10-30T05:29:35.930054",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "soimy/c3rb3r-rescue",
-      "url": "https://github.com/soimy/c3rb3r-rescue",
+      "title": "Lostbrocreate/Adobe-InDesign",
+      "url": "https://github.com/Lostbrocreate/Adobe-InDesign",
       "source": "GitHub",
-      "time": "2026-10-29T05:29:49.035738",
-      "heat": 14,
-      "category": "tech"
-    },
-    {
-      "title": "guilhermealvestech/carrossel-skill",
-      "url": "https://github.com/guilhermealvestech/carrossel-skill",
-      "source": "GitHub",
-      "time": "2026-10-29T05:29:49.035748",
-      "heat": 13,
+      "time": "2026-10-30T05:29:36.500466",
+      "heat": 107,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-29T05:29:49.036351"
+  "updated_at": "2026-10-30T05:29:36.501200"
 }
