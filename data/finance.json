@@ -1,21 +1,21 @@
 {
   "news": [
     {
-      "title": "Phantomeidemonstrate/AnyDesk",
-      "url": "https://github.com/Phantomeidemonstrate/AnyDesk",
-      "source": "GitHub",
-      "time": "2026-10-30T05:29:36.500487",
-      "heat": 107,
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "source": "Hacker News",
+      "time": "2026-10-31T05:15:26.674189",
+      "heat": 950,
       "category": "tech"
     },
     {
-      "title": "AshReinvigorate/Microsoft-Office",
-      "url": "https://github.com/AshReinvigorate/Microsoft-Office",
+      "title": "nguyenthetri2k1/aether-hub",
+      "url": "https://github.com/nguyenthetri2k1/aether-hub",
       "source": "GitHub",
-      "time": "2026-10-30T05:29:36.500495",
-      "heat": 107,
+      "time": "2026-10-31T05:15:28.334157",
+      "heat": 102,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-30T05:29:36.501610"
+  "updated_at": "2026-10-31T05:15:28.335129"
 }

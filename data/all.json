@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.037586",
+      "time": "2026-10-31T05:15:26.559073",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.112349",
+      "time": "2026-10-31T05:15:26.674189",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Cuis: The Modern Smalltalk-80",
-      "url": "https://cuis.st/",
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.204293",
+      "time": "2026-10-31T05:15:26.769055",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "url": "https://github.com/da-luce/astroterm",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.304331",
+      "time": "2026-10-31T05:15:26.867358",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.375301",
+      "time": "2026-10-31T05:15:26.975267",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.619970",
+      "time": "2026-10-31T05:15:27.072316",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.693217",
+      "time": "2026-10-31T05:15:27.166292",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Herdr has released native app",
-      "url": "https://github.com/herdrdev/herdr-app",
+      "title": "Breaking the open web won't stop the bad bots",
+      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.772802",
+      "time": "2026-10-31T05:15:27.271008",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.847700",
+      "time": "2026-10-31T05:15:27.365516",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "H.264 Is Magic (2016)",
-      "url": "https://sidbala.com/h-264-is-magic/",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "url": "https://github.com/dbreunig/nesformer",
       "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.930054",
+      "time": "2026-10-31T05:15:27.462902",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-30T05:29:36.500613"
+  "updated_at": "2026-10-31T05:15:28.334255"
 }

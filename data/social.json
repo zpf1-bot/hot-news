@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "source": "Hacker News",
-      "time": "2026-10-30T05:29:35.847700",
-      "heat": 600,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-10-30T05:29:36.501873"
+  "news": [],
+  "updated_at": "2026-10-31T05:15:28.335394"
 }
