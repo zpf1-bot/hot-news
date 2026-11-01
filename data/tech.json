@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:26.559073",
+      "time": "2026-11-01T05:44:11.191260",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:26.769055",
-      "heat": 900,
+      "time": "2026-11-01T05:44:11.290995",
+      "heat": 950,
       "category": "tech"
     },
     {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:26.867358",
+      "time": "2026-11-01T05:44:11.536523",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Tell HN: Scribd Breached",
-      "url": "https://news.ycombinator.com/item?id=50312756",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:26.975267",
+      "time": "2026-11-01T05:44:11.632405",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "url": "https://arxiv.org/abs/2409.02292",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:27.072316",
+      "time": "2026-11-01T05:44:11.729657",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:27.166292",
+      "time": "2026-11-01T05:44:11.855929",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Breaking the open web won't stop the bad bots",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:27.271008",
+      "time": "2026-11-01T05:44:11.949450",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
-      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:27.365516",
+      "time": "2026-11-01T05:44:12.053151",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
       "source": "Hacker News",
-      "time": "2026-10-31T05:15:27.462902",
+      "time": "2026-11-01T05:44:12.163766",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
-      "url": "https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "title": "CubeLink-oss/voltdir",
+      "url": "https://github.com/CubeLink-oss/voltdir",
       "source": "GitHub",
-      "time": "2026-10-31T05:15:28.334142",
-      "heat": 300,
+      "time": "2026-11-01T05:44:13.205582",
+      "heat": 20,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-10-31T05:15:28.334778"
+  "updated_at": "2026-11-01T05:44:13.206039"
 }

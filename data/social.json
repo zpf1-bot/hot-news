@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-10-31T05:15:28.335394"
+  "news": [
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "source": "Hacker News",
+      "time": "2026-11-01T05:44:11.401390",
+      "heat": 900,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-11-01T05:44:13.206373"
 }
