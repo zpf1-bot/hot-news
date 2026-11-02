@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.191260",
+      "time": "2026-11-02T05:42:25.159916",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.290995",
+      "time": "2026-11-02T05:42:25.299858",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.401390",
+      "time": "2026-11-02T05:42:25.395537",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.536523",
+      "time": "2026-11-02T05:42:25.544712",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.632405",
+      "time": "2026-11-02T05:42:25.634899",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
-      "url": "https://arxiv.org/abs/2409.02292",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.729657",
+      "time": "2026-11-02T05:42:25.756729",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
+      "title": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.855929",
+      "time": "2026-11-02T05:42:25.891022",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:11.949450",
+      "time": "2026-11-02T05:42:26.117040",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:12.053151",
+      "time": "2026-11-02T05:42:26.339588",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "When electric cars were for women",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
       "source": "Hacker News",
-      "time": "2026-11-01T05:44:12.163766",
+      "time": "2026-11-02T05:42:26.493310",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-01T05:44:13.205686"
+  "updated_at": "2026-11-02T05:42:27.314970"
 }
