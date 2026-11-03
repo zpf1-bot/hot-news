@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:25.159916",
+      "time": "2026-11-03T06:23:33.205164",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:25.299858",
-      "heat": 950,
-      "category": "tech"
-    },
-    {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "source": "Hacker News",
-      "time": "2026-11-02T05:42:25.395537",
+      "time": "2026-11-03T06:23:33.396102",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "title": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:25.544712",
+      "time": "2026-11-03T06:23:33.489714",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:25.634899",
+      "time": "2026-11-03T06:23:33.571291",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:25.756729",
+      "time": "2026-11-03T06:23:33.666310",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:26.117040",
+      "time": "2026-11-03T06:23:33.750225",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "source": "Hacker News",
+      "time": "2026-11-03T06:23:33.840849",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Tips for more effective fuzz testing with AFL++",
-      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:26.339588",
+      "time": "2026-11-03T06:23:33.922605",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "url": "https://tibleiz.net/copper/",
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:26.493310",
+      "time": "2026-11-03T06:23:34.014238",
       "heat": 550,
       "category": "tech"
     },
     {
-      "title": "wideeyededi/uncensored-nsfw-ai-video-api",
-      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "title": "RUC-NLPIR/CoworkOS",
+      "url": "https://github.com/RUC-NLPIR/CoworkOS",
       "source": "GitHub",
-      "time": "2026-11-02T05:42:27.314867",
-      "heat": 338,
+      "time": "2026-11-03T06:23:34.848477",
+      "heat": 27,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-02T05:42:27.315477"
+  "updated_at": "2026-11-03T06:23:34.850646"
 }

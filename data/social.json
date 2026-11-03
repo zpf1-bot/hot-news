@@ -1,29 +1,13 @@
 {
   "news": [
     {
-      "title": "Trigger.dev customer environment variables exposed",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
       "source": "Hacker News",
-      "time": "2026-11-02T05:42:25.891022",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill",
-      "url": "https://github.com/Alpha-Park/genpark-personal-agent-microvascular-endothelial-fmd-elasticity-skill",
-      "source": "GitHub",
-      "time": "2026-11-02T05:42:27.314884",
-      "heat": 7,
-      "category": "tech"
-    },
-    {
-      "title": "Alpha-Park/genpark-personal-agent-cardiorespiratory-vo2max-velocity-skill",
-      "url": "https://github.com/Alpha-Park/genpark-personal-agent-cardiorespiratory-vo2max-velocity-skill",
-      "source": "GitHub",
-      "time": "2026-11-02T05:42:27.314887",
-      "heat": 7,
+      "time": "2026-11-03T06:23:33.300581",
+      "heat": 950,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-02T05:42:27.316103"
+  "updated_at": "2026-11-03T06:23:34.851864"
 }
