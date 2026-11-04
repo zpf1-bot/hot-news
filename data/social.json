@@ -1,13 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
-      "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.300581",
-      "heat": 950,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-11-03T06:23:34.851864"
+  "news": [],
+  "updated_at": "2026-11-04T05:56:53.351778"
 }

@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.205164",
+      "time": "2026-11-04T05:56:51.395741",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
+      "title": "Jelly Sheet",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.300581",
+      "time": "2026-11-04T05:56:51.481553",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.396102",
+      "time": "2026-11-04T05:56:51.618002",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "European RISC-V Industrial Computing Initiative",
-      "url": "https://erici.eu",
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.489714",
+      "time": "2026-11-04T05:56:51.764979",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.571291",
+      "time": "2026-11-04T05:56:51.913729",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.666310",
+      "time": "2026-11-04T05:56:52.001811",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "title": "Giant canyon on Mars is still tectonically active",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.750225",
+      "time": "2026-11-04T05:56:52.089742",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Resisting Cognitive Surrender",
-      "url": "https://knlb.dev/essays/surrender",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.840849",
+      "time": "2026-11-04T05:56:52.209046",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:33.922605",
+      "time": "2026-11-04T05:56:52.332862",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-      "url": "https://arxiv.org/abs/2608.25820",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "source": "Hacker News",
-      "time": "2026-11-03T06:23:34.014238",
+      "time": "2026-11-04T05:56:52.455293",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-03T06:23:34.848689"
+  "updated_at": "2026-11-04T05:56:53.350606"
 }
