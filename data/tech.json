@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.028485",
+      "time": "2026-11-06T06:15:11.138342",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Lemmings CSS Animation",
-      "url": "https://markblah.github.io/lemmings/",
+      "title": "sshole",
+      "url": "https://sshhole.com",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.124905",
+      "time": "2026-11-06T06:15:11.296388",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.212849",
+      "time": "2026-11-06T06:15:11.439194",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.349379",
+      "time": "2026-11-06T06:15:11.574013",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "url": "https://www.spacex.com/starfall",
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.447172",
+      "time": "2026-11-06T06:15:11.722393",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
+      "title": "Inkling 2 Small",
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.587532",
+      "time": "2026-11-06T06:15:11.856582",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.727856",
+      "time": "2026-11-06T06:15:12.303648",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
       "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.823607",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Insects don't swarm at LED lights",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "source": "Hacker News",
-      "time": "2026-11-05T06:20:49.955271",
+      "time": "2026-11-06T06:15:12.582945",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Spreading Liquid with Three.js",
-      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-      "source": "Hacker News",
-      "time": "2026-11-05T06:20:50.096346",
-      "heat": 550,
+      "title": "musubipapi/airpointer",
+      "url": "https://github.com/musubipapi/airpointer",
+      "source": "GitHub",
+      "time": "2026-11-06T06:15:13.468470",
+      "heat": 46,
+      "category": "tech"
+    },
+    {
+      "title": "gongnyang/stickerforge",
+      "url": "https://github.com/gongnyang/stickerforge",
+      "source": "GitHub",
+      "time": "2026-11-06T06:15:13.468480",
+      "heat": 10,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-05T06:20:50.967233"
+  "updated_at": "2026-11-06T06:15:13.468975"
 }
