@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:11.138342",
+      "time": "2026-11-07T05:42:14.222228",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "sshole",
-      "url": "https://sshhole.com",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:11.296388",
+      "time": "2026-11-07T05:42:14.354999",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "url": "https://josef.cn/blog/unitree",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:11.439194",
+      "time": "2026-11-07T05:42:14.444932",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "url": "https://github.com/dsx-ai-factory/nvke",
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:11.574013",
+      "time": "2026-11-07T05:42:14.534089",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Pwn.college",
-      "url": "https://pwn.college/",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:11.722393",
+      "time": "2026-11-07T05:42:14.675082",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "title": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:11.856582",
+      "time": "2026-11-07T05:42:14.764914",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:12.303648",
+      "time": "2026-11-07T05:42:14.876289",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "How accurately did science fiction stories predict AI?",
-      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+      "title": "What do the next 4000 emoji look like?",
+      "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:12.451204",
+      "time": "2026-11-07T05:42:14.997675",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:12.582945",
+      "time": "2026-11-07T05:42:15.093683",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Closed AI models dominate the price-performance frontier",
-      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "source": "Hacker News",
-      "time": "2026-11-06T06:15:12.712030",
+      "time": "2026-11-07T05:42:15.189085",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-06T06:15:13.468603"
+  "updated_at": "2026-11-07T05:42:16.037021"
 }

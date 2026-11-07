@@ -1,21 +1,4 @@
 {
-  "news": [
-    {
-      "title": "How accurately did science fiction stories predict AI?",
-      "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
-      "source": "Hacker News",
-      "time": "2026-11-06T06:15:12.451204",
-      "heat": 650,
-      "category": "tech"
-    },
-    {
-      "title": "Closed AI models dominate the price-performance frontier",
-      "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-      "source": "Hacker News",
-      "time": "2026-11-06T06:15:12.712030",
-      "heat": 550,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-11-06T06:15:13.469223"
+  "news": [],
+  "updated_at": "2026-11-07T05:42:16.037834"
 }
