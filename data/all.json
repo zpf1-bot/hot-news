@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Goodbye Claude, Hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "title": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:08.112907",
+      "time": "2026-11-09T05:55:33.409437",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "title": "A Critique of GPUI",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:08.227684",
+      "time": "2026-11-09T05:55:33.549896",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:08.379918",
+      "time": "2026-11-09T05:55:33.653088",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Kirlian Photography: Building Your Own Equipment",
-      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:08.504825",
+      "time": "2026-11-09T05:55:33.740325",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Making any integer with four 2s (2025)",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:08.719634",
+      "time": "2026-11-09T05:55:33.838534",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-      "url": "https://github.com/crmne/zapfast",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:08.871263",
+      "time": "2026-11-09T05:55:33.964668",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
-      "url": "https://github.com/waywardgeek/ensemble",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:08.962729",
+      "time": "2026-11-09T05:55:34.110094",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Need for Speed Underground 2 online in the browser",
-      "url": "https://nfsu2.xyz/",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:09.082179",
+      "time": "2026-11-09T05:55:34.203431",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:09.235249",
+      "time": "2026-11-09T05:55:34.358964",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
       "source": "Hacker News",
-      "time": "2026-11-08T05:45:09.329268",
+      "time": "2026-11-09T05:55:34.449880",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-08T05:45:10.034026"
+  "updated_at": "2026-11-09T05:55:35.329818"
 }
