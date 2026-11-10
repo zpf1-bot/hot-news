@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "RIP, Harvest",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:33.409437",
+      "time": "2026-11-10T06:59:15.289973",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "A Critique of GPUI",
-      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:33.549896",
+      "time": "2026-11-10T06:59:15.403453",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:33.653088",
+      "time": "2026-11-10T06:59:15.529623",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
+      "title": "Your TV can see through walls",
+      "url": "https://maurycyz.com/projects/fading/",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:33.838534",
+      "time": "2026-11-10T06:59:15.648757",
+      "heat": 850,
+      "category": "tech"
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "source": "Hacker News",
+      "time": "2026-11-10T06:59:15.762767",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:33.964668",
+      "time": "2026-11-10T06:59:15.875481",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:34.110094",
+      "time": "2026-11-10T06:59:15.991286",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "url": "https://duxlabs.dev/",
+      "title": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:34.203431",
+      "time": "2026-11-10T06:59:16.123322",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Outlook.com is rejecting email from domains without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:34.358964",
+      "time": "2026-11-10T06:59:16.245121",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
       "source": "Hacker News",
-      "time": "2026-11-09T05:55:34.449880",
+      "time": "2026-11-10T06:59:16.384292",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "huamidev/GestaltX",
-      "url": "https://github.com/huamidev/GestaltX",
-      "source": "GitHub",
-      "time": "2026-11-09T05:55:35.329728",
-      "heat": 22,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-09T05:55:35.330158"
+  "updated_at": "2026-11-10T06:59:17.229915"
 }
