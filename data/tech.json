@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:15.289973",
+      "time": "2026-11-11T05:51:30.591710",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "url": "https://github.com/gmkurtzer/ginux",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:15.403453",
+      "time": "2026-11-11T05:51:30.687819",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:15.529623",
+      "time": "2026-11-11T05:51:30.767365",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Your TV can see through walls",
-      "url": "https://maurycyz.com/projects/fading/",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:15.648757",
+      "time": "2026-11-11T05:51:30.835404",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:15.762767",
+      "time": "2026-11-11T05:51:30.913161",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:15.875481",
+      "time": "2026-11-11T05:51:30.989872",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:15.991286",
+      "time": "2026-11-11T05:51:31.079235",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:16.123322",
+      "time": "2026-11-11T05:51:31.161690",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:16.245121",
+      "time": "2026-11-11T05:51:31.253611",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Ultorg: The User Interface for Relational Databases",
-      "url": "https://www.ultorg.com/",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
       "source": "Hacker News",
-      "time": "2026-11-10T06:59:16.384292",
+      "time": "2026-11-11T05:51:31.331466",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-10T06:59:17.229915"
+  "updated_at": "2026-11-11T05:51:32.031954"
 }
