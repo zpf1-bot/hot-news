@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:30.591710",
+      "time": "2026-11-12T06:55:58.878491",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-      "url": "https://github.com/gmkurtzer/ginux",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:30.687819",
+      "time": "2026-11-12T06:55:59.042774",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:30.767365",
+      "time": "2026-11-12T06:55:59.131905",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:30.835404",
+      "time": "2026-11-12T06:55:59.271160",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:30.913161",
+      "time": "2026-11-12T06:55:59.369883",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:30.989872",
+      "time": "2026-11-12T06:55:59.524125",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:31.079235",
+      "time": "2026-11-12T06:55:59.661104",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Six Math Essentials",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "title": "Jane Street: Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:31.161690",
+      "time": "2026-11-12T06:55:59.766316",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:31.253611",
+      "time": "2026-11-12T06:55:59.942635",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Tracking Anthropic-discovered vulnerabilities",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
       "source": "Hacker News",
-      "time": "2026-11-11T05:51:31.331466",
+      "time": "2026-11-12T06:56:00.095835",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-11T05:51:32.031954"
+  "updated_at": "2026-11-12T06:56:00.905512"
 }
