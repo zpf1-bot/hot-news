@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:58.878491",
+      "time": "2026-11-13T06:17:59.092479",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.042774",
+      "time": "2026-11-13T06:17:59.179072",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.131905",
+      "time": "2026-11-13T06:17:59.310339",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.271160",
+      "time": "2026-11-13T06:17:59.399828",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.369883",
+      "time": "2026-11-13T06:17:59.536314",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.524125",
+      "time": "2026-11-13T06:17:59.622896",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.661104",
+      "time": "2026-11-13T06:17:59.782165",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Jane Street: Socratic Tutor",
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.766316",
+      "time": "2026-11-13T06:17:59.897237",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
       "source": "Hacker News",
-      "time": "2026-11-12T06:55:59.942635",
+      "time": "2026-11-13T06:18:00.075765",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
       "source": "Hacker News",
-      "time": "2026-11-12T06:56:00.095835",
+      "time": "2026-11-13T06:18:00.200935",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-12T06:56:00.905512"
+  "updated_at": "2026-11-13T06:18:01.090267"
 }
