@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-11-13T06:18:01.090544"
+  "news": [
+    {
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "time": "2026-11-14T05:59:43.229921",
+      "heat": 950,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-11-14T05:59:45.060079"
 }
