@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:43.109855",
+      "time": "2026-11-15T06:03:21.969236",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:43.229921",
+      "time": "2026-11-15T06:03:22.073991",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:43.362201",
+      "time": "2026-11-15T06:03:22.184584",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:43.481998",
+      "time": "2026-11-15T06:03:22.298518",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:43.608594",
+      "time": "2026-11-15T06:03:22.407713",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "url": "https://grounds.top/",
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:43.758869",
+      "time": "2026-11-15T06:03:22.522864",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "What Happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "title": "Osint Case Studies",
+      "url": "https://osintsearch.org/blog/osint-case-studies",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:43.887359",
+      "time": "2026-11-15T06:03:22.631994",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:44.023105",
+      "time": "2026-11-15T06:03:22.731149",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "FM-1 Workbench",
-      "url": "https://open.m-vave.com/fm1-workbench",
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:44.166436",
+      "time": "2026-11-15T06:03:22.839380",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
       "source": "Hacker News",
-      "time": "2026-11-14T05:59:44.302723",
+      "time": "2026-11-15T06:03:22.957927",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-14T05:59:45.059379"
+  "updated_at": "2026-11-15T06:03:23.653315"
 }
