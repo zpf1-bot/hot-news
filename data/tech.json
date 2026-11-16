@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:21.969236",
+      "time": "2026-11-16T06:03:02.909077",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.073991",
+      "time": "2026-11-16T06:03:03.042476",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.184584",
+      "time": "2026-11-16T06:03:03.154411",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Memory Safety Bugs in Rust Standard Library",
-      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "title": "What's Next for Nvidia?",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.298518",
+      "time": "2026-11-16T06:03:03.268136",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.407713",
+      "time": "2026-11-16T06:03:03.382754",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "title": "Preserving 30 years of Salon journalism",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.522864",
+      "time": "2026-11-16T06:03:03.502402",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Osint Case Studies",
-      "url": "https://osintsearch.org/blog/osint-case-studies",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.631994",
+      "time": "2026-11-16T06:03:03.634584",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "A family tree of software job titles",
-      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.839380",
+      "time": "2026-11-16T06:03:03.750186",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "Stop Filming in Log",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "source": "Hacker News",
+      "time": "2026-11-16T06:03:03.868850",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "The Evolving Story of How Chemistry Became Biology",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "source": "Hacker News",
-      "time": "2026-11-15T06:03:22.957927",
+      "time": "2026-11-16T06:03:03.987360",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "tsukumijima/pydtcpip",
-      "url": "https://github.com/tsukumijima/pydtcpip",
-      "source": "GitHub",
-      "time": "2026-11-15T06:03:23.653162",
-      "heat": 26,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-15T06:03:23.653987"
+  "updated_at": "2026-11-16T06:03:04.903931"
 }
