@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "url": "https://iter.ca/post/ubo-uxss/",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:02.909077",
+      "time": "2026-11-17T07:39:58.453061",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Qwen4-Max",
-      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.042476",
+      "time": "2026-11-17T07:39:58.566105",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Old Bitly links are being hijacked",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.154411",
+      "time": "2026-11-17T07:39:58.667731",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "What's Next for Nvidia?",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.268136",
+      "time": "2026-11-17T07:39:58.781309",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.382754",
+      "time": "2026-11-17T07:39:58.878586",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Preserving 30 years of Salon journalism",
-      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "title": "The Fossils That Haunted Lovecraft",
+      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.502402",
+      "time": "2026-11-17T07:39:58.988364",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.634584",
+      "time": "2026-11-17T07:39:59.084079",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.750186",
+      "time": "2026-11-17T07:39:59.209029",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Stop Filming in Log",
-      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.868850",
+      "time": "2026-11-17T07:39:59.321800",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
       "source": "Hacker News",
-      "time": "2026-11-16T06:03:03.987360",
+      "time": "2026-11-17T07:39:59.438545",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-16T06:03:04.903931"
+  "updated_at": "2026-11-17T07:40:00.395496"
 }

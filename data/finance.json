@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-11-16T06:03:04.904124"
+  "news": [
+    {
+      "title": "roninbyteobliterate/lichi",
+      "url": "https://github.com/roninbyteobliterate/lichi",
+      "source": "GitHub",
+      "time": "2026-11-17T07:40:00.395154",
+      "heat": 100,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-11-17T07:40:00.395660"
 }
