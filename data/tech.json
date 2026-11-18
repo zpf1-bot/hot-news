@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:58.453061",
+      "time": "2026-11-18T07:01:48.157778",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "title": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:58.566105",
+      "time": "2026-11-18T07:01:48.274024",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:58.667731",
+      "time": "2026-11-18T07:01:48.389859",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:58.781309",
+      "time": "2026-11-18T07:01:48.503809",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "url": "https://support.apple.com/en-us/149699",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:58.878586",
+      "time": "2026-11-18T07:01:48.634643",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "The Fossils That Haunted Lovecraft",
-      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:58.988364",
+      "time": "2026-11-18T07:01:48.747254",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:59.084079",
+      "time": "2026-11-18T07:01:48.861263",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "OpenCode Browse",
-      "url": "https://opencode.ai/product/browse",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:59.209029",
+      "time": "2026-11-18T07:01:48.976155",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Running coding agents without handing them my credentials",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "title": "Why Fibonacci?",
+      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:59.321800",
+      "time": "2026-11-18T07:01:49.092440",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Chemistry is Actually Geometry",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
       "source": "Hacker News",
-      "time": "2026-11-17T07:39:59.438545",
+      "time": "2026-11-18T07:01:49.219834",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-17T07:40:00.395496"
+  "updated_at": "2026-11-18T07:01:50.087840"
 }
