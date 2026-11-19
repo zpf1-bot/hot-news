@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "url": "https://calif.io/java4shell/",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.157778",
+      "time": "2026-11-19T07:03:11.845819",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "ID.me terms required for IRS sign-in",
-      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.274024",
+      "time": "2026-11-19T07:03:11.919754",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.389859",
+      "time": "2026-11-19T07:03:11.996395",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.503809",
+      "time": "2026-11-19T07:03:12.076450",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.634643",
+      "time": "2026-11-19T07:03:12.151765",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "title": "Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.747254",
+      "time": "2026-11-19T07:03:12.224885",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "title": "Inside Deutsche Bank",
+      "url": "https://www.inside-db.com/",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.861263",
+      "time": "2026-11-19T07:03:12.301047",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "url": "https://github.com/microsoft/onnxruntime",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:48.976155",
+      "time": "2026-11-19T07:03:12.372042",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Why Fibonacci?",
-      "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "title": "Camera Index",
+      "url": "https://www.cameraindex.co.uk/",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:49.092440",
+      "time": "2026-11-19T07:03:12.521230",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Why is Gemini 4 Carbon taking so long?",
-      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "source": "Hacker News",
-      "time": "2026-11-18T07:01:49.219834",
+      "time": "2026-11-19T07:03:12.621647",
       "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-18T07:01:50.087500"
+  "updated_at": "2026-11-19T07:03:13.298134"
 }
