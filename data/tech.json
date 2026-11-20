@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
       "source": "Hacker News",
-      "time": "2026-11-19T07:03:11.845819",
+      "time": "2026-11-20T06:55:25.067974",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Unauthenticated remote code execution in Nginx",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
       "source": "Hacker News",
-      "time": "2026-11-19T07:03:11.919754",
+      "time": "2026-11-20T06:55:25.180963",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "title": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
       "source": "Hacker News",
-      "time": "2026-11-19T07:03:11.996395",
+      "time": "2026-11-20T06:55:25.300764",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-      "url": "https://kapteko.com/15-million-webservers/",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
       "source": "Hacker News",
-      "time": "2026-11-19T07:03:12.076450",
+      "time": "2026-11-20T06:55:25.447107",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
-      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "title": "Bit Shifting in Basic",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
       "source": "Hacker News",
-      "time": "2026-11-19T07:03:12.151765",
+      "time": "2026-11-20T06:55:25.567641",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Camera Index",
-      "url": "https://www.cameraindex.co.uk/",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
       "source": "Hacker News",
-      "time": "2026-11-19T07:03:12.521230",
+      "time": "2026-11-20T06:55:25.683952",
+      "heat": 750,
+      "category": "tech"
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "source": "Hacker News",
+      "time": "2026-11-20T06:55:25.819037",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "source": "Hacker News",
+      "time": "2026-11-20T06:55:25.929906",
+      "heat": 650,
+      "category": "tech"
+    },
+    {
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "source": "Hacker News",
+      "time": "2026-11-20T06:55:26.041798",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
       "source": "Hacker News",
-      "time": "2026-11-19T07:03:12.621647",
+      "time": "2026-11-20T06:55:26.149539",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "flex36ty/switch2-gamevault",
-      "url": "https://github.com/flex36ty/switch2-gamevault",
-      "source": "GitHub",
-      "time": "2026-11-19T07:03:13.298023",
-      "heat": 31,
-      "category": "tech"
-    },
-    {
-      "title": "oxbaimao/whitecat-tg-assistant-commercial-build",
-      "url": "https://github.com/oxbaimao/whitecat-tg-assistant-commercial-build",
-      "source": "GitHub",
-      "time": "2026-11-19T07:03:13.298034",
-      "heat": 12,
-      "category": "tech"
-    },
-    {
-      "title": "pal815/antigravity-ko",
-      "url": "https://github.com/pal815/antigravity-ko",
-      "source": "GitHub",
-      "time": "2026-11-19T07:03:13.298035",
-      "heat": 12,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-19T07:03:13.298643"
+  "updated_at": "2026-11-20T06:55:26.849656"
 }

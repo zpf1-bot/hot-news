@@ -1,29 +1,4 @@
 {
-  "news": [
-    {
-      "title": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "source": "Hacker News",
-      "time": "2026-11-19T07:03:12.224885",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "Inside Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "source": "Hacker News",
-      "time": "2026-11-19T07:03:12.301047",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "source": "Hacker News",
-      "time": "2026-11-19T07:03:12.372042",
-      "heat": 650,
-      "category": "tech"
-    }
-  ],
-  "updated_at": "2026-11-19T07:03:13.299002"
+  "news": [],
+  "updated_at": "2026-11-20T06:55:26.849998"
 }
