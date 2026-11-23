@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:15.732485",
+      "time": "2026-11-23T07:13:53.568362",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:15.825787",
+      "time": "2026-11-23T07:13:53.664096",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:15.913628",
+      "time": "2026-11-23T07:13:53.760175",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:16.000824",
+      "time": "2026-11-23T07:13:53.872453",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "title": "A Partial Evaluator for C",
+      "url": "https://phoenix.labri.fr/software/tempo/",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:16.085284",
+      "time": "2026-11-23T07:13:53.971622",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:16.209483",
+      "time": "2026-11-23T07:13:54.070449",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Detonating a pile of lead azide",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:16.286303",
-      "heat": 700,
-      "category": "tech"
-    },
-    {
-      "title": "Getting the mind to steer the body to steer you",
-      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "source": "Hacker News",
-      "time": "2026-11-22T06:23:16.370794",
+      "time": "2026-11-23T07:13:54.273757",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:16.460922",
+      "time": "2026-11-23T07:13:54.383964",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "My monitor was cutting my download speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
       "source": "Hacker News",
-      "time": "2026-11-22T06:23:16.542658",
+      "time": "2026-11-23T07:13:54.487005",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "mattj-x96k7/jujutsu-infinite-script",
+      "url": "https://github.com/mattj-x96k7/jujutsu-infinite-script",
+      "source": "GitHub",
+      "time": "2026-11-23T07:13:55.491305",
+      "heat": 312,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-22T06:23:17.235617"
+  "updated_at": "2026-11-23T07:13:55.491980"
 }

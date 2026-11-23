@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-11-22T06:23:17.236489"
+  "news": [
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "source": "Hacker News",
+      "time": "2026-11-23T07:13:54.168735",
+      "heat": 700,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-11-23T07:13:55.492611"
 }
