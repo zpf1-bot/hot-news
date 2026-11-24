@@ -1,4 +1,21 @@
 {
-  "news": [],
-  "updated_at": "2026-11-23T07:13:55.492356"
+  "news": [
+    {
+      "title": "ViMonts12/polymarket-perp-dex-clob-15m-crypto-up-talerin",
+      "url": "https://github.com/ViMonts12/polymarket-perp-dex-clob-15m-crypto-up-talerin",
+      "source": "GitHub",
+      "time": "2026-11-24T09:37:29.865911",
+      "heat": 177,
+      "category": "tech"
+    },
+    {
+      "title": "Achyuta998/polymarket-perp-dex-hyperliquid-vault-market-maker-bedaren",
+      "url": "https://github.com/Achyuta998/polymarket-perp-dex-hyperliquid-vault-market-maker-bedaren",
+      "source": "GitHub",
+      "time": "2026-11-24T09:37:29.865918",
+      "heat": 177,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-11-24T09:37:29.866877"
 }

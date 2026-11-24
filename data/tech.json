@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
+      "title": "2035 Came Early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:53.568362",
+      "time": "2026-11-24T09:37:28.137148",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "url": "https://github.com/AFK-surf/xnulinux",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:53.664096",
+      "time": "2026-11-24T09:37:28.215616",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Masullo on the Riemann Hypothesis",
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:53.760175",
+      "time": "2026-11-24T09:37:28.309738",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:53.872453",
+      "time": "2026-11-24T09:37:28.386166",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "A Partial Evaluator for C",
-      "url": "https://phoenix.labri.fr/software/tempo/",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:53.971622",
+      "time": "2026-11-24T09:37:28.467008",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+      "title": "Drone Maps of Salvage Yards",
+      "url": "https://salvageyarddrone.wordpress.com/",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:54.070449",
+      "time": "2026-11-24T09:37:28.538979",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "title": "Modernizing iperf/iperf3 and introducing fireperf",
+      "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:54.273757",
+      "time": "2026-11-24T09:37:28.608310",
+      "heat": 700,
+      "category": "tech"
+    },
+    {
+      "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+      "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+      "source": "Hacker News",
+      "time": "2026-11-24T09:37:28.678529",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "title": "Ride the SQL curve from basics to mastery",
+      "url": "https://sqlride.com/",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:54.383964",
+      "time": "2026-11-24T09:37:28.751251",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "url": "https://smallsf.com/",
+      "title": "Lowering Perplexity Without Scaling",
+      "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
       "source": "Hacker News",
-      "time": "2026-11-23T07:13:54.487005",
+      "time": "2026-11-24T09:37:28.824131",
       "heat": 550,
-      "category": "tech"
-    },
-    {
-      "title": "mattj-x96k7/jujutsu-infinite-script",
-      "url": "https://github.com/mattj-x96k7/jujutsu-infinite-script",
-      "source": "GitHub",
-      "time": "2026-11-23T07:13:55.491305",
-      "heat": 312,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-23T07:13:55.491980"
+  "updated_at": "2026-11-24T09:37:29.866512"
 }
