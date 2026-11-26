@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Zettrox/ztrx",
-      "url": "https://github.com/Zettrox/ztrx",
-      "source": "GitHub",
-      "time": "2026-11-25T08:08:47.149341",
-      "heat": 1003,
-      "category": "tech"
-    },
-    {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:45.268805",
+      "time": "2026-11-26T07:57:42.379792",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:45.386943",
+      "time": "2026-11-26T07:57:42.544609",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:45.505082",
+      "time": "2026-11-26T07:57:42.640959",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
+      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+      "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:45.622008",
+      "time": "2026-11-26T07:57:42.729240",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Ternary Bonsai 2.5 27B",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:45.750514",
+      "time": "2026-11-26T07:57:42.869637",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "title": "codec-d/cool_fox",
+      "url": "https://github.com/codec-d/cool_fox",
+      "source": "GitHub",
+      "time": "2026-11-26T07:57:44.428764",
+      "heat": 751,
+      "category": "tech"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:45.868788",
+      "time": "2026-11-26T07:57:43.009130",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:45.980936",
+      "time": "2026-11-26T07:57:43.147769",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:46.099256",
+      "time": "2026-11-26T07:57:43.250538",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
       "source": "Hacker News",
-      "time": "2026-11-25T08:08:46.214539",
+      "time": "2026-11-26T07:57:43.366596",
       "heat": 600,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-25T08:08:47.149856"
+  "updated_at": "2026-11-26T07:57:44.429546"
 }
