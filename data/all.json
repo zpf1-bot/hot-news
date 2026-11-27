@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://construct22.com/",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:42.379792",
+      "time": "2026-11-27T07:58:58.776918",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "title": "The need for a formally verifiable mainstream programming language",
+      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:42.544609",
+      "time": "2026-11-27T07:58:58.841998",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:42.640959",
+      "time": "2026-11-27T07:58:58.918097",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-      "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+      "title": "Hard Drive pricing has gotten bad",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:42.729240",
+      "time": "2026-11-27T07:58:58.987445",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:42.869637",
+      "time": "2026-11-27T07:58:59.060317",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "codec-d/cool_fox",
-      "url": "https://github.com/codec-d/cool_fox",
-      "source": "GitHub",
-      "time": "2026-11-26T07:57:44.428764",
-      "heat": 751,
-      "category": "tech"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:43.009130",
+      "time": "2026-11-27T07:58:59.130283",
       "heat": 750,
       "category": "tech"
     },
     {
-      "title": "Minipg: PostgreSQL as a Single Executable",
-      "url": "https://progrium.github.io/minipg/",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:43.147769",
+      "time": "2026-11-27T07:58:59.215295",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864",
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:43.250538",
+      "time": "2026-11-27T07:58:59.286801",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Collection of preserved UI style guides",
-      "url": "https://aresluna.org/ui-style-guides/",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
       "source": "Hacker News",
-      "time": "2026-11-26T07:57:43.366596",
+      "time": "2026-11-27T07:58:59.356206",
       "heat": 600,
+      "category": "tech"
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "source": "Hacker News",
+      "time": "2026-11-27T07:58:59.424190",
+      "heat": 550,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-26T07:57:44.428885"
+  "updated_at": "2026-11-27T07:59:00.018703"
 }
