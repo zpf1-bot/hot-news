@@ -1,4 +1,13 @@
 {
-  "news": [],
-  "updated_at": "2026-11-27T07:59:00.019451"
+  "news": [
+    {
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "source": "Hacker News",
+      "time": "2026-11-28T07:28:36.601818",
+      "heat": 750,
+      "category": "tech"
+    }
+  ],
+  "updated_at": "2026-11-28T07:28:38.554131"
 }

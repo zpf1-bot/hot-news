@@ -1,85 +1,85 @@
 {
   "news": [
     {
-      "title": "The group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:58.776918",
+      "time": "2026-11-28T07:28:35.417323",
       "heat": 1000,
       "category": "tech"
     },
     {
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:58.841998",
+      "time": "2026-11-28T07:28:35.547458",
       "heat": 950,
       "category": "tech"
     },
     {
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:58.918097",
+      "time": "2026-11-28T07:28:35.900832",
       "heat": 900,
       "category": "tech"
     },
     {
-      "title": "Hard Drive pricing has gotten bad",
-      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:58.987445",
+      "time": "2026-11-28T07:28:36.040452",
       "heat": 850,
       "category": "tech"
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "url": "https://github.com/antonpictures/youtube-punisher",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:59.060317",
+      "time": "2026-11-28T07:28:36.308059",
       "heat": 800,
       "category": "tech"
     },
     {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:59.130283",
-      "heat": 750,
-      "category": "tech"
-    },
-    {
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "source": "Hacker News",
-      "time": "2026-11-27T07:58:59.215295",
+      "time": "2026-11-28T07:28:36.721178",
       "heat": 700,
       "category": "tech"
     },
     {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "title": "Sydney Fire Ant Infestation",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:59.286801",
+      "time": "2026-11-28T07:28:37.055237",
       "heat": 650,
       "category": "tech"
     },
     {
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:59.356206",
+      "time": "2026-11-28T07:28:37.407086",
       "heat": 600,
       "category": "tech"
     },
     {
-      "title": "Intel One Mono font (2023)",
-      "url": "https://github.com/intel/intel-one-mono",
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
       "source": "Hacker News",
-      "time": "2026-11-27T07:58:59.424190",
+      "time": "2026-11-28T07:28:37.829969",
       "heat": 550,
+      "category": "tech"
+    },
+    {
+      "title": "sergeijang/windows-11-activator",
+      "url": "https://github.com/sergeijang/windows-11-activator",
+      "source": "GitHub",
+      "time": "2026-11-28T07:28:38.552865",
+      "heat": 374,
       "category": "tech"
     }
   ],
-  "updated_at": "2026-11-27T07:59:00.019078"
+  "updated_at": "2026-11-28T07:28:38.553502"
 }
